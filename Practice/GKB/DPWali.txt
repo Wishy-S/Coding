@@ -1,0 +1,2 @@
+!!!! Very important thing to notice about problems in dp
+whenever some big input comes then leave array and vectors go with the maps (best way) and try to apply top-down OR memoisation approach instead bottom-up approach because in bottom-up OR tabulation we need to store more results as compare to in case Memoisation

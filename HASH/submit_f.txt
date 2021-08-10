@@ -1,0 +1,13325 @@
+1662
+0
+29
+b-a 1991
+bc-a 1991
+bca-a 1991
+bd-a 1991
+bde-a 1991
+bed-a 1991
+bh-a 1991
+bhi-a 1991
+bjc-a 1991
+c-a 1991
+cc-a 1991
+cd-a 1991
+cg-a 1991
+d-a 1991
+dd-a 1991
+die-a 1991
+e-a 1991
+eb-a 1991
+edc-a 1991
+f-a 1991
+fa-a 1991
+fe-a 1991
+ff-a 1991
+g-a 1991
+gc-a 1991
+gf-a 1991
+hda-a 1991
+hg-a 1991
+j-a 1991
+1
+31
+a-b 1991
+ba-b 1991
+baa-b 1991
+bbg-b 1991
+bd-b 1991
+bfh-b 1991
+bh-b 1991
+bhc-b 1991
+bi-b 1991
+bj-b 1991
+cfe-b 1991
+cjj-b 1991
+d-b 1991
+dab-b 1991
+dae-b 1991
+dd-b 1991
+dg-b 1991
+e-b 1991
+ec-b 1991
+eg-b 1991
+ehb-b 1991
+f-b 1991
+fa-b 1991
+faa-b 1991
+fbj-b 1991
+fde-b 1991
+fdj-b 1991
+g-b 1991
+ib-b 1991
+ibb-b 1991
+icj-b 1991
+2
+29
+a-c 1991
+b-c 1991
+ba-c 1991
+bbe-c 1991
+bg-c 1991
+bhc-c 1991
+bi-c 1991
+bib-c 1991
+bic-c 1991
+bih-c 1991
+cc-c 1991
+ce-c 1991
+ceb-c 1991
+cfg-c 1991
+d-c 1991
+dgc-c 1991
+dgj-c 1991
+di-c 1991
+e-c 1991
+egc-c 1991
+f-c 1991
+fb-c 1991
+fcd-c 1991
+fhf-c 1991
+gf-c 1991
+hdb-c 1991
+hh-c 1991
+ifb-c 1991
+j-c 1991
+3
+28
+a-d 1991
+ba-d 1991
+bb-d 1991
+bcb-d 1991
+bf-d 1991
+bjg-d 1991
+c-d 1991
+ca-d 1991
+caj-d 1991
+cb-d 1991
+cbd-d 1991
+cd-d 1991
+da-d 1991
+dae-d 1991
+df-d 1991
+e-d 1991
+eai-d 1991
+ebi-d 1991
+eid-d 1991
+fbd-d 1991
+fd-d 1991
+fe-d 1991
+g-d 1991
+h-d 1991
+hcj-d 1991
+hh-d 1991
+ii-d 1991
+jc-d 1991
+4
+24
+b-e 1991
+bb-e 1991
+bch-e 1991
+bf-e 1991
+bhh-e 1991
+bj-e 1991
+c-e 1991
+ca-e 1991
+cba-e 1991
+cd-e 1991
+cje-e 1991
+d-e 1991
+ddf-e 1991
+ei-e 1991
+f-e 1991
+g-e 1991
+gej-e 1991
+h-e 1991
+hic-e 1991
+i-e 1991
+ja-e 1991
+jb-e 1991
+jdj-e 1991
+jg-e 1991
+5
+30
+a-f 1991
+ba-f 1991
+bag-f 1991
+bc-f 1991
+bd-f 1991
+bda-f 1991
+bde-f 1991
+bdh-f 1991
+bdjf-f 1991
+bea-f 1991
+behi-f 1991
+bg-f 1991
+bi-f 1991
+ca-f 1991
+cf-f 1991
+cg-f 1991
+cgd-f 1991
+ch-f 1991
+d-f 1991
+df-f 1991
+e-f 1991
+fd-f 1991
+ff-f 1991
+g-f 1991
+gd-f 1991
+i-f 1991
+ie-f 1991
+ig-f 1991
+jbb-f 1991
+jcc-f 1991
+6
+26
+a-g 1991
+baj-g 1991
+bb-g 1991
+bc-g 1991
+bd-g 1991
+bde-g 1991
+bedj-g 1991
+bf-g 1991
+bfg-g 1991
+bfi-g 1991
+cfb-g 1991
+ch-g 1991
+ddc-g 1991
+dj-g 1991
+ehc-g 1991
+eie-g 1991
+f-g 1991
+gf-g 1991
+gic-g 1991
+gig-g 1991
+h-g 1991
+hi-g 1991
+i-g 1991
+ib-g 1991
+iee-g 1991
+ig-g 1991
+7
+16
+a-h 1991
+bcg-h 1991
+bfa-h 1991
+bjj-h 1991
+d-h 1991
+dc-h 1991
+di-h 1991
+e-h 1991
+eg-h 1991
+f-h 1991
+fac-h 1991
+faf-h 1991
+fb-h 1991
+ff-h 1991
+i-h 1991
+je-h 1991
+8
+24
+b-i 1991
+ba-i 1991
+bahi-i 1991
+bc-i 1991
+bh-i 1991
+bhe-i 1991
+cgi-i 1991
+cic-i 1991
+cji-i 1991
+d-i 1991
+da-i 1991
+db-i 1991
+dde-i 1991
+dj-i 1991
+eb-i 1991
+ec-i 1991
+egj-i 1991
+ei-i 1991
+ej-i 1991
+g-i 1991
+gb-i 1991
+geg-i 1991
+gie-i 1991
+hb-i 1991
+9
+25
+a-j 1991
+b-j 1991
+ba-j 1991
+bab-j 1991
+bc-j 1991
+bdc-j 1991
+bi-j 1991
+bij-j 1991
+c-j 1991
+cbd-j 1991
+cda-j 1991
+ce-j 1991
+cjg-j 1991
+eb-j 1991
+ee-j 1991
+eeh-j 1991
+f-j 1991
+faa-j 1991
+fb-j 1991
+fbj-j 1991
+g-j 1991
+ga-j 1991
+heg-j 1991
+ifj-j 1991
+ih-j 1991
+10
+23
+a-ba 1991
+bbc-ba 1991
+bc-ba 1991
+bdi-ba 1991
+bei-ba 1991
+bi-ba 1991
+bia-ba 1991
+bjd-ba 1991
+bjj-ba 1991
+cb-ba 1991
+ceb-ba 1991
+ceg-ba 1991
+dai-ba 1991
+dhf-ba 1991
+di-ba 1991
+ea-ba 1991
+eic-ba 1991
+f-ba 1991
+fb-ba 1991
+g-ba 1991
+ge-ba 1991
+h-ba 1991
+hj-ba 1991
+11
+25
+ba-bb 1991
+bae-bb 1991
+bcb-bb 1991
+bcea-bb 1991
+bcef-bb 1991
+bd-bb 1991
+be-bb 1991
+beb-bb 1991
+bee-bb 1991
+bg-bb 1991
+bgf-bb 1991
+bh-bb 1991
+cb-bb 1991
+cd-bb 1991
+ced-bb 1991
+cf-bb 1991
+cic-bb 1991
+cj-bb 1991
+ece-bb 1991
+fa-bb 1991
+gc-bb 1991
+i-bb 1991
+ib-bb 1991
+jdh-bb 1991
+je-bb 1991
+12
+24
+b-bc 1991
+ba-bc 1991
+baid-bc 1991
+bbf-bc 1991
+bd-bc 1991
+bf-bc 1991
+bfh-bc 1991
+bh-bc 1991
+bi-bc 1991
+bjg-bc 1991
+c-bc 1991
+ccj-bc 1991
+cf-bc 1991
+chb-bc 1991
+daa-bc 1991
+ddf-bc 1991
+de-bc 1991
+dgf-bc 1991
+eb-bc 1991
+fd-bc 1991
+fe-bc 1991
+ge-bc 1991
+h-bc 1991
+hbf-bc 1991
+13
+25
+a-bd 1991
+ba-bd 1991
+baa-bd 1991
+bab-bd 1991
+bdi-bd 1991
+bei-bd 1991
+bejh-bd 1991
+bgi-bd 1991
+bi-bd 1991
+c-bd 1991
+cb-bd 1991
+cch-bd 1991
+ce-bd 1991
+cge-bd 1991
+cjb-bd 1991
+da-bd 1991
+dae-bd 1991
+e-bd 1991
+ea-bd 1991
+eg-bd 1991
+fi-bd 1991
+ghc-bd 1991
+h-bd 1991
+icf-bd 1991
+jb-bd 1991
+14
+35
+babg-be 1991
+bah-be 1991
+bb-be 1991
+bbbj-be 1991
+bc-be 1991
+beai-be 1991
+bg-be 1991
+bgj-be 1991
+bjh-be 1991
+ca-be 1991
+cbj-be 1991
+cfh-be 1991
+cg-be 1991
+chc-be 1991
+ci-be 1991
+cj-be 1991
+cjg-be 1991
+d-be 1991
+dcj-be 1991
+de-be 1991
+dea-be 1991
+dha-be 1991
+ed-be 1991
+ej-be 1991
+fci-be 1991
+fec-be 1991
+ff-be 1991
+fj-be 1991
+fje-be 1991
+g-be 1991
+ge-be 1991
+hd-be 1991
+hh-be 1991
+ih-be 1991
+jd-be 1991
+15
+20
+b-bf 1991
+bace-bf 1991
+bbjg-bf 1991
+bd-bf 1991
+bdf-bf 1991
+bee-bf 1991
+bg-bf 1991
+bhg-bf 1991
+bif-bf 1991
+cb-bf 1991
+d-bf 1991
+def-bf 1991
+dh-bf 1991
+e-bf 1991
+ebi-bf 1991
+eg-bf 1991
+gig-bf 1991
+h-bf 1991
+hi-bf 1991
+iif-bf 1991
+16
+30
+b-bg 1991
+baae-bg 1991
+bc-bg 1991
+bdii-bg 1991
+bffd-bg 1991
+bi-bg 1991
+cdf-bg 1991
+cfd-bg 1991
+cg-bg 1991
+cj-bg 1991
+d-bg 1991
+db-bg 1991
+eaa-bg 1991
+ehf-bg 1991
+f-bg 1991
+fab-bg 1991
+fdi-bg 1991
+fib-bg 1991
+gbc-bg 1991
+gdj-bg 1991
+gge-bg 1991
+gj-bg 1991
+h-bg 1991
+had-bg 1991
+iag-bg 1991
+ice-bg 1991
+ieg-bg 1991
+ij-bg 1991
+jf-bg 1991
+jj-bg 1991
+17
+30
+a-bh 1991
+b-bh 1991
+bb-bh 1991
+bc-bh 1991
+bee-bh 1991
+bf-bh 1991
+bff-bh 1991
+bfh-bh 1991
+bgeh-bh 1991
+bj-bh 1991
+c-bh 1991
+ce-bh 1991
+ci-bh 1991
+dhi-bh 1991
+dii-bh 1991
+ec-bh 1991
+ed-bh 1991
+ei-bh 1991
+ej-bh 1991
+gg-bh 1991
+gi-bh 1991
+h-bh 1991
+hb-bh 1991
+hg-bh 1991
+hjd-bh 1991
+ia-bh 1991
+ihc-bh 1991
+ihi-bh 1991
+j-bh 1991
+jji-bh 1991
+18
+25
+a-bi 1991
+babg-bi 1991
+bad-bi 1991
+bc-bi 1991
+bce-bi 1991
+bcg-bi 1991
+bd-bi 1991
+bec-bi 1991
+bfe-bi 1991
+bg-bi 1991
+bj-bi 1991
+cb-bi 1991
+ci-bi 1991
+da-bi 1991
+e-bi 1991
+ed-bi 1991
+f-bi 1991
+fd-bi 1991
+feh-bi 1991
+fic-bi 1991
+h-bi 1991
+he-bi 1991
+hej-bi 1991
+hh-bi 1991
+jj-bi 1991
+19
+25
+bb-bj 1991
+bbb-bj 1991
+bc-bj 1991
+bcf-bj 1991
+bda-bj 1991
+bdbf-bj 1991
+bgg-bj 1991
+cbi-bj 1991
+cc-bj 1991
+cfc-bj 1991
+ch-bj 1991
+cii-bj 1991
+cj-bj 1991
+cja-bj 1991
+db-bj 1991
+dcc-bj 1991
+de-bj 1991
+dg-bj 1991
+dhf-bj 1991
+f-bj 1991
+ff-bj 1991
+gb-bj 1991
+h-bj 1991
+hcj-bj 1991
+ie-bj 1991
+20
+15
+bai-ca 1991
+c-ca 1991
+cb-ca 1991
+cc-ca 1991
+cd-ca 1991
+dfg-ca 1991
+di-ca 1991
+ee-ca 1991
+ff-ca 1991
+g-ca 1991
+ggf-ca 1991
+gjh-ca 1991
+h-ca 1991
+hb-ca 1991
+j-ca 1991
+21
+27
+ba-cb 1991
+beb-cb 1991
+bg-cb 1991
+bge-cb 1991
+bi-cb 1991
+bjj-cb 1991
+cad-cb 1991
+cc-cb 1991
+cf-cb 1991
+ch-cb 1991
+ci-cb 1991
+cia-cb 1991
+d-cb 1991
+dcc-cb 1991
+dh-cb 1991
+did-cb 1991
+eb-cb 1991
+ecj-cb 1991
+edb-cb 1991
+ee-cb 1991
+eie-cb 1991
+ej-cb 1991
+fd-cb 1991
+fg-cb 1991
+hch-cb 1991
+ih-cb 1991
+jjg-cb 1991
+22
+23
+a-cc 1991
+ba-cc 1991
+badc-cc 1991
+bb-cc 1991
+bbf-cc 1991
+bcg-cc 1991
+bf-cc 1991
+bgj-cc 1991
+bid-cc 1991
+cb-cc 1991
+ccf-cc 1991
+cec-cc 1991
+da-cc 1991
+df-cc 1991
+dgf-cc 1991
+dgg-cc 1991
+ef-cc 1991
+f-cc 1991
+ff-cc 1991
+gb-cc 1991
+hei-cc 1991
+id-cc 1991
+jgi-cc 1991
+23
+18
+bcaj-cd 1991
+bcd-cd 1991
+bee-cd 1991
+bfc-cd 1991
+bh-cd 1991
+bhd-cd 1991
+bie-cd 1991
+cb-cd 1991
+ch-cd 1991
+dbg-cd 1991
+dcj-cd 1991
+e-cd 1991
+ea-cd 1991
+ehc-cd 1991
+fae-cd 1991
+ffb-cd 1991
+fi-cd 1991
+gfa-cd 1991
+24
+19
+b-ce 1991
+be-ce 1991
+bhg-ce 1991
+bhi-ce 1991
+bi-ce 1991
+cb-ce 1991
+cdb-ce 1991
+dbj-ce 1991
+df-ce 1991
+dfi-ce 1991
+dj-ce 1991
+ef-ce 1991
+f-ce 1991
+fbi-ce 1991
+gb-ce 1991
+i-ce 1991
+idj-ce 1991
+jag-ce 1991
+jgf-ce 1991
+25
+27
+a-cf 1991
+ba-cf 1991
+bbci-cf 1991
+bbh-cf 1991
+bc-cf 1991
+bcc-cf 1991
+bgb-cf 1991
+cb-cf 1991
+cbb-cf 1991
+cc-cf 1991
+cd-cf 1991
+def-cf 1991
+eac-cf 1991
+fh-cf 1991
+fhg-cf 1991
+fj-cf 1991
+g-cf 1991
+gb-cf 1991
+gf-cf 1991
+gg-cf 1991
+gh-cf 1991
+ha-cf 1991
+hi-cf 1991
+i-cf 1991
+ie-cf 1991
+jb-cf 1991
+jch-cf 1991
+26
+18
+baf-cg 1991
+bd-cg 1991
+bfb-cg 1991
+ca-cg 1991
+cf-cg 1991
+chb-cg 1991
+cjd-cg 1991
+d-cg 1991
+de-cg 1991
+deb-cg 1991
+deg-cg 1991
+dj-cg 1991
+ed-cg 1991
+eh-cg 1991
+ei-cg 1991
+fh-cg 1991
+hhc-cg 1991
+ihd-cg 1991
+27
+18
+b-ch 1991
+bb-ch 1991
+bbdc-ch 1991
+bcg-ch 1991
+bf-ch 1991
+bjd-ch 1991
+cd-ch 1991
+ce-ch 1991
+ddb-ch 1991
+df-ch 1991
+dji-ch 1991
+fe-ch 1991
+fj-ch 1991
+ga-ch 1991
+gj-ch 1991
+hch-ch 1991
+ib-ch 1991
+jgg-ch 1991
+28
+22
+a-ci 1991
+bc-ci 1991
+be-ci 1991
+befi-ci 1991
+bfff-ci 1991
+bffg-ci 1991
+bh-ci 1991
+cf-ci 1991
+cg-ci 1991
+d-ci 1991
+dc-ci 1991
+dd-ci 1991
+ddh-ci 1991
+def-ci 1991
+dh-ci 1991
+eb-ci 1991
+ejg-ci 1991
+fa-ci 1991
+gbg-ci 1991
+hfh-ci 1991
+hif-ci 1991
+j-ci 1991
+29
+23
+b-cj 1991
+bbd-cj 1991
+bbi-cj 1991
+bbj-cj 1991
+bfgd-cj 1991
+bgc-cj 1991
+cae-cj 1991
+cfh-cj 1991
+cg-cj 1991
+ci-cj 1991
+d-cj 1991
+da-cj 1991
+eg-cj 1991
+egd-cj 1991
+fbi-cj 1991
+fi-cj 1991
+gca-cj 1991
+gf-cj 1991
+ggb-cj 1991
+h-cj 1991
+ijg-cj 1991
+jc-cj 1991
+jd-cj 1991
+30
+18
+b-da 1991
+bcei-da 1991
+bdd-da 1991
+bdf-da 1991
+beib-da 1991
+bgc-da 1991
+bhd-da 1991
+ccc-da 1991
+cdc-da 1991
+cg-da 1991
+dcj-da 1991
+ea-da 1991
+eej-da 1991
+fai-da 1991
+gda-da 1991
+gg-da 1991
+he-da 1991
+hf-da 1991
+31
+18
+bbde-db 1991
+bc-db 1991
+bgg-db 1991
+bgj-db 1991
+cbh-db 1991
+cd-db 1991
+cde-db 1991
+ce-db 1991
+cec-db 1991
+cfj-db 1991
+cja-db 1991
+ddi-db 1991
+edb-db 1991
+gi-db 1991
+gj-db 1991
+id-db 1991
+ij-db 1991
+ja-db 1991
+32
+20
+ba-dc 1991
+bbgj-dc 1991
+bef-dc 1991
+bfb-dc 1991
+big-dc 1991
+cb-dc 1991
+cja-dc 1991
+dde-dc 1991
+dgf-dc 1991
+di-dc 1991
+ecg-dc 1991
+ee-dc 1991
+fjb-dc 1991
+hh-dc 1991
+iag-dc 1991
+iej-dc 1991
+ifh-dc 1991
+j-dc 1991
+jbf-dc 1991
+je-dc 1991
+33
+15
+a-dd 1991
+babg-dd 1991
+bc-dd 1991
+bgc-dd 1991
+ca-dd 1991
+cgh-dd 1991
+cj-dd 1991
+db-dd 1991
+dfg-dd 1991
+dha-dd 1991
+ef-dd 1991
+efc-dd 1991
+fc-dd 1991
+ggj-dd 1991
+ji-dd 1991
+34
+15
+bbd-de 1991
+bdj-de 1991
+bhe-de 1991
+cc-de 1991
+cf-de 1991
+cg-de 1991
+da-de 1991
+di-de 1991
+eih-de 1991
+fb-de 1991
+fc-de 1991
+ghj-de 1991
+gi-de 1991
+gig-de 1991
+i-de 1991
+35
+16
+bd-df 1991
+bfb-df 1991
+bfgb-df 1991
+bgca-df 1991
+cb-df 1991
+ch-df 1991
+ci-df 1991
+cjb-df 1991
+d-df 1991
+eaf-df 1991
+ebe-df 1991
+ej-df 1991
+gc-df 1991
+ibf-df 1991
+iei-df 1991
+igi-df 1991
+36
+24
+bc-dg 1991
+bcag-dg 1991
+bcii-dg 1991
+bdb-dg 1991
+bdfc-dg 1991
+bebe-dg 1991
+bed-dg 1991
+bf-dg 1991
+bgfe-dg 1991
+ca-dg 1991
+cbf-dg 1991
+ce-dg 1991
+cee-dg 1991
+dbj-dg 1991
+di-dg 1991
+dj-dg 1991
+ef-dg 1991
+eg-dg 1991
+f-dg 1991
+fb-dg 1991
+ff-dg 1991
+ffb-dg 1991
+hah-dg 1991
+hh-dg 1991
+37
+20
+bad-dh 1991
+bagf-dh 1991
+beac-dh 1991
+bf-dh 1991
+bg-dh 1991
+ca-dh 1991
+cc-dh 1991
+cj-dh 1991
+db-dh 1991
+dc-dh 1991
+deh-dh 1991
+ecc-dh 1991
+fa-dh 1991
+fc-dh 1991
+gcd-dh 1991
+gh-dh 1991
+hh-dh 1991
+hha-dh 1991
+j-dh 1991
+jg-dh 1991
+38
+26
+ba-di 1991
+bab-di 1991
+bai-di 1991
+bbig-di 1991
+bdj-di 1991
+beh-di 1991
+bfi-di 1991
+bgf-di 1991
+bjd-di 1991
+bje-di 1991
+cbj-di 1991
+cc-di 1991
+ce-di 1991
+cg-di 1991
+cja-di 1991
+dc-di 1991
+eb-di 1991
+fc-di 1991
+fe-di 1991
+ff-di 1991
+gc-di 1991
+gf-di 1991
+haf-di 1991
+hh-di 1991
+hj-di 1991
+jc-di 1991
+39
+20
+b-dj 1991
+bbie-dj 1991
+bbj-dj 1991
+bd-dj 1991
+be-dj 1991
+bg-dj 1991
+cbh-dj 1991
+cdf-dj 1991
+cei-dj 1991
+cf-dj 1991
+ef-dj 1991
+fgc-dj 1991
+fh-dj 1991
+fj-dj 1991
+gc-dj 1991
+gd-dj 1991
+gdb-dj 1991
+hfi-dj 1991
+hhb-dj 1991
+ih-dj 1991
+40
+22
+baj-ea 1991
+bbf-ea 1991
+bcdh-ea 1991
+be-ea 1991
+bec-ea 1991
+bi-ea 1991
+bjj-ea 1991
+cgg-ea 1991
+d-ea 1991
+dbb-ea 1991
+dd-ea 1991
+eb-ea 1991
+ed-ea 1991
+eee-ea 1991
+eh-ea 1991
+fda-ea 1991
+fih-ea 1991
+h-ea 1991
+hb-ea 1991
+if-ea 1991
+jff-ea 1991
+jjh-ea 1991
+41
+23
+a-eb 1991
+bbfc-eb 1991
+bi-eb 1991
+bia-eb 1991
+cbi-eb 1991
+cda-eb 1991
+cdi-eb 1991
+cgi-eb 1991
+ch-eb 1991
+ci-eb 1991
+cji-eb 1991
+d-eb 1991
+dbh-eb 1991
+dg-eb 1991
+ei-eb 1991
+ffi-eb 1991
+fih-eb 1991
+ga-eb 1991
+h-eb 1991
+hac-eb 1991
+hc-eb 1991
+i-eb 1991
+ia-eb 1991
+42
+11
+bb-ec 1991
+bd-ec 1991
+cdc-ec 1991
+ci-ec 1991
+ege-ec 1991
+fc-ec 1991
+fi-ec 1991
+fj-ec 1991
+gh-ec 1991
+id-ec 1991
+ih-ec 1991
+43
+16
+bbg-ed 1991
+bcc-ed 1991
+bcia-ed 1991
+bej-ed 1991
+bfdc-ed 1991
+bfe-ed 1991
+bff-ed 1991
+bj-ed 1991
+chj-ed 1991
+dde-ed 1991
+dg-ed 1991
+eb-ed 1991
+ech-ed 1991
+edf-ed 1991
+he-ed 1991
+jgf-ed 1991
+44
+24
+a-ee 1991
+bacc-ee 1991
+bb-ee 1991
+bbe-ee 1991
+bbg-ee 1991
+bee-ee 1991
+beh-ee 1991
+bhc-ee 1991
+bj-ee 1991
+bjb-ee 1991
+cb-ee 1991
+cfb-ee 1991
+che-ee 1991
+db-ee 1991
+dd-ee 1991
+dj-ee 1991
+eab-ee 1991
+ejg-ee 1991
+f-ee 1991
+g-ee 1991
+gh-ee 1991
+gj-ee 1991
+hf-ee 1991
+ie-ee 1991
+45
+18
+bbih-ef 1991
+bca-ef 1991
+bec-ef 1991
+beeh-ef 1991
+bgb-ef 1991
+bgd-ef 1991
+bif-ef 1991
+cej-ef 1991
+ch-ef 1991
+cih-ef 1991
+cij-ef 1991
+cj-ef 1991
+egh-ef 1991
+gb-ef 1991
+gg-ef 1991
+h-ef 1991
+ig-ef 1991
+ige-ef 1991
+46
+17
+bb-eg 1991
+bcd-eg 1991
+bdj-eg 1991
+cb-eg 1991
+cbg-eg 1991
+cci-eg 1991
+ch-eg 1991
+cha-eg 1991
+eh-eg 1991
+ej-eg 1991
+fa-eg 1991
+fdi-eg 1991
+ffd-eg 1991
+fi-eg 1991
+ggg-eg 1991
+hc-eg 1991
+jd-eg 1991
+47
+25
+bbci-eh 1991
+bbei-eh 1991
+bbf-eh 1991
+bbfg-eh 1991
+bc-eh 1991
+bcba-eh 1991
+bgd-eh 1991
+bhh-eh 1991
+bjb-eh 1991
+c-eh 1991
+cda-eh 1991
+cg-eh 1991
+cgc-eh 1991
+chh-eh 1991
+dd-eh 1991
+ebg-eh 1991
+eeg-eh 1991
+fdd-eh 1991
+fdi-eh 1991
+fe-eh 1991
+fg-eh 1991
+gdh-eh 1991
+h-eh 1991
+ig-eh 1991
+jg-eh 1991
+48
+19
+baj-ei 1991
+bb-ei 1991
+bba-ei 1991
+bbj-ei 1991
+bbje-ei 1991
+bcjf-ei 1991
+bdg-ei 1991
+be-ei 1991
+bf-ei 1991
+bgf-ei 1991
+bhj-ei 1991
+cbh-ei 1991
+cg-ei 1991
+dff-ei 1991
+dj-ei 1991
+eci-ei 1991
+ed-ei 1991
+ga-ei 1991
+jfj-ei 1991
+49
+29
+baf-ej 1991
+baig-ej 1991
+bb-ej 1991
+bdc-ej 1991
+bfj-ej 1991
+bjc-ej 1991
+ca-ej 1991
+cai-ej 1991
+cd-ej 1991
+ceb-ej 1991
+da-ej 1991
+db-ej 1991
+de-ej 1991
+di-ej 1991
+ecc-ej 1991
+ece-ej 1991
+ed-ej 1991
+eg-ej 1991
+ehj-ej 1991
+eic-ej 1991
+gce-ej 1991
+gg-ej 1991
+hac-ej 1991
+hd-ej 1991
+ig-ej 1991
+ii-ej 1991
+ja-ej 1991
+jdh-ej 1991
+jia-ej 1991
+50
+16
+bc-fa 1991
+bcb-fa 1991
+bhg-fa 1991
+bih-fa 1991
+cc-fa 1991
+cfg-fa 1991
+cic-fa 1991
+de-fa 1991
+dhe-fa 1991
+fd-fa 1991
+ga-fa 1991
+gh-fa 1991
+hg-fa 1991
+jf-fa 1991
+ji-fa 1991
+jji-fa 1991
+51
+12
+bcch-fb 1991
+bd-fb 1991
+bdc-fb 1991
+bj-fb 1991
+dfa-fb 1991
+di-fb 1991
+fe-fb 1991
+g-fb 1991
+ghc-fb 1991
+he-fb 1991
+ig-fb 1991
+jj-fb 1991
+52
+14
+bbb-fc 1991
+bcj-fc 1991
+bfch-fc 1991
+bi-fc 1991
+ccb-fc 1991
+cci-fc 1991
+cgb-fc 1991
+dch-fc 1991
+eab-fc 1991
+f-fc 1991
+fif-fc 1991
+j-fc 1991
+jb-fc 1991
+jf-fc 1991
+53
+17
+baa-fd 1991
+baf-fd 1991
+bai-fd 1991
+bca-fd 1991
+bdd-fd 1991
+bia-fd 1991
+da-fd 1991
+daf-fd 1991
+dd-fd 1991
+deb-fd 1991
+dfb-fd 1991
+dhe-fd 1991
+eg-fd 1991
+fe-fd 1991
+fg-fd 1991
+j-fd 1991
+je-fd 1991
+54
+19
+bbc-fe 1991
+bc-fe 1991
+bci-fe 1991
+bge-fe 1991
+bhh-fe 1991
+bjg-fe 1991
+bjj-fe 1991
+cag-fe 1991
+cie-fe 1991
+dbh-fe 1991
+dcc-fe 1991
+dei-fe 1991
+ee-fe 1991
+f-fe 1991
+fg-fe 1991
+ic-fe 1991
+ig-fe 1991
+jb-fe 1991
+jic-fe 1991
+55
+17
+ba-ff 1991
+bdcg-ff 1991
+bdf-ff 1991
+bed-ff 1991
+bgh-ff 1991
+cb-ff 1991
+cje-ff 1991
+dbd-ff 1991
+dch-ff 1991
+fci-ff 1991
+fe-ff 1991
+gb-ff 1991
+gh-ff 1991
+gj-ff 1991
+ic-ff 1991
+ig-ff 1991
+jd-ff 1991
+56
+21
+baa-fg 1991
+baac-fg 1991
+bdj-fg 1991
+bfaf-fg 1991
+bga-fg 1991
+bjf-fg 1991
+cbh-fg 1991
+cdj-fg 1991
+cf-fg 1991
+cgi-fg 1991
+ch-fg 1991
+cj-fg 1991
+di-fg 1991
+eaa-fg 1991
+ee-fg 1991
+fh-fg 1991
+gc-fg 1991
+h-fg 1991
+iej-fg 1991
+ja-fg 1991
+jhf-fg 1991
+57
+11
+bdb-fh 1991
+bejb-fh 1991
+bfe-fh 1991
+ccb-fh 1991
+cg-fh 1991
+d-fh 1991
+fc-fh 1991
+if-fh 1991
+jh-fh 1991
+jie-fh 1991
+jjd-fh 1991
+58
+20
+ba-fi 1991
+bac-fi 1991
+bbd-fi 1991
+bbg-fi 1991
+bcba-fi 1991
+bfdg-fi 1991
+bid-fi 1991
+bj-fi 1991
+ca-fi 1991
+dbc-fi 1991
+di-fi 1991
+eb-fi 1991
+ejb-fi 1991
+fg-fi 1991
+gag-fi 1991
+gd-fi 1991
+he-fi 1991
+hee-fi 1991
+ib-fi 1991
+ij-fi 1991
+59
+19
+badj-fj 1991
+bcha-fj 1991
+bea-fj 1991
+bg-fj 1991
+bj-fj 1991
+cfj-fj 1991
+dbd-fj 1991
+dbg-fj 1991
+dc-fj 1991
+dde-fj 1991
+ddg-fj 1991
+ef-fj 1991
+ff-fj 1991
+gd-fj 1991
+had-fj 1991
+he-fj 1991
+hfh-fj 1991
+ifd-fj 1991
+jjg-fj 1991
+60
+11
+bi-ga 1991
+cg-ga 1991
+cih-ga 1991
+dac-ga 1991
+dd-ga 1991
+eah-ga 1991
+fga-ga 1991
+gb-ga 1991
+gf-ga 1991
+i-ga 1991
+if-ga 1991
+61
+23
+bbeb-gb 1991
+bbef-gb 1991
+bbjc-gb 1991
+bcb-gb 1991
+bcj-gb 1991
+be-gb 1991
+bee-gb 1991
+bhb-gb 1991
+bic-gb 1991
+bj-gb 1991
+bjj-gb 1991
+cb-gb 1991
+cef-gb 1991
+cij-gb 1991
+db-gb 1991
+dbf-gb 1991
+fe-gb 1991
+g-gb 1991
+hf-gb 1991
+hjg-gb 1991
+i-gb 1991
+jag-gb 1991
+jh-gb 1991
+62
+15
+bab-gc 1991
+bbg-gc 1991
+bdfa-gc 1991
+bfb-gc 1991
+bga-gc 1991
+dci-gc 1991
+e-gc 1991
+ea-gc 1991
+eie-gc 1991
+fde-gc 1991
+ga-gc 1991
+ge-gc 1991
+gge-gc 1991
+ie-gc 1991
+j-gc 1991
+63
+17
+bdg-gd 1991
+bfgc-gd 1991
+c-gd 1991
+cee-gd 1991
+ceg-gd 1991
+cfj-gd 1991
+dai-gd 1991
+daj-gd 1991
+dbf-gd 1991
+eg-gd 1991
+eia-gd 1991
+f-gd 1991
+fij-gd 1991
+gfb-gd 1991
+hc-gd 1991
+icd-gd 1991
+je-gd 1991
+64
+23
+bag-ge 1991
+bbe-ge 1991
+bbj-ge 1991
+beb-ge 1991
+beg-ge 1991
+bf-ge 1991
+bfg-ge 1991
+bhg-ge 1991
+cc-ge 1991
+cca-ge 1991
+cjj-ge 1991
+dcf-ge 1991
+dfi-ge 1991
+eh-ge 1991
+ei-ge 1991
+eih-ge 1991
+g-ge 1991
+ghc-ge 1991
+ia-ge 1991
+ib-ge 1991
+ii-ge 1991
+jb-ge 1991
+ji-ge 1991
+65
+19
+bag-gf 1991
+be-gf 1991
+bic-gf 1991
+cca-gf 1991
+cd-gf 1991
+cf-gf 1991
+cgh-gf 1991
+ch-gf 1991
+db-gf 1991
+de-gf 1991
+dfg-gf 1991
+dha-gf 1991
+djd-gf 1991
+ea-gf 1991
+ehh-gf 1991
+ej-gf 1991
+fa-gf 1991
+fb-gf 1991
+fic-gf 1991
+66
+20
+bci-gg 1991
+bcj-gg 1991
+beif-gg 1991
+bfjf-gg 1991
+bh-gg 1991
+caj-gg 1991
+cd-gg 1991
+cdh-gg 1991
+ceg-gg 1991
+dfe-gg 1991
+dj-gg 1991
+efh-gg 1991
+gf-gg 1991
+gi-gg 1991
+hfa-gg 1991
+idf-gg 1991
+ihi-gg 1991
+jc-gg 1991
+jdj-gg 1991
+jhg-gg 1991
+67
+20
+bbcb-gh 1991
+bbf-gh 1991
+bce-gh 1991
+bdcb-gh 1991
+bddh-gh 1991
+bh-gh 1991
+cbc-gh 1991
+cbi-gh 1991
+cdi-gh 1991
+cgh-gh 1991
+d-gh 1991
+dc-gh 1991
+ed-gh 1991
+ee-gh 1991
+fie-gh 1991
+ge-gh 1991
+heh-gh 1991
+hi-gh 1991
+jci-gh 1991
+jh-gh 1991
+68
+21
+bbh-gi 1991
+bcff-gi 1991
+cae-gi 1991
+cbe-gi 1991
+cc-gi 1991
+cej-gi 1991
+cfg-gi 1991
+cgd-gi 1991
+ch-gi 1991
+dda-gi 1991
+dfg-gi 1991
+dii-gi 1991
+ea-gi 1991
+eg-gi 1991
+ehd-gi 1991
+fad-gi 1991
+fgd-gi 1991
+fjh-gi 1991
+gae-gi 1991
+ib-gi 1991
+ij-gi 1991
+69
+15
+baad-gj 1991
+bbh-gj 1991
+bgh-gj 1991
+bhb-gj 1991
+cb-gj 1991
+cff-gj 1991
+ch-gj 1991
+edh-gj 1991
+eea-gj 1991
+gc-gj 1991
+gf-gj 1991
+gjj-gj 1991
+hh-gj 1991
+ij-gj 1991
+jg-gj 1991
+70
+17
+bda-ha 1991
+bhh-ha 1991
+bhi-ha 1991
+bie-ha 1991
+big-ha 1991
+bjj-ha 1991
+db-ha 1991
+dc-ha 1991
+ecc-ha 1991
+ef-ha 1991
+ff-ha 1991
+fgd-ha 1991
+fi-ha 1991
+g-ha 1991
+j-ha 1991
+jb-ha 1991
+jg-ha 1991
+71
+17
+ba-hb 1991
+bbe-hb 1991
+bdh-hb 1991
+bec-hb 1991
+bef-hb 1991
+bha-hb 1991
+bhg-hb 1991
+cb-hb 1991
+cha-hb 1991
+ddi-hb 1991
+efh-hb 1991
+fc-hb 1991
+hfd-hb 1991
+ia-hb 1991
+iaa-hb 1991
+ie-hb 1991
+jh-hb 1991
+72
+17
+bfj-hc 1991
+bh-hc 1991
+cdb-hc 1991
+cea-hc 1991
+cif-hc 1991
+cih-hc 1991
+cjg-hc 1991
+dbf-hc 1991
+dcj-hc 1991
+dgi-hc 1991
+ed-hc 1991
+ejc-hc 1991
+fd-hc 1991
+gg-hc 1991
+hai-hc 1991
+j-hc 1991
+jg-hc 1991
+73
+8
+bab-hd 1991
+bci-hd 1991
+ced-hd 1991
+ch-hd 1991
+daa-hd 1991
+dc-hd 1991
+hb-hd 1991
+iib-hd 1991
+74
+16
+bbh-he 1991
+bcd-he 1991
+bcjc-he 1991
+bebb-he 1991
+bgi-he 1991
+bib-he 1991
+cde-he 1991
+d-he 1991
+da-he 1991
+dd-he 1991
+dfi-he 1991
+eb-he 1991
+gig-he 1991
+gij-he 1991
+hc-he 1991
+ie-he 1991
+75
+17
+bbd-hf 1991
+bdbc-hf 1991
+bdc-hf 1991
+beh-hf 1991
+bgg-hf 1991
+bjh-hf 1991
+da-hf 1991
+dah-hf 1991
+dde-hf 1991
+ddf-hf 1991
+dgg-hf 1991
+eh-hf 1991
+hbb-hf 1991
+hie-hf 1991
+i-hf 1991
+ib-hf 1991
+jg-hf 1991
+76
+17
+bbe-hg 1991
+bce-hg 1991
+bch-hg 1991
+befc-hg 1991
+bh-hg 1991
+bid-hg 1991
+bja-hg 1991
+cfa-hg 1991
+cgj-hg 1991
+dbi-hg 1991
+dfb-hg 1991
+dfj-hg 1991
+ga-hg 1991
+gbd-hg 1991
+gf-hg 1991
+h-hg 1991
+ij-hg 1991
+77
+16
+bae-hh 1991
+bd-hh 1991
+bdh-hh 1991
+bei-hh 1991
+beic-hh 1991
+bf-hh 1991
+bfa-hh 1991
+bjb-hh 1991
+caa-hh 1991
+cae-hh 1991
+chc-hh 1991
+f-hh 1991
+gcj-hh 1991
+hca-hh 1991
+jae-hh 1991
+jf-hh 1991
+78
+16
+ba-hi 1991
+bac-hi 1991
+baec-hi 1991
+bbf-hi 1991
+bca-hi 1991
+bcg-hi 1991
+bfa-hi 1991
+bff-hi 1991
+bh-hi 1991
+bjh-hi 1991
+ccj-hi 1991
+fa-hi 1991
+gfi-hi 1991
+iba-hi 1991
+ihf-hi 1991
+jg-hi 1991
+79
+14
+a-hj 1991
+bag-hj 1991
+bhb-hj 1991
+cja-hj 1991
+dde-hj 1991
+di-hj 1991
+dj-hj 1991
+e-hj 1991
+fc-hj 1991
+gd-hj 1991
+gfg-hj 1991
+gh-hj 1991
+gi-hj 1991
+jfc-hj 1991
+80
+22
+baj-ia 1991
+bc-ia 1991
+bdjd-ia 1991
+bee-ia 1991
+bej-ia 1991
+bfeh-ia 1991
+ca-ia 1991
+cc-ia 1991
+ccc-ia 1991
+chb-ia 1991
+ci-ia 1991
+daf-ia 1991
+dec-ia 1991
+di-ia 1991
+ef-ia 1991
+fhd-ia 1991
+fia-ia 1991
+gai-ia 1991
+gdh-ia 1991
+hd-ia 1991
+id-ia 1991
+jf-ia 1991
+81
+17
+bba-ib 1991
+beb-ib 1991
+bii-ib 1991
+dad-ib 1991
+dea-ib 1991
+deb-ib 1991
+df-ib 1991
+dhb-ib 1991
+fd-ib 1991
+fj-ib 1991
+gh-ib 1991
+ghd-ib 1991
+gia-ib 1991
+hag-ib 1991
+hg-ib 1991
+ih-ib 1991
+jh-ib 1991
+82
+20
+b-ic 1991
+ba-ic 1991
+bbg-ic 1991
+bedh-ic 1991
+bfi-ic 1991
+bfj-ic 1991
+bgd-ic 1991
+bgg-ic 1991
+bje-ic 1991
+bjh-ic 1991
+c-ic 1991
+cab-ic 1991
+cgi-ic 1991
+dce-ic 1991
+ebi-ic 1991
+eii-ic 1991
+fdf-ic 1991
+ghf-ic 1991
+ia-ic 1991
+if-ic 1991
+83
+5
+bf-id 1991
+eab-id 1991
+ebd-id 1991
+ej-id 1991
+gbg-id 1991
+84
+20
+bah-ie 1991
+bf-ie 1991
+bjd-ie 1991
+c-ie 1991
+ci-ie 1991
+d-ie 1991
+ddb-ie 1991
+dej-ie 1991
+eb-ie 1991
+ed-ie 1991
+eeh-ie 1991
+fb-ie 1991
+fbb-ie 1991
+gda-ie 1991
+gfc-ie 1991
+haj-ie 1991
+ia-ie 1991
+ij-ie 1991
+jf-ie 1991
+jg-ie 1991
+85
+18
+bafj-if 1991
+baj-if 1991
+bbh-if 1991
+bcge-if 1991
+beh-if 1991
+bfce-if 1991
+bfh-if 1991
+caj-if 1991
+cc-if 1991
+cda-if 1991
+cej-if 1991
+cjd-if 1991
+dfd-if 1991
+di-if 1991
+ec-if 1991
+fec-if 1991
+gdd-if 1991
+gg-if 1991
+86
+24
+baif-ig 1991
+bcb-ig 1991
+bda-ig 1991
+bfb-ig 1991
+bic-ig 1991
+bjf-ig 1991
+ca-ig 1991
+cb-ig 1991
+cbh-ig 1991
+cda-ig 1991
+cje-ig 1991
+cjj-ig 1991
+dg-ig 1991
+ebj-ig 1991
+ec-ig 1991
+efd-ig 1991
+egf-ig 1991
+ehh-ig 1991
+eja-ig 1991
+fde-ig 1991
+gcj-ig 1991
+ghg-ig 1991
+h-ig 1991
+ij-ig 1991
+87
+14
+bag-ih 1991
+bba-ih 1991
+bcfj-ih 1991
+bdg-ih 1991
+bg-ih 1991
+bge-ih 1991
+bhh-ih 1991
+cgh-ih 1991
+chh-ih 1991
+db-ih 1991
+ea-ih 1991
+egb-ih 1991
+fgf-ih 1991
+gi-ih 1991
+88
+15
+bacd-ii 1991
+bacj-ii 1991
+bde-ii 1991
+bdg-ii 1991
+bgfi-ii 1991
+cbe-ii 1991
+chf-ii 1991
+daj-ii 1991
+dde-ii 1991
+dgc-ii 1991
+ed-ii 1991
+eig-ii 1991
+fjg-ii 1991
+gf-ii 1991
+ic-ii 1991
+89
+19
+b-ij 1991
+bcc-ij 1991
+bcd-ij 1991
+bdih-ij 1991
+bed-ij 1991
+bgg-ij 1991
+bhj-ij 1991
+cb-ij 1991
+cdb-ij 1991
+ce-ij 1991
+ceh-ij 1991
+cj-ij 1991
+dac-ij 1991
+dbi-ij 1991
+dei-ij 1991
+fbc-ij 1991
+fe-ij 1991
+ife-ij 1991
+jc-ij 1991
+90
+17
+bad-ja 1991
+bei-ja 1991
+bhb-ja 1991
+cdb-ja 1991
+cgj-ja 1991
+dad-ja 1991
+dd-ja 1991
+dg-ja 1991
+eg-ja 1991
+ej-ja 1991
+ejh-ja 1991
+fcg-ja 1991
+fef-ja 1991
+hdb-ja 1991
+hgd-ja 1991
+hij-ja 1991
+jh-ja 1991
+91
+16
+bad-jb 1991
+bah-jb 1991
+bbj-jb 1991
+bc-jb 1991
+bhe-jb 1991
+ca-jb 1991
+cc-jb 1991
+ehi-jb 1991
+ehj-jb 1991
+ej-jb 1991
+hfd-jb 1991
+ihc-jb 1991
+j-jb 1991
+ja-jb 1991
+jc-jb 1991
+jgg-jb 1991
+92
+23
+babi-jc 1991
+bah-jc 1991
+bbd-jc 1991
+bbjg-jc 1991
+bfe-jc 1991
+bij-jc 1991
+cbh-jc 1991
+ccj-jc 1991
+cgb-jc 1991
+ddi-jc 1991
+ddj-jc 1991
+dha-jc 1991
+dhd-jc 1991
+faj-jc 1991
+fbd-jc 1991
+fci-jc 1991
+fg-jc 1991
+gbe-jc 1991
+gii-jc 1991
+heb-jc 1991
+hj-jc 1991
+ica-jc 1991
+ji-jc 1991
+93
+18
+bai-jd 1991
+bce-jd 1991
+be-jd 1991
+bea-jd 1991
+bfg-jd 1991
+bic-jd 1991
+cae-jd 1991
+cbi-jd 1991
+ccj-jd 1991
+chf-jd 1991
+dd-jd 1991
+df-jd 1991
+fdc-jd 1991
+fhj-jd 1991
+gj-jd 1991
+hd-jd 1991
+hh-jd 1991
+jh-jd 1991
+94
+20
+bbi-je 1991
+bfc-je 1991
+bfgb-je 1991
+bi-je 1991
+cad-je 1991
+cbd-je 1991
+cc-je 1991
+ce-je 1991
+de-je 1991
+dh-je 1991
+dji-je 1991
+edg-je 1991
+fcf-je 1991
+fe-je 1991
+fjj-je 1991
+gdf-je 1991
+hbf-je 1991
+heh-je 1991
+jf-je 1991
+jh-je 1991
+95
+16
+bc-jf 1991
+bdb-jf 1991
+bdf-jf 1991
+bfi-jf 1991
+d-jf 1991
+dcd-jf 1991
+dfc-jf 1991
+dfe-jf 1991
+dgg-jf 1991
+djf-jf 1991
+fa-jf 1991
+fe-jf 1991
+gbd-jf 1991
+hha-jf 1991
+ia-jf 1991
+iae-jf 1991
+96
+15
+bae-jg 1991
+bah-jg 1991
+bcf-jg 1991
+beb-jg 1991
+bgf-jg 1991
+bj-jg 1991
+daf-jg 1991
+dd-jg 1991
+ec-jg 1991
+eda-jg 1991
+egi-jg 1991
+eh-jg 1991
+hh-jg 1991
+id-jg 1991
+j-jg 1991
+97
+11
+bbfg-jh 1991
+bcbf-jh 1991
+bgc-jh 1991
+dai-jh 1991
+ebc-jh 1991
+ecj-jh 1991
+eg-jh 1991
+eh-jh 1991
+ei-jh 1991
+hib-jh 1991
+icb-jh 1991
+98
+19
+baf-ji 1991
+bbj-ji 1991
+bccj-ji 1991
+bdh-ji 1991
+bdjh-ji 1991
+beaa-ji 1991
+bfg-ji 1991
+cb-ji 1991
+chi-ji 1991
+dh-ji 1991
+egj-ji 1991
+fdh-ji 1991
+fi-ji 1991
+gbe-ji 1991
+gi-ji 1991
+ic-ji 1991
+idd-ji 1991
+ifa-ji 1991
+ii-ji 1991
+99
+12
+bbc-jj 1991
+bcee-jj 1991
+bhf-jj 1991
+cac-jj 1991
+dej-jj 1991
+ed-jj 1991
+eg-jj 1991
+egi-jj 1991
+ei-jj 1991
+fgf-jj 1991
+gh-jj 1991
+hh-jj 1991
+100
+16
+be-baa 1991
+bfg-baa 1991
+bjb-baa 1991
+bjg-baa 1991
+cae-baa 1991
+ch-baa 1991
+ci-baa 1991
+dba-baa 1991
+dfi-baa 1991
+dig-baa 1991
+eea-baa 1991
+ef-baa 1991
+efg-baa 1991
+fhg-baa 1991
+hd-baa 1991
+ig-baa 1991
+101
+10
+bce-bab 1991
+cbe-bab 1991
+chf-bab 1991
+ede-bab 1991
+eic-bab 1991
+fab-bab 1991
+fg-bab 1991
+j-bab 1991
+jb-bab 1991
+jhg-bab 1991
+102
+13
+bai-bac 1991
+beg-bac 1991
+bfe-bac 1991
+bhj-bac 1991
+da-bac 1991
+dce-bac 1991
+edc-bac 1991
+ga-bac 1991
+ge-bac 1991
+gja-bac 1991
+hfi-bac 1991
+hj-bac 1991
+ic-bac 1991
+103
+13
+bb-bad 1991
+bbh-bad 1991
+bed-bad 1991
+bf-bad 1991
+bfi-bad 1991
+bha-bad 1991
+cae-bad 1991
+d-bad 1991
+ecc-bad 1991
+fi-bad 1991
+ia-bad 1991
+jb-bad 1991
+jid-bad 1991
+104
+9
+bad-bae 1991
+bbhj-bae 1991
+bdga-bae 1991
+cd-bae 1991
+ceg-bae 1991
+dgj-bae 1991
+dj-bae 1991
+djb-bae 1991
+gab-bae 1991
+105
+12
+bcb-baf 1991
+bcd-baf 1991
+bci-baf 1991
+bdbh-baf 1991
+be-baf 1991
+bhh-baf 1991
+bie-baf 1991
+cbg-baf 1991
+cgb-baf 1991
+cj-baf 1991
+daj-baf 1991
+eic-baf 1991
+106
+24
+baab-bag 1991
+bbb-bag 1991
+bbfi-bag 1991
+bbj-bag 1991
+bcc-bag 1991
+bcg-bag 1991
+bch-bag 1991
+bdf-bag 1991
+bfce-bag 1991
+bfg-bag 1991
+bga-bag 1991
+bih-bag 1991
+bj-bag 1991
+bjb-bag 1991
+bjh-bag 1991
+cag-bag 1991
+cc-bag 1991
+cdi-bag 1991
+cgf-bag 1991
+dad-bag 1991
+dae-bag 1991
+db-bag 1991
+ede-bag 1991
+fic-bag 1991
+107
+19
+bag-bah 1991
+bbcc-bah 1991
+bdj-bah 1991
+big-bah 1991
+bii-bah 1991
+cbf-bah 1991
+cgb-bah 1991
+cjh-bah 1991
+ddf-bah 1991
+ddg-bah 1991
+deg-bah 1991
+dfe-bah 1991
+ed-bah 1991
+ej-bah 1991
+ejb-bah 1991
+gjh-bah 1991
+hbf-bah 1991
+ifd-bah 1991
+ihf-bah 1991
+108
+9
+bd-bai 1991
+bda-bai 1991
+bdd-bai 1991
+bdg-bai 1991
+bfa-bai 1991
+cdi-bai 1991
+cfj-bai 1991
+eh-bai 1991
+fjb-bai 1991
+109
+16
+bbf-baj 1991
+bda-baj 1991
+bff-baj 1991
+bffb-baj 1991
+bhi-baj 1991
+bid-baj 1991
+cag-baj 1991
+cfh-baj 1991
+chf-baj 1991
+cjg-baj 1991
+db-baj 1991
+ddb-baj 1991
+dde-baj 1991
+ef-baj 1991
+eg-baj 1991
+jc-baj 1991
+110
+15
+bcd-bba 1991
+bcf-bba 1991
+bcj-bba 1991
+bed-bba 1991
+bhf-bba 1991
+cgi-bba 1991
+dba-bba 1991
+dg-bba 1991
+dic-bba 1991
+eb-bba 1991
+f-bba 1991
+fbe-bba 1991
+gdc-bba 1991
+hi-bba 1991
+je-bba 1991
+111
+22
+bb-bbb 1991
+bbh-bbb 1991
+bcf-bbb 1991
+bdh-bbb 1991
+bdih-bbb 1991
+bff-bbb 1991
+cb-bbb 1991
+cbi-bbb 1991
+cd-bbb 1991
+d-bbb 1991
+dae-bbb 1991
+dcb-bbb 1991
+di-bbb 1991
+ec-bbb 1991
+ed-bbb 1991
+edb-bbb 1991
+fbj-bbb 1991
+fdh-bbb 1991
+fhd-bbb 1991
+hc-bbb 1991
+hi-bbb 1991
+ia-bbb 1991
+112
+20
+b-bbc 1991
+bag-bbc 1991
+baj-bbc 1991
+bbe-bbc 1991
+bcb-bbc 1991
+bii-bbc 1991
+ccb-bbc 1991
+cfc-bbc 1991
+chf-bbc 1991
+dbb-bbc 1991
+dc-bbc 1991
+dgb-bbc 1991
+dgi-bbc 1991
+di-bbc 1991
+ea-bbc 1991
+gbg-bbc 1991
+hga-bbc 1991
+hjg-bbc 1991
+jaf-bbc 1991
+jje-bbc 1991
+113
+15
+bab-bbd 1991
+bbi-bbd 1991
+bca-bbd 1991
+bde-bbd 1991
+beh-bbd 1991
+bja-bbd 1991
+cgb-bbd 1991
+chg-bbd 1991
+daf-bbd 1991
+dhf-bbd 1991
+gca-bbd 1991
+gg-bbd 1991
+jc-bbd 1991
+jg-bbd 1991
+jjb-bbd 1991
+114
+11
+cb-bbe 1991
+cbj-bbe 1991
+cc-bbe 1991
+cie-bbe 1991
+dgd-bbe 1991
+ed-bbe 1991
+ehd-bbe 1991
+ejj-bbe 1991
+gb-bbe 1991
+gcc-bbe 1991
+hf-bbe 1991
+115
+17
+bad-bbf 1991
+bage-bbf 1991
+bei-bbf 1991
+bej-bbf 1991
+bhh-bbf 1991
+bia-bbf 1991
+dch-bbf 1991
+dfc-bbf 1991
+dh-bbf 1991
+efj-bbf 1991
+eia-bbf 1991
+ej-bbf 1991
+fj-bbf 1991
+gga-bbf 1991
+gh-bbf 1991
+ja-bbf 1991
+jb-bbf 1991
+116
+20
+babh-bbg 1991
+bac-bbg 1991
+bbbj-bbg 1991
+bdf-bbg 1991
+cbd-bbg 1991
+ccg-bbg 1991
+ce-bbg 1991
+cea-bbg 1991
+ceg-bbg 1991
+chf-bbg 1991
+cj-bbg 1991
+dab-bbg 1991
+eba-bbg 1991
+eg-bbg 1991
+fbi-bbg 1991
+fgc-bbg 1991
+gdc-bbg 1991
+gg-bbg 1991
+iff-bbg 1991
+je-bbg 1991
+117
+13
+bacc-bbh 1991
+bd-bbh 1991
+beb-bbh 1991
+bec-bbh 1991
+bfb-bbh 1991
+ch-bbh 1991
+ci-bbh 1991
+e-bbh 1991
+ehi-bbh 1991
+ei-bbh 1991
+gca-bbh 1991
+gjh-bbh 1991
+jh-bbh 1991
+118
+21
+ba-bbi 1991
+bba-bbi 1991
+bca-bbi 1991
+beb-bbi 1991
+bech-bbi 1991
+beeh-bbi 1991
+bfbh-bbi 1991
+bgb-bbi 1991
+bgh-bbi 1991
+bjb-bbi 1991
+cbb-bbi 1991
+cbg-bbi 1991
+cea-bbi 1991
+dff-bbi 1991
+dga-bbi 1991
+gfd-bbi 1991
+hac-bbi 1991
+hf-bbi 1991
+ib-bbi 1991
+ige-bbi 1991
+jg-bbi 1991
+119
+17
+baja-bbj 1991
+bbag-bbj 1991
+bbf-bbj 1991
+bci-bbj 1991
+bdh-bbj 1991
+bgb-bbj 1991
+bii-bbj 1991
+cc-bbj 1991
+cfi-bbj 1991
+cgb-bbj 1991
+cgj-bbj 1991
+ci-bbj 1991
+eh-bbj 1991
+fag-bbj 1991
+gjh-bbj 1991
+hd-bbj 1991
+ige-bbj 1991
+120
+17
+bae-bca 1991
+baj-bca 1991
+bbe-bca 1991
+bg-bca 1991
+bjb-bca 1991
+cc-bca 1991
+cff-bca 1991
+ch-bca 1991
+cji-bca 1991
+dfb-bca 1991
+eae-bca 1991
+ei-bca 1991
+fbc-bca 1991
+gae-bca 1991
+gaf-bca 1991
+hc-bca 1991
+ib-bca 1991
+121
+18
+bbdg-bcb 1991
+bbgc-bcb 1991
+bdb-bcb 1991
+bdea-bcb 1991
+bfa-bcb 1991
+bfj-bcb 1991
+bi-bcb 1991
+cbg-bcb 1991
+cfc-bcb 1991
+dd-bcb 1991
+ee-bcb 1991
+fba-bcb 1991
+gge-bcb 1991
+gj-bcb 1991
+hd-bcb 1991
+hda-bcb 1991
+ia-bcb 1991
+ji-bcb 1991
+122
+13
+bah-bcc 1991
+bbab-bcc 1991
+bbff-bcc 1991
+bebg-bcc 1991
+bhf-bcc 1991
+bjd-bcc 1991
+cai-bcc 1991
+ce-bcc 1991
+gec-bcc 1991
+gfi-bcc 1991
+hgb-bcc 1991
+hig-bcc 1991
+jg-bcc 1991
+123
+10
+bajd-bcd 1991
+bd-bcd 1991
+bgh-bcd 1991
+ddj-bcd 1991
+ed-bcd 1991
+eed-bcd 1991
+gc-bcd 1991
+iie-bcd 1991
+j-bcd 1991
+jec-bcd 1991
+124
+13
+bagd-bce 1991
+bb-bce 1991
+bi-bce 1991
+ccc-bce 1991
+eb-bce 1991
+edi-bce 1991
+fed-bce 1991
+fih-bce 1991
+gc-bce 1991
+gef-bce 1991
+ia-bce 1991
+ib-bce 1991
+ig-bce 1991
+125
+9
+bba-bcf 1991
+bgj-bcf 1991
+cea-bcf 1991
+ddj-bcf 1991
+deg-bcf 1991
+eg-bcf 1991
+eij-bcf 1991
+fh-bcf 1991
+gih-bcf 1991
+126
+20
+bab-bcg 1991
+bad-bcg 1991
+baj-bcg 1991
+bhj-bcg 1991
+cah-bcg 1991
+cdd-bcg 1991
+cde-bcg 1991
+cdh-bcg 1991
+dbg-bcg 1991
+dgg-bcg 1991
+dhc-bcg 1991
+di-bcg 1991
+edb-bcg 1991
+fb-bcg 1991
+g-bcg 1991
+gc-bcg 1991
+gd-bcg 1991
+gh-bcg 1991
+hcj-bcg 1991
+jd-bcg 1991
+127
+12
+b-bch 1991
+bfc-bch 1991
+bgbf-bch 1991
+dfd-bch 1991
+ecb-bch 1991
+efa-bch 1991
+egb-bch 1991
+f-bch 1991
+fbh-bch 1991
+fig-bch 1991
+gad-bch 1991
+h-bch 1991
+128
+14
+bagb-bci 1991
+bbc-bci 1991
+bbe-bci 1991
+bbf-bci 1991
+bbhe-bci 1991
+bcbc-bci 1991
+bfai-bci 1991
+cae-bci 1991
+dag-bci 1991
+daj-bci 1991
+fag-bci 1991
+fbb-bci 1991
+fc-bci 1991
+fi-bci 1991
+129
+9
+bah-bcj 1991
+bbf-bcj 1991
+bfj-bcj 1991
+cij-bcj 1991
+cjg-bcj 1991
+cjh-bcj 1991
+eac-bcj 1991
+icj-bcj 1991
+iff-bcj 1991
+130
+16
+ba-bda 1991
+bbe-bda 1991
+bcj-bda 1991
+bgj-bda 1991
+cah-bda 1991
+ccc-bda 1991
+cif-bda 1991
+de-bda 1991
+dfj-bda 1991
+dhg-bda 1991
+eh-bda 1991
+eih-bda 1991
+fbe-bda 1991
+ffa-bda 1991
+gj-bda 1991
+ia-bda 1991
+131
+19
+bbb-bdb 1991
+bd-bdb 1991
+bfc-bdb 1991
+bhb-bdb 1991
+bje-bdb 1991
+cab-bdb 1991
+cbj-bdb 1991
+cda-bdb 1991
+dd-bdb 1991
+deh-bdb 1991
+djh-bdb 1991
+ed-bdb 1991
+efd-bdb 1991
+fcg-bdb 1991
+fib-bdb 1991
+gf-bdb 1991
+ha-bdb 1991
+hhf-bdb 1991
+jbg-bdb 1991
+132
+16
+bbah-bdc 1991
+bbfe-bdc 1991
+bbjh-bdc 1991
+bcf-bdc 1991
+bec-bdc 1991
+bfea-bdc 1991
+bhb-bdc 1991
+bid-bdc 1991
+cfc-bdc 1991
+ehg-bdc 1991
+fdc-bdc 1991
+fee-bdc 1991
+gc-bdc 1991
+hb-bdc 1991
+jb-bdc 1991
+jbg-bdc 1991
+133
+14
+bcf-bdd 1991
+bcgc-bdd 1991
+bci-bdd 1991
+bece-bdd 1991
+bgh-bdd 1991
+bja-bdd 1991
+bjf-bdd 1991
+chi-bdd 1991
+dd-bdd 1991
+efa-bdd 1991
+eg-bdd 1991
+fhe-bdd 1991
+gb-bdd 1991
+ih-bdd 1991
+134
+18
+a-bde 1991
+bba-bde 1991
+bdh-bde 1991
+bdi-bde 1991
+beec-bde 1991
+cb-bde 1991
+cbj-bde 1991
+ccf-bde 1991
+db-bde 1991
+dfb-bde 1991
+dhi-bde 1991
+fgf-bde 1991
+fjf-bde 1991
+gge-bde 1991
+he-bde 1991
+hhi-bde 1991
+iah-bde 1991
+jg-bde 1991
+135
+13
+bbab-bdf 1991
+bcf-bdf 1991
+bff-bdf 1991
+bhe-bdf 1991
+ccd-bdf 1991
+daf-bdf 1991
+ei-bdf 1991
+fa-bdf 1991
+gbf-bdf 1991
+gea-bdf 1991
+ghg-bdf 1991
+hc-bdf 1991
+hcg-bdf 1991
+136
+17
+bahh-bdg 1991
+bbij-bdg 1991
+bca-bdg 1991
+bcc-bdg 1991
+bgf-bdg 1991
+bii-bdg 1991
+ch-bdg 1991
+cha-bdg 1991
+dde-bdg 1991
+dhi-bdg 1991
+djj-bdg 1991
+e-bdg 1991
+ed-bdg 1991
+fe-bdg 1991
+hd-bdg 1991
+ja-bdg 1991
+jdg-bdg 1991
+137
+14
+be-bdh 1991
+bfd-bdh 1991
+ca-bdh 1991
+cb-bdh 1991
+ce-bdh 1991
+chd-bdh 1991
+dah-bdh 1991
+edg-bdh 1991
+efj-bdh 1991
+feh-bdh 1991
+ha-bdh 1991
+hc-bdh 1991
+ij-bdh 1991
+jjg-bdh 1991
+138
+13
+bcfj-bdi 1991
+bdh-bdi 1991
+bffi-bdi 1991
+bgh-bdi 1991
+bjc-bdi 1991
+ceg-bdi 1991
+dad-bdi 1991
+eeg-bdi 1991
+eig-bdi 1991
+gci-bdi 1991
+ich-bdi 1991
+iic-bdi 1991
+jbe-bdi 1991
+139
+17
+bbbh-bdj 1991
+bci-bdj 1991
+bic-bdj 1991
+cff-bdj 1991
+dgd-bdj 1991
+efg-bdj 1991
+fab-bdj 1991
+fb-bdj 1991
+ffb-bdj 1991
+gb-bdj 1991
+geh-bdj 1991
+gf-bdj 1991
+hhc-bdj 1991
+ia-bdj 1991
+igb-bdj 1991
+igg-bdj 1991
+jfe-bdj 1991
+140
+17
+bcai-bea 1991
+bcj-bea 1991
+beg-bea 1991
+beh-bea 1991
+bei-bea 1991
+bej-bea 1991
+cai-bea 1991
+cdh-bea 1991
+cea-bea 1991
+dbj-bea 1991
+dgb-bea 1991
+dgc-bea 1991
+edc-bea 1991
+fif-bea 1991
+gcc-bea 1991
+ggg-bea 1991
+jj-bea 1991
+141
+11
+cbe-beb 1991
+cbg-beb 1991
+ccg-beb 1991
+cge-beb 1991
+dci-beb 1991
+djg-beb 1991
+edh-beb 1991
+fe-beb 1991
+ffd-beb 1991
+fi-beb 1991
+hia-beb 1991
+142
+15
+bdei-bec 1991
+bdh-bec 1991
+bhj-bec 1991
+bj-bec 1991
+cbc-bec 1991
+ddg-bec 1991
+eei-bec 1991
+fe-bec 1991
+fje-bec 1991
+hea-bec 1991
+hff-bec 1991
+hj-bec 1991
+ica-bec 1991
+ii-bec 1991
+jeh-bec 1991
+143
+15
+beb-bed 1991
+begd-bed 1991
+bgi-bed 1991
+bhc-bed 1991
+bih-bed 1991
+cd-bed 1991
+cfa-bed 1991
+db-bed 1991
+de-bed 1991
+ea-bed 1991
+eca-bed 1991
+feh-bed 1991
+g-bed 1991
+gbc-bed 1991
+ica-bed 1991
+144
+23
+bbdj-bee 1991
+bbe-bee 1991
+bbej-bee 1991
+bdg-bee 1991
+bea-bee 1991
+bgbe-bee 1991
+bgf-bee 1991
+bj-bee 1991
+cef-bee 1991
+cfa-bee 1991
+cfb-bee 1991
+cg-bee 1991
+cgi-bee 1991
+ci-bee 1991
+dfg-bee 1991
+djd-bee 1991
+fa-bee 1991
+faa-bee 1991
+ggh-bee 1991
+gi-bee 1991
+gjd-bee 1991
+gjj-bee 1991
+jd-bee 1991
+145
+15
+ba-bef 1991
+bab-bef 1991
+bae-bef 1991
+bjd-bef 1991
+cbj-bef 1991
+cde-bef 1991
+dai-bef 1991
+dbh-bef 1991
+f-bef 1991
+fgj-bef 1991
+hd-bef 1991
+hg-bef 1991
+ie-bef 1991
+ih-bef 1991
+jei-bef 1991
+146
+11
+bef-beg 1991
+bff-beg 1991
+bja-beg 1991
+ccg-beg 1991
+chb-beg 1991
+dh-beg 1991
+ea-beg 1991
+ehf-beg 1991
+ej-beg 1991
+fei-beg 1991
+hgd-beg 1991
+147
+13
+bab-beh 1991
+bch-beh 1991
+bji-beh 1991
+ccg-beh 1991
+cgg-beh 1991
+cia-beh 1991
+ef-beh 1991
+gdd-beh 1991
+gg-beh 1991
+hi-beh 1991
+ieh-beh 1991
+ih-beh 1991
+jbj-beh 1991
+148
+17
+bbe-bei 1991
+bcgi-bei 1991
+bch-bei 1991
+becg-bei 1991
+bfb-bei 1991
+bg-bei 1991
+bjj-bei 1991
+cge-bei 1991
+dbd-bei 1991
+ebd-bei 1991
+ed-bei 1991
+fge-bei 1991
+i-bei 1991
+ie-bei 1991
+jbi-bei 1991
+jca-bei 1991
+jdb-bei 1991
+149
+13
+a-bej 1991
+bdb-bej 1991
+bec-bej 1991
+bgj-bej 1991
+bj-bej 1991
+bje-bej 1991
+caf-bej 1991
+ccg-bej 1991
+cdi-bej 1991
+dbi-bej 1991
+faj-bej 1991
+fcj-bej 1991
+fif-bej 1991
+150
+8
+cdf-bfa 1991
+cjd-bfa 1991
+ddd-bfa 1991
+dh-bfa 1991
+dj-bfa 1991
+egg-bfa 1991
+hd-bfa 1991
+ifi-bfa 1991
+151
+13
+bbhj-bfb 1991
+bdji-bfb 1991
+bii-bfb 1991
+cbe-bfb 1991
+cbf-bfb 1991
+cei-bfb 1991
+chg-bfb 1991
+dcd-bfb 1991
+fb-bfb 1991
+fda-bfb 1991
+fdj-bfb 1991
+fi-bfb 1991
+ig-bfb 1991
+152
+15
+bafi-bfc 1991
+bcgh-bfc 1991
+cdb-bfc 1991
+cei-bfc 1991
+dcb-bfc 1991
+dee-bfc 1991
+dge-bfc 1991
+dhb-bfc 1991
+fbb-bfc 1991
+fcb-bfc 1991
+fda-bfc 1991
+gbi-bfc 1991
+he-bfc 1991
+hh-bfc 1991
+ifh-bfc 1991
+153
+11
+bah-bfd 1991
+baj-bfd 1991
+bif-bfd 1991
+cie-bfd 1991
+cjf-bfd 1991
+dei-bfd 1991
+edi-bfd 1991
+gj-bfd 1991
+haa-bfd 1991
+jgi-bfd 1991
+jja-bfd 1991
+154
+12
+baea-bfe 1991
+bca-bfe 1991
+bff-bfe 1991
+ccc-bfe 1991
+cgh-bfe 1991
+dch-bfe 1991
+fih-bfe 1991
+gb-bfe 1991
+gbc-bfe 1991
+hff-bfe 1991
+hg-bfe 1991
+jb-bfe 1991
+155
+11
+bbc-bff 1991
+bcie-bff 1991
+bhh-bff 1991
+cdb-bff 1991
+cej-bff 1991
+dec-bff 1991
+eec-bff 1991
+fdh-bff 1991
+gc-bff 1991
+gfe-bff 1991
+ih-bff 1991
+156
+12
+bcj-bfg 1991
+be-bfg 1991
+bef-bfg 1991
+bf-bfg 1991
+bgac-bfg 1991
+bhg-bfg 1991
+dae-bfg 1991
+dge-bfg 1991
+efi-bfg 1991
+fh-bfg 1991
+hhe-bfg 1991
+hj-bfg 1991
+157
+14
+bae-bfh 1991
+baf-bfh 1991
+bdd-bfh 1991
+ca-bfh 1991
+cce-bfh 1991
+cgj-bfh 1991
+dci-bfh 1991
+eaa-bfh 1991
+fah-bfh 1991
+fic-bfh 1991
+gb-bfh 1991
+gcj-bfh 1991
+gg-bfh 1991
+if-bfh 1991
+158
+27
+bacf-bfi 1991
+bcfg-bfi 1991
+bcj-bfi 1991
+bdd-bfi 1991
+bdh-bfi 1991
+bff-bfi 1991
+bgci-bfi 1991
+bgi-bfi 1991
+cbb-bfi 1991
+deg-bfi 1991
+dhe-bfi 1991
+djg-bfi 1991
+ecj-bfi 1991
+eda-bfi 1991
+fcd-bfi 1991
+fjf-bfi 1991
+gaa-bfi 1991
+gc-bfi 1991
+gdi-bfi 1991
+hc-bfi 1991
+hjh-bfi 1991
+ich-bfi 1991
+idg-bfi 1991
+ig-bfi 1991
+ijh-bfi 1991
+jbf-bfi 1991
+jhe-bfi 1991
+159
+11
+bdc-bfj 1991
+bdcd-bfj 1991
+bg-bfj 1991
+bii-bfj 1991
+chb-bfj 1991
+cji-bfj 1991
+ded-bfj 1991
+ej-bfj 1991
+gce-bfj 1991
+gif-bfj 1991
+jjj-bfj 1991
+160
+10
+bcic-bga 1991
+bdh-bga 1991
+bge-bga 1991
+cba-bga 1991
+cgg-bga 1991
+dij-bga 1991
+efe-bga 1991
+hbd-bga 1991
+hh-bga 1991
+jcj-bga 1991
+161
+7
+bahe-bgb 1991
+bcga-bgb 1991
+bdb-bgb 1991
+bedd-bgb 1991
+cgc-bgb 1991
+dff-bgb 1991
+hea-bgb 1991
+162
+10
+bdeh-bgc 1991
+bfa-bgc 1991
+cdb-bgc 1991
+cea-bgc 1991
+cff-bgc 1991
+cgd-bgc 1991
+ea-bgc 1991
+ehc-bgc 1991
+fd-bgc 1991
+ffi-bgc 1991
+163
+10
+bgdh-bgd 1991
+bhb-bgd 1991
+bi-bgd 1991
+chf-bgd 1991
+dbj-bgd 1991
+df-bgd 1991
+dha-bgd 1991
+edg-bgd 1991
+f-bgd 1991
+gd-bgd 1991
+164
+6
+d-bge 1991
+eee-bge 1991
+eih-bge 1991
+gj-bge 1991
+hci-bge 1991
+jif-bge 1991
+165
+13
+baf-bgf 1991
+baih-bgf 1991
+bcb-bgf 1991
+bd-bgf 1991
+bfb-bgf 1991
+bid-bgf 1991
+bie-bgf 1991
+cfb-bgf 1991
+dff-bgf 1991
+fgd-bgf 1991
+hha-bgf 1991
+iaa-bgf 1991
+iic-bgf 1991
+166
+19
+babe-bgg 1991
+bai-bgg 1991
+bcaa-bgg 1991
+bcg-bgg 1991
+bdde-bgg 1991
+bec-bgg 1991
+bef-bgg 1991
+bic-bgg 1991
+cca-bgg 1991
+cej-bgg 1991
+cjf-bgg 1991
+cjg-bgg 1991
+ehg-bgg 1991
+fg-bgg 1991
+heh-bgg 1991
+hhh-bgg 1991
+id-bgg 1991
+ii-bgg 1991
+j-bgg 1991
+167
+12
+be-bgh 1991
+bfgh-bgh 1991
+bia-bgh 1991
+bif-bgh 1991
+cej-bgh 1991
+cgg-bgh 1991
+ch-bgh 1991
+cjj-bgh 1991
+dbg-bgh 1991
+ddb-bgh 1991
+eec-bgh 1991
+fc-bgh 1991
+168
+15
+baa-bgi 1991
+bc-bgi 1991
+bed-bgi 1991
+befg-bgi 1991
+bhh-bgi 1991
+caj-bgi 1991
+cbi-bgi 1991
+cej-bgi 1991
+daj-bgi 1991
+dda-bgi 1991
+ebb-bgi 1991
+edb-bgi 1991
+egg-bgi 1991
+eij-bgi 1991
+ja-bgi 1991
+169
+14
+bbdd-bgj 1991
+bffe-bgj 1991
+dij-bgj 1991
+djh-bgj 1991
+eag-bgj 1991
+gaf-bgj 1991
+gc-bgj 1991
+gf-bgj 1991
+hbh-bgj 1991
+hch-bgj 1991
+hfa-bgj 1991
+hfg-bgj 1991
+ij-bgj 1991
+jai-bgj 1991
+170
+10
+bde-bha 1991
+bff-bha 1991
+bhf-bha 1991
+bi-bha 1991
+cbf-bha 1991
+ccd-bha 1991
+ddd-bha 1991
+edd-bha 1991
+fh-bha 1991
+gi-bha 1991
+171
+17
+a-bhb 1991
+baj-bhb 1991
+bfb-bhb 1991
+bfbi-bhb 1991
+bgg-bhb 1991
+bib-bhb 1991
+bjg-bhb 1991
+bji-bhb 1991
+cda-bhb 1991
+fbb-bhb 1991
+fcb-bhb 1991
+gjg-bhb 1991
+hbd-bhb 1991
+hhd-bhb 1991
+iff-bhb 1991
+ih-bhb 1991
+jh-bhb 1991
+172
+10
+bagf-bhc 1991
+bbfd-bhc 1991
+bch-bhc 1991
+bfe-bhc 1991
+ec-bhc 1991
+edf-bhc 1991
+ejd-bhc 1991
+eje-bhc 1991
+gfg-bhc 1991
+jab-bhc 1991
+173
+11
+bcb-bhd 1991
+cac-bhd 1991
+cbb-bhd 1991
+cdg-bhd 1991
+cij-bhd 1991
+eed-bhd 1991
+fe-bhd 1991
+gii-bhd 1991
+hj-bhd 1991
+ifb-bhd 1991
+ih-bhd 1991
+174
+8
+bgj-bhe 1991
+ced-bhe 1991
+cfe-bhe 1991
+chd-bhe 1991
+daa-bhe 1991
+ebi-bhe 1991
+ee-bhe 1991
+g-bhe 1991
+175
+10
+bci-bhf 1991
+bef-bhf 1991
+bhj-bhf 1991
+ca-bhf 1991
+cgi-bhf 1991
+ci-bhf 1991
+dgi-bhf 1991
+ece-bhf 1991
+ech-bhf 1991
+jga-bhf 1991
+176
+11
+babb-bhg 1991
+baf-bhg 1991
+bci-bhg 1991
+bhh-bhg 1991
+cbg-bhg 1991
+cdi-bhg 1991
+cfi-bhg 1991
+cjh-bhg 1991
+ga-bhg 1991
+iga-bhg 1991
+j-bhg 1991
+177
+15
+bai-bhh 1991
+bbh-bhh 1991
+bed-bhh 1991
+bfb-bhh 1991
+bgg-bhh 1991
+cbc-bhh 1991
+cch-bhh 1991
+ccj-bhh 1991
+dce-bhh 1991
+efe-bhh 1991
+ge-bhh 1991
+h-bhh 1991
+hde-bhh 1991
+if-bhh 1991
+igc-bhh 1991
+178
+8
+bacb-bhi 1991
+bi-bhi 1991
+cdb-bhi 1991
+eaj-bhi 1991
+f-bhi 1991
+gbb-bhi 1991
+hah-bhi 1991
+ibh-bhi 1991
+179
+12
+bafb-bhj 1991
+bjg-bhj 1991
+cb-bhj 1991
+ch-bhj 1991
+dbf-bhj 1991
+dgg-bhj 1991
+ec-bhj 1991
+fha-bhj 1991
+g-bhj 1991
+ghd-bhj 1991
+hbc-bhj 1991
+hg-bhj 1991
+180
+13
+baj-bia 1991
+bgc-bia 1991
+bgj-bia 1991
+bjg-bia 1991
+cba-bia 1991
+cch-bia 1991
+ci-bia 1991
+dac-bia 1991
+dhb-bia 1991
+ea-bia 1991
+edc-bia 1991
+hi-bia 1991
+jg-bia 1991
+181
+12
+bbb-bib 1991
+bhe-bib 1991
+bia-bib 1991
+cjj-bib 1991
+eae-bib 1991
+efh-bib 1991
+fca-bib 1991
+fhc-bib 1991
+ged-bib 1991
+h-bib 1991
+hjj-bib 1991
+ihi-bib 1991
+182
+9
+baa-bic 1991
+baf-bic 1991
+cgj-bic 1991
+dc-bic 1991
+dgd-bic 1991
+ea-bic 1991
+eee-bic 1991
+fgc-bic 1991
+hdc-bic 1991
+183
+12
+bajd-bid 1991
+bef-bid 1991
+beh-bid 1991
+ccb-bid 1991
+ccj-bid 1991
+ce-bid 1991
+dag-bid 1991
+dec-bid 1991
+fbg-bid 1991
+gg-bid 1991
+hb-bid 1991
+ijb-bid 1991
+184
+14
+bae-bie 1991
+bba-bie 1991
+bbc-bie 1991
+bcai-bie 1991
+bcc-bie 1991
+bde-bie 1991
+bef-bie 1991
+cdc-bie 1991
+cfe-bie 1991
+cih-bie 1991
+dbe-bie 1991
+eig-bie 1991
+fcb-bie 1991
+hdd-bie 1991
+185
+13
+babf-bif 1991
+bahf-bif 1991
+bbc-bif 1991
+bd-bif 1991
+bej-bif 1991
+bgcg-bif 1991
+ccb-bif 1991
+cji-bif 1991
+eih-bif 1991
+ffj-bif 1991
+hb-bif 1991
+je-bif 1991
+jh-bif 1991
+186
+13
+bdde-big 1991
+bfg-big 1991
+bgb-big 1991
+bic-big 1991
+ca-big 1991
+deg-big 1991
+dfg-big 1991
+dig-big 1991
+efj-big 1991
+ej-big 1991
+f-big 1991
+feb-big 1991
+gh-big 1991
+187
+12
+bc-bih 1991
+bcff-bih 1991
+bdc-bih 1991
+cae-bih 1991
+ccj-bih 1991
+cef-bih 1991
+dcf-bih 1991
+djf-bih 1991
+fdh-bih 1991
+gcf-bih 1991
+hef-bih 1991
+hh-bih 1991
+188
+11
+bcej-bii 1991
+bga-bii 1991
+bgc-bii 1991
+bih-bii 1991
+caj-bii 1991
+dcj-bii 1991
+dfa-bii 1991
+eea-bii 1991
+ejd-bii 1991
+fgf-bii 1991
+ge-bii 1991
+189
+12
+ba-bij 1991
+bcj-bij 1991
+bji-bij 1991
+cha-bij 1991
+cia-bij 1991
+eab-bij 1991
+ejj-bij 1991
+faf-bij 1991
+gfi-bij 1991
+gj-bij 1991
+hf-bij 1991
+jd-bij 1991
+190
+9
+bch-bja 1991
+bjh-bja 1991
+chc-bja 1991
+dca-bja 1991
+ded-bja 1991
+dig-bja 1991
+ei-bja 1991
+fh-bja 1991
+gaf-bja 1991
+191
+12
+b-bjb 1991
+bbee-bjb 1991
+bcdb-bjb 1991
+beh-bjb 1991
+chb-bjb 1991
+db-bjb 1991
+df-bjb 1991
+e-bjb 1991
+fea-bjb 1991
+fed-bjb 1991
+he-bjb 1991
+je-bjb 1991
+192
+13
+baad-bjc 1991
+bab-bjc 1991
+bagc-bjc 1991
+bdh-bjc 1991
+bib-bjc 1991
+cgf-bjc 1991
+cjb-bjc 1991
+dfe-bjc 1991
+djc-bjc 1991
+eia-bjc 1991
+fd-bjc 1991
+ggh-bjc 1991
+ibe-bjc 1991
+193
+9
+bij-bjd 1991
+ca-bjd 1991
+dfc-bjd 1991
+dfi-bjd 1991
+di-bjd 1991
+fc-bjd 1991
+gd-bjd 1991
+ghb-bjd 1991
+hdg-bjd 1991
+194
+9
+bge-bje 1991
+cga-bje 1991
+cj-bje 1991
+de-bje 1991
+dgf-bje 1991
+dhc-bje 1991
+ecd-bje 1991
+eja-bje 1991
+ggi-bje 1991
+195
+13
+baff-bjf 1991
+bcb-bjf 1991
+bccc-bjf 1991
+bcd-bjf 1991
+cjg-bjf 1991
+dgj-bjf 1991
+e-bjf 1991
+ecg-bjf 1991
+gh-bjf 1991
+hic-bjf 1991
+hie-bjf 1991
+hii-bjf 1991
+ib-bjf 1991
+196
+7
+bhf-bjg 1991
+caf-bjg 1991
+cec-bjg 1991
+dah-bjg 1991
+df-bjg 1991
+dih-bjg 1991
+ee-bjg 1991
+197
+15
+baf-bjh 1991
+bcb-bjh 1991
+bfh-bjh 1991
+cd-bjh 1991
+cee-bjh 1991
+ddi-bjh 1991
+djg-bjh 1991
+eah-bjh 1991
+fc-bjh 1991
+ffj-bjh 1991
+gfd-bjh 1991
+hgb-bjh 1991
+ie-bjh 1991
+jeb-bjh 1991
+jf-bjh 1991
+198
+19
+bac-bji 1991
+bae-bji 1991
+beeb-bji 1991
+bfe-bji 1991
+cbi-bji 1991
+ccc-bji 1991
+cga-bji 1991
+cgh-bji 1991
+chj-bji 1991
+dbg-bji 1991
+de-bji 1991
+dea-bji 1991
+ead-bji 1991
+fac-bji 1991
+fbf-bji 1991
+fc-bji 1991
+fdj-bji 1991
+hjd-bji 1991
+jf-bji 1991
+199
+9
+baad-bjj 1991
+bag-bjj 1991
+bci-bjj 1991
+bdb-bjj 1991
+bjh-bjj 1991
+ced-bjj 1991
+edg-bjj 1991
+gci-bjj 1991
+jhe-bjj 1991
+200
+15
+ba-caa 1991
+bafd-caa 1991
+bdc-caa 1991
+bgi-caa 1991
+bjg-caa 1991
+ceh-caa 1991
+cjf-caa 1991
+dfi-caa 1991
+dhc-caa 1991
+di-caa 1991
+djj-caa 1991
+ecb-caa 1991
+hfg-caa 1991
+hh-caa 1991
+jgd-caa 1991
+201
+10
+baa-cab 1991
+bag-cab 1991
+bdg-cab 1991
+bef-cab 1991
+bej-cab 1991
+cjd-cab 1991
+daf-cab 1991
+de-cab 1991
+jbg-cab 1991
+jca-cab 1991
+202
+16
+bbdh-cac 1991
+bce-cac 1991
+bdc-cac 1991
+bdj-cac 1991
+beic-cac 1991
+bhh-cac 1991
+c-cac 1991
+cab-cac 1991
+cgb-cac 1991
+cgd-cac 1991
+dba-cac 1991
+dbf-cac 1991
+dh-cac 1991
+djc-cac 1991
+fid-cac 1991
+iai-cac 1991
+203
+11
+bah-cad 1991
+bdg-cad 1991
+bedd-cad 1991
+befb-cad 1991
+cj-cad 1991
+eba-cad 1991
+edd-cad 1991
+ege-cad 1991
+fc-cad 1991
+hbi-cad 1991
+icg-cad 1991
+204
+15
+baa-cae 1991
+bcb-cae 1991
+bccg-cae 1991
+bea-cae 1991
+bje-cae 1991
+bji-cae 1991
+cci-cae 1991
+chb-cae 1991
+dcc-cae 1991
+df-cae 1991
+efa-cae 1991
+f-cae 1991
+gdi-cae 1991
+hhb-cae 1991
+jcd-cae 1991
+205
+13
+bafb-caf 1991
+bc-caf 1991
+bfc-caf 1991
+bjf-caf 1991
+cah-caf 1991
+deb-caf 1991
+dh-caf 1991
+ece-caf 1991
+edi-caf 1991
+efi-caf 1991
+gag-caf 1991
+ghc-caf 1991
+hee-caf 1991
+206
+12
+bbg-cag 1991
+bfb-cag 1991
+caj-cag 1991
+cbc-cag 1991
+cda-cag 1991
+cdb-cag 1991
+cfe-cag 1991
+cie-cag 1991
+ddc-cag 1991
+ebb-cag 1991
+egd-cag 1991
+fbi-cag 1991
+207
+11
+bahc-cah 1991
+bb-cah 1991
+bdj-cah 1991
+bebe-cah 1991
+cce-cah 1991
+dfi-cah 1991
+fac-cah 1991
+fde-cah 1991
+fib-cah 1991
+fjj-cah 1991
+ih-cah 1991
+208
+9
+bib-cai 1991
+bid-cai 1991
+c-cai 1991
+cfi-cai 1991
+eag-cai 1991
+fai-cai 1991
+gdb-cai 1991
+ida-cai 1991
+jda-cai 1991
+209
+8
+bj-caj 1991
+dda-caj 1991
+eba-caj 1991
+eih-caj 1991
+eji-caj 1991
+ghh-caj 1991
+hei-caj 1991
+jh-caj 1991
+210
+15
+bba-cba 1991
+bbjf-cba 1991
+bccb-cba 1991
+bcj-cba 1991
+bfa-cba 1991
+bfi-cba 1991
+bgdd-cba 1991
+cdj-cba 1991
+che-cba 1991
+dee-cba 1991
+dha-cba 1991
+dhd-cba 1991
+dhg-cba 1991
+hac-cba 1991
+hbe-cba 1991
+211
+8
+bcbh-cbb 1991
+be-cbb 1991
+ca-cbb 1991
+ccc-cbb 1991
+cge-cbb 1991
+da-cbb 1991
+dch-cbb 1991
+ihc-cbb 1991
+212
+11
+baag-cbc 1991
+bca-cbc 1991
+bcdg-cbc 1991
+caj-cbc 1991
+dga-cbc 1991
+efg-cbc 1991
+fe-cbc 1991
+fgf-cbc 1991
+gdg-cbc 1991
+gff-cbc 1991
+hed-cbc 1991
+213
+12
+bcdc-cbd 1991
+bif-cbd 1991
+cec-cbd 1991
+chb-cbd 1991
+eag-cbd 1991
+ehe-cbd 1991
+gf-cbd 1991
+gh-cbd 1991
+hh-cbd 1991
+jbe-cbd 1991
+jej-cbd 1991
+jfc-cbd 1991
+214
+17
+bbcc-cbe 1991
+bch-cbe 1991
+bcj-cbe 1991
+bge-cbe 1991
+bji-cbe 1991
+cb-cbe 1991
+cii-cbe 1991
+cjc-cbe 1991
+cjg-cbe 1991
+dbh-cbe 1991
+ed-cbe 1991
+eh-cbe 1991
+fa-cbe 1991
+feg-cbe 1991
+he-cbe 1991
+hfj-cbe 1991
+hgj-cbe 1991
+215
+15
+babi-cbf 1991
+bai-cbf 1991
+baj-cbf 1991
+bbih-cbf 1991
+bbj-cbf 1991
+bff-cbf 1991
+bid-cbf 1991
+bje-cbf 1991
+cdj-cbf 1991
+ceb-cbf 1991
+cih-cbf 1991
+ega-cbf 1991
+fc-cbf 1991
+gc-cbf 1991
+jhg-cbf 1991
+216
+10
+bbfi-cbg 1991
+bcgd-cbg 1991
+bdg-cbg 1991
+becj-cbg 1991
+caj-cbg 1991
+fgf-cbg 1991
+gbi-cbg 1991
+gc-cbg 1991
+hjj-cbg 1991
+ii-cbg 1991
+217
+11
+bde-cbh 1991
+bfg-cbh 1991
+bhi-cbh 1991
+caj-cbh 1991
+cba-cbh 1991
+ccc-cbh 1991
+cfi-cbh 1991
+ej-cbh 1991
+gea-cbh 1991
+ghi-cbh 1991
+jhi-cbh 1991
+218
+16
+bcbf-cbi 1991
+bcc-cbi 1991
+bdi-cbi 1991
+cfh-cbi 1991
+cje-cbi 1991
+dba-cbi 1991
+ddh-cbi 1991
+ddi-cbi 1991
+dji-cbi 1991
+ebh-cbi 1991
+ede-cbi 1991
+ejg-cbi 1991
+fdh-cbi 1991
+gja-cbi 1991
+hi-cbi 1991
+ifd-cbi 1991
+219
+15
+bcf-cbj 1991
+cai-cbj 1991
+cba-cbj 1991
+cfd-cbj 1991
+cgb-cbj 1991
+cij-cbj 1991
+daa-cbj 1991
+db-cbj 1991
+dbj-cbj 1991
+dcf-cbj 1991
+edh-cbj 1991
+gjj-cbj 1991
+hi-cbj 1991
+jd-cbj 1991
+jec-cbj 1991
+220
+21
+bace-cca 1991
+bbdb-cca 1991
+bbi-cca 1991
+bca-cca 1991
+bdc-cca 1991
+bgf-cca 1991
+bjj-cca 1991
+cbe-cca 1991
+cbh-cca 1991
+cc-cca 1991
+cda-cca 1991
+chj-cca 1991
+eaf-cca 1991
+eea-cca 1991
+eff-cca 1991
+ehi-cca 1991
+h-cca 1991
+hbb-cca 1991
+ihg-cca 1991
+ijf-cca 1991
+jc-cca 1991
+221
+10
+bcf-ccb 1991
+bci-ccb 1991
+bjj-ccb 1991
+d-ccb 1991
+ddd-ccb 1991
+eig-ccb 1991
+ejb-ccb 1991
+ejj-ccb 1991
+jb-ccb 1991
+jeh-ccb 1991
+222
+11
+bba-ccc 1991
+bcda-ccc 1991
+bdc-ccc 1991
+bh-ccc 1991
+cee-ccc 1991
+eag-ccc 1991
+ecg-ccc 1991
+feg-ccc 1991
+fij-ccc 1991
+ije-ccc 1991
+jfh-ccc 1991
+223
+15
+bajb-ccd 1991
+bd-ccd 1991
+bhi-ccd 1991
+cai-ccd 1991
+cb-ccd 1991
+cjf-ccd 1991
+d-ccd 1991
+dbe-ccd 1991
+dhh-ccd 1991
+eae-ccd 1991
+ecd-ccd 1991
+fdj-ccd 1991
+feh-ccd 1991
+fih-ccd 1991
+jj-ccd 1991
+224
+8
+ba-cce 1991
+bceh-cce 1991
+bdc-cce 1991
+cai-cce 1991
+daf-cce 1991
+dgd-cce 1991
+edh-cce 1991
+hdf-cce 1991
+225
+19
+baid-ccf 1991
+bdh-ccf 1991
+bfdd-ccf 1991
+cbf-ccf 1991
+cfc-ccf 1991
+dca-ccf 1991
+djg-ccf 1991
+efd-ccf 1991
+fd-ccf 1991
+ga-ccf 1991
+ghd-ccf 1991
+hcc-ccf 1991
+hdj-ccf 1991
+hei-ccf 1991
+hfd-ccf 1991
+id-ccf 1991
+ihi-ccf 1991
+ij-ccf 1991
+jeg-ccf 1991
+226
+14
+bahi-ccg 1991
+bge-ccg 1991
+bih-ccg 1991
+cg-ccg 1991
+ddf-ccg 1991
+dgb-ccg 1991
+ecj-ccg 1991
+fhh-ccg 1991
+hde-ccg 1991
+hjh-ccg 1991
+ib-ccg 1991
+ide-ccg 1991
+ig-ccg 1991
+ijd-ccg 1991
+227
+10
+baaf-cch 1991
+bbb-cch 1991
+bei-cch 1991
+bg-cch 1991
+bhe-cch 1991
+bii-cch 1991
+cae-cch 1991
+egd-cch 1991
+hf-cch 1991
+ice-cch 1991
+228
+9
+a-cci 1991
+bbfd-cci 1991
+bgbg-cci 1991
+bgd-cci 1991
+ceb-cci 1991
+cgg-cci 1991
+cib-cci 1991
+ebg-cci 1991
+haf-cci 1991
+229
+10
+bch-ccj 1991
+bgf-ccj 1991
+cbf-ccj 1991
+cch-ccj 1991
+cjf-ccj 1991
+eeb-ccj 1991
+gdf-ccj 1991
+ghe-ccj 1991
+hji-ccj 1991
+j-ccj 1991
+230
+6
+bg-cda 1991
+daj-cda 1991
+dd-cda 1991
+dfg-cda 1991
+ejd-cda 1991
+jae-cda 1991
+231
+13
+bdb-cdb 1991
+bff-cdb 1991
+bie-cdb 1991
+bja-cdb 1991
+bji-cdb 1991
+ch-cdb 1991
+cib-cdb 1991
+ejg-cdb 1991
+fcf-cdb 1991
+gf-cdb 1991
+hih-cdb 1991
+jaa-cdb 1991
+jae-cdb 1991
+232
+16
+bbc-cdc 1991
+bdeh-cdc 1991
+bge-cdc 1991
+bhj-cdc 1991
+ccj-cdc 1991
+cga-cdc 1991
+cih-cdc 1991
+ddj-cdc 1991
+djd-cdc 1991
+eb-cdc 1991
+eea-cdc 1991
+eg-cdc 1991
+fad-cdc 1991
+fdd-cdc 1991
+gac-cdc 1991
+hjg-cdc 1991
+233
+7
+bebi-cdd 1991
+beg-cdd 1991
+ccf-cdd 1991
+db-cdd 1991
+faa-cdd 1991
+fj-cdd 1991
+ggh-cdd 1991
+234
+11
+bcg-cde 1991
+bdia-cde 1991
+bdj-cde 1991
+bi-cde 1991
+bia-cde 1991
+bj-cde 1991
+bjb-cde 1991
+cdh-cde 1991
+fff-cde 1991
+gge-cde 1991
+hhb-cde 1991
+235
+14
+badh-cdf 1991
+bbh-cdf 1991
+bc-cdf 1991
+bceg-cdf 1991
+bha-cdf 1991
+bhj-cdf 1991
+dcg-cdf 1991
+dfa-cdf 1991
+dhh-cdf 1991
+ef-cdf 1991
+fjc-cdf 1991
+gfb-cdf 1991
+ggg-cdf 1991
+iee-cdf 1991
+236
+13
+bbd-cdg 1991
+bdf-cdg 1991
+bfjd-cdg 1991
+bhh-cdg 1991
+cb-cdg 1991
+cf-cdg 1991
+cid-cdg 1991
+dff-cdg 1991
+eif-cdg 1991
+gcf-cdg 1991
+gji-cdg 1991
+igf-cdg 1991
+ij-cdg 1991
+237
+11
+bbja-cdh 1991
+bcg-cdh 1991
+bci-cdh 1991
+bgb-cdh 1991
+bgj-cdh 1991
+cbf-cdh 1991
+ehe-cdh 1991
+gd-cdh 1991
+gfd-cdh 1991
+ij-cdh 1991
+jc-cdh 1991
+238
+12
+bajh-cdi 1991
+beha-cdi 1991
+cid-cdi 1991
+deb-cdi 1991
+dfe-cdi 1991
+ee-cdi 1991
+ehj-cdi 1991
+fib-cdi 1991
+gfb-cdi 1991
+ib-cdi 1991
+j-cdi 1991
+jbc-cdi 1991
+239
+10
+bfh-cdj 1991
+cbb-cdj 1991
+cfh-cdj 1991
+cfj-cdj 1991
+chh-cdj 1991
+ega-cdj 1991
+fgh-cdj 1991
+gd-cdj 1991
+ggj-cdj 1991
+hgg-cdj 1991
+240
+10
+bbe-cea 1991
+be-cea 1991
+bji-cea 1991
+cac-cea 1991
+caf-cea 1991
+cfi-cea 1991
+che-cea 1991
+gbi-cea 1991
+if-cea 1991
+jaj-cea 1991
+241
+7
+bch-ceb 1991
+bdea-ceb 1991
+bfj-ceb 1991
+ccc-ceb 1991
+cii-ceb 1991
+dfe-ceb 1991
+dhh-ceb 1991
+242
+7
+bad-cec 1991
+bajb-cec 1991
+bbc-cec 1991
+bdg-cec 1991
+edb-cec 1991
+i-cec 1991
+jj-cec 1991
+243
+7
+bbgc-ced 1991
+cah-ced 1991
+cff-ced 1991
+efg-ced 1991
+ff-ced 1991
+gff-ced 1991
+heb-ced 1991
+244
+9
+bia-cee 1991
+bje-cee 1991
+cbf-cee 1991
+dah-cee 1991
+def-cee 1991
+eec-cee 1991
+eej-cee 1991
+ic-cee 1991
+jhc-cee 1991
+245
+16
+bbec-cef 1991
+bbjg-cef 1991
+bea-cef 1991
+bfi-cef 1991
+bha-cef 1991
+bi-cef 1991
+cdd-cef 1991
+cih-cef 1991
+dab-cef 1991
+dai-cef 1991
+dc-cef 1991
+dfa-cef 1991
+dic-cef 1991
+fc-cef 1991
+g-cef 1991
+jh-cef 1991
+246
+8
+bfa-ceg 1991
+cah-ceg 1991
+ced-ceg 1991
+cge-ceg 1991
+gdg-ceg 1991
+gjb-ceg 1991
+iag-ceg 1991
+ihj-ceg 1991
+247
+5
+bje-ceh 1991
+cic-ceh 1991
+eeg-ceh 1991
+gdd-ceh 1991
+id-ceh 1991
+248
+13
+bai-cei 1991
+bbj-cei 1991
+bda-cei 1991
+bfb-cei 1991
+bhe-cei 1991
+bih-cei 1991
+dbb-cei 1991
+ddf-cei 1991
+dgf-cei 1991
+eac-cei 1991
+ebh-cei 1991
+ehj-cei 1991
+fhi-cei 1991
+249
+14
+bbee-cej 1991
+bbeg-cej 1991
+bbf-cej 1991
+bda-cej 1991
+bed-cej 1991
+bh-cej 1991
+cgc-cej 1991
+cgf-cej 1991
+chc-cej 1991
+dda-cej 1991
+dif-cej 1991
+ef-cej 1991
+gig-cej 1991
+jej-cej 1991
+250
+11
+bdhb-cfa 1991
+cfc-cfa 1991
+cj-cfa 1991
+dch-cfa 1991
+df-cfa 1991
+eb-cfa 1991
+ejh-cfa 1991
+fja-cfa 1991
+gei-cfa 1991
+hdi-cfa 1991
+ice-cfa 1991
+251
+9
+baga-cfb 1991
+cea-cfb 1991
+cef-cfb 1991
+cjc-cfb 1991
+fc-cfb 1991
+fgg-cfb 1991
+fhe-cfb 1991
+g-cfb 1991
+gje-cfb 1991
+252
+12
+bacd-cfc 1991
+cac-cfc 1991
+cgi-cfc 1991
+cjc-cfc 1991
+dah-cfc 1991
+dd-cfc 1991
+dhe-cfc 1991
+eca-cfc 1991
+edh-cfc 1991
+gef-cfc 1991
+ic-cfc 1991
+ieg-cfc 1991
+253
+8
+a-cfd 1991
+bcdh-cfd 1991
+bchd-cfd 1991
+cbe-cfd 1991
+ccg-cfd 1991
+cje-cfd 1991
+fe-cfd 1991
+geb-cfd 1991
+254
+4
+dag-cfe 1991
+fh-cfe 1991
+ijc-cfe 1991
+jf-cfe 1991
+255
+8
+bafc-cff 1991
+bgc-cff 1991
+bji-cff 1991
+ebd-cff 1991
+egj-cff 1991
+ejg-cff 1991
+hda-cff 1991
+hjf-cff 1991
+256
+19
+baj-cfg 1991
+bbc-cfg 1991
+bbdg-cfg 1991
+bbh-cfg 1991
+bfa-cfg 1991
+bfdb-cfg 1991
+bffd-cfg 1991
+bh-cfg 1991
+ccc-cfg 1991
+dja-cfg 1991
+edc-cfg 1991
+efj-cfg 1991
+eif-cfg 1991
+eig-cfg 1991
+ej-cfg 1991
+gee-cfg 1991
+gic-cfg 1991
+hh-cfg 1991
+jd-cfg 1991
+257
+14
+baj-cfh 1991
+bbee-cfh 1991
+bee-cfh 1991
+cbc-cfh 1991
+cdg-cfh 1991
+cgj-cfh 1991
+cid-cfh 1991
+cie-cfh 1991
+dfa-cfh 1991
+ej-cfh 1991
+f-cfh 1991
+fjh-cfh 1991
+gbg-cfh 1991
+gg-cfh 1991
+258
+8
+badf-cfi 1991
+bcfi-cfi 1991
+bed-cfi 1991
+chd-cfi 1991
+de-cfi 1991
+dhi-cfi 1991
+ecf-cfi 1991
+eec-cfi 1991
+259
+9
+bd-cfj 1991
+beb-cfj 1991
+bjh-cfj 1991
+cfi-cfj 1991
+cg-cfj 1991
+dib-cfj 1991
+djc-cfj 1991
+efb-cfj 1991
+fh-cfj 1991
+260
+7
+bcjf-cga 1991
+bhb-cga 1991
+cah-cga 1991
+cgd-cga 1991
+chf-cga 1991
+chj-cga 1991
+dh-cga 1991
+261
+7
+bec-cgb 1991
+da-cgb 1991
+dch-cgb 1991
+deb-cgb 1991
+dhd-cgb 1991
+e-cgb 1991
+gdf-cgb 1991
+262
+12
+bba-cgc 1991
+bjf-cgc 1991
+cdb-cgc 1991
+cef-cgc 1991
+ceg-cgc 1991
+ebf-cgc 1991
+ee-cgc 1991
+fji-cgc 1991
+ga-cgc 1991
+hdb-cgc 1991
+hfc-cgc 1991
+ica-cgc 1991
+263
+10
+bafd-cgd 1991
+bafi-cgd 1991
+bajg-cgd 1991
+bbbc-cgd 1991
+bbe-cgd 1991
+bdb-cgd 1991
+bec-cgd 1991
+caj-cgd 1991
+dcf-cgd 1991
+dcj-cgd 1991
+264
+12
+bba-cge 1991
+bfc-cge 1991
+caf-cge 1991
+cci-cge 1991
+cde-cge 1991
+dda-cge 1991
+dj-cge 1991
+ea-cge 1991
+eef-cge 1991
+fh-cge 1991
+hai-cge 1991
+ie-cge 1991
+265
+10
+bcgf-cgf 1991
+bgbh-cgf 1991
+bj-cgf 1991
+dci-cgf 1991
+dej-cgf 1991
+egi-cgf 1991
+fcc-cgf 1991
+gie-cgf 1991
+hd-cgf 1991
+ibe-cgf 1991
+266
+8
+bdh-cgg 1991
+bgae-cgg 1991
+bii-cgg 1991
+bj-cgg 1991
+cac-cgg 1991
+cei-cgg 1991
+dib-cgg 1991
+fhc-cgg 1991
+267
+8
+babb-cgh 1991
+bdhc-cgh 1991
+bgg-cgh 1991
+cag-cgh 1991
+cci-cgh 1991
+faj-cgh 1991
+hc-cgh 1991
+hif-cgh 1991
+268
+16
+baaa-cgi 1991
+bced-cgi 1991
+bfb-cgi 1991
+daa-cgi 1991
+daf-cgi 1991
+dcd-cgi 1991
+djh-cgi 1991
+edc-cgi 1991
+edj-cgi 1991
+ee-cgi 1991
+fdh-cgi 1991
+ggf-cgi 1991
+hc-cgi 1991
+ia-cgi 1991
+ja-cgi 1991
+je-cgi 1991
+269
+9
+ba-cgj 1991
+cig-cgj 1991
+cjb-cgj 1991
+dgg-cgj 1991
+eag-cgj 1991
+ebe-cgj 1991
+fei-cgj 1991
+ifi-cgj 1991
+ig-cgj 1991
+270
+8
+bhi-cha 1991
+cbb-cha 1991
+dcb-cha 1991
+dee-cha 1991
+dhj-cha 1991
+egj-cha 1991
+ged-cha 1991
+gfh-cha 1991
+271
+8
+bcbi-chb 1991
+bfi-chb 1991
+ccd-chb 1991
+ccg-chb 1991
+cej-chb 1991
+eci-chb 1991
+fff-chb 1991
+ih-chb 1991
+272
+12
+bbfj-chc 1991
+beic-chc 1991
+bh-chc 1991
+cdc-chc 1991
+cgc-chc 1991
+fjc-chc 1991
+gfj-chc 1991
+ggc-chc 1991
+hba-chc 1991
+icj-chc 1991
+jfb-chc 1991
+jhd-chc 1991
+273
+8
+bah-chd 1991
+bfbg-chd 1991
+ch-chd 1991
+cjc-chd 1991
+dfj-chd 1991
+ebh-chd 1991
+fe-chd 1991
+gae-chd 1991
+274
+12
+bbib-che 1991
+bbj-che 1991
+befj-che 1991
+bgf-che 1991
+bib-che 1991
+cfj-che 1991
+dbj-che 1991
+dej-che 1991
+dii-che 1991
+eah-che 1991
+ebe-che 1991
+iga-che 1991
+275
+18
+bdj-chf 1991
+bea-chf 1991
+bij-chf 1991
+cbb-chf 1991
+cee-chf 1991
+cgc-chf 1991
+chi-chf 1991
+d-chf 1991
+ddj-chf 1991
+did-chf 1991
+ea-chf 1991
+eca-chf 1991
+ehb-chf 1991
+fch-chf 1991
+fga-chf 1991
+ge-chf 1991
+ggh-chf 1991
+hfb-chf 1991
+276
+12
+bdjb-chg 1991
+ced-chg 1991
+cfg-chg 1991
+dbb-chg 1991
+dcd-chg 1991
+di-chg 1991
+edh-chg 1991
+egi-chg 1991
+fc-chg 1991
+gci-chg 1991
+hja-chg 1991
+iab-chg 1991
+277
+5
+ca-chh 1991
+cbb-chh 1991
+cid-chh 1991
+ddj-chh 1991
+ed-chh 1991
+278
+11
+bbc-chi 1991
+bbea-chi 1991
+cee-chi 1991
+cfh-chi 1991
+dhg-chi 1991
+egc-chi 1991
+fec-chi 1991
+hga-chi 1991
+ibj-chi 1991
+if-chi 1991
+jeh-chi 1991
+279
+13
+bbgd-chj 1991
+bgh-chj 1991
+bic-chj 1991
+dia-chj 1991
+e-chj 1991
+efb-chj 1991
+egb-chj 1991
+ffc-chj 1991
+fg-chj 1991
+fjd-chj 1991
+hhi-chj 1991
+i-chj 1991
+jg-chj 1991
+280
+9
+bhg-cia 1991
+bji-cia 1991
+cce-cia 1991
+eff-cia 1991
+eie-cia 1991
+ffd-cia 1991
+jce-cia 1991
+jej-cia 1991
+jj-cia 1991
+281
+11
+bca-cib 1991
+bcce-cib 1991
+bdhb-cib 1991
+bdhh-cib 1991
+cab-cib 1991
+d-cib 1991
+da-cib 1991
+ed-cib 1991
+eha-cib 1991
+hgj-cib 1991
+hh-cib 1991
+282
+7
+bbi-cic 1991
+cae-cic 1991
+dda-cic 1991
+dhi-cic 1991
+ifd-cic 1991
+igc-cic 1991
+jce-cic 1991
+283
+13
+bbd-cid 1991
+bdh-cid 1991
+bii-cid 1991
+cab-cid 1991
+cce-cid 1991
+cjb-cid 1991
+dfa-cid 1991
+dfd-cid 1991
+ebi-cid 1991
+ehb-cid 1991
+fcf-cid 1991
+fic-cid 1991
+hgg-cid 1991
+284
+13
+baa-cie 1991
+bbbi-cie 1991
+bhd-cie 1991
+bih-cie 1991
+cgj-cie 1991
+cij-cie 1991
+dba-cie 1991
+dee-cie 1991
+djb-cie 1991
+eje-cie 1991
+gg-cie 1991
+hjb-cie 1991
+jfi-cie 1991
+285
+12
+baed-cif 1991
+bbai-cif 1991
+bcja-cif 1991
+dae-cif 1991
+dcb-cif 1991
+dgb-cif 1991
+ec-cif 1991
+ej-cif 1991
+gfb-cif 1991
+gfe-cif 1991
+id-cif 1991
+idd-cif 1991
+286
+10
+bbac-cig 1991
+bdgg-cig 1991
+be-cig 1991
+dge-cig 1991
+eef-cig 1991
+gci-cig 1991
+hai-cig 1991
+hbj-cig 1991
+hdd-cig 1991
+he-cig 1991
+287
+3
+cda-cih 1991
+gid-cih 1991
+icg-cih 1991
+288
+12
+baha-cii 1991
+bdi-cii 1991
+bgd-cii 1991
+cah-cii 1991
+dad-cii 1991
+eh-cii 1991
+fc-cii 1991
+gbi-cii 1991
+gc-cii 1991
+gf-cii 1991
+ggd-cii 1991
+i-cii 1991
+289
+13
+baa-cij 1991
+bef-cij 1991
+bgi-cij 1991
+cch-cij 1991
+cei-cij 1991
+cgi-cij 1991
+ch-cij 1991
+ci-cij 1991
+dgf-cij 1991
+eaf-cij 1991
+fdj-cij 1991
+jb-cij 1991
+jh-cij 1991
+290
+8
+bcaa-cja 1991
+cfc-cja 1991
+dge-cja 1991
+ead-cja 1991
+ehg-cja 1991
+hcj-cja 1991
+ija-cja 1991
+j-cja 1991
+291
+12
+bagh-cjb 1991
+beba-cjb 1991
+bjj-cjb 1991
+cea-cjb 1991
+cff-cjb 1991
+cjg-cjb 1991
+d-cjb 1991
+dbc-cjb 1991
+dbe-cjb 1991
+eei-cjb 1991
+fch-cjb 1991
+jbi-cjb 1991
+292
+10
+bada-cjc 1991
+bbfe-cjc 1991
+bce-cjc 1991
+bcih-cjc 1991
+bfgi-cjc 1991
+cfe-cjc 1991
+chj-cjc 1991
+ci-cjc 1991
+db-cjc 1991
+fgi-cjc 1991
+293
+5
+bdaa-cjd 1991
+cde-cjd 1991
+cfc-cjd 1991
+dja-cjd 1991
+eje-cjd 1991
+294
+4
+bbe-cje 1991
+bbi-cje 1991
+cea-cje 1991
+fje-cje 1991
+295
+9
+cgb-cjf 1991
+ch-cjf 1991
+che-cjf 1991
+dba-cjf 1991
+dgd-cjf 1991
+efi-cjf 1991
+egf-cjf 1991
+h-cjf 1991
+jh-cjf 1991
+296
+3
+caf-cjg 1991
+cgb-cjg 1991
+fb-cjg 1991
+297
+9
+bid-cjh 1991
+bii-cjh 1991
+cei-cjh 1991
+da-cjh 1991
+dci-cjh 1991
+ecf-cjh 1991
+he-cjh 1991
+hhf-cjh 1991
+jfd-cjh 1991
+298
+12
+bb-cji 1991
+bdce-cji 1991
+bdcg-cji 1991
+bee-cji 1991
+c-cji 1991
+cab-cji 1991
+dbj-cji 1991
+fbf-cji 1991
+gcj-cji 1991
+hbd-cji 1991
+id-cji 1991
+jbd-cji 1991
+299
+11
+bcie-cjj 1991
+bfeb-cjj 1991
+bgh-cjj 1991
+bif-cjj 1991
+cc-cjj 1991
+cca-cjj 1991
+cce-cjj 1991
+cha-cjj 1991
+fci-cjj 1991
+iei-cjj 1991
+jah-cjj 1991
+300
+8
+bbhc-daa 1991
+bfde-daa 1991
+ece-daa 1991
+edd-daa 1991
+fh-daa 1991
+ih-daa 1991
+ja-daa 1991
+jjb-daa 1991
+301
+11
+bace-dab 1991
+bb-dab 1991
+bef-dab 1991
+beg-dab 1991
+bia-dab 1991
+chh-dab 1991
+cjh-dab 1991
+ede-dab 1991
+fah-dab 1991
+hi-dab 1991
+icf-dab 1991
+302
+5
+bgi-dac 1991
+dce-dac 1991
+de-dac 1991
+fgc-dac 1991
+iid-dac 1991
+303
+7
+cda-dad 1991
+ceb-dad 1991
+dab-dad 1991
+gcb-dad 1991
+gfd-dad 1991
+gfe-dad 1991
+gga-dad 1991
+304
+11
+baaa-dae 1991
+bba-dae 1991
+bbf-dae 1991
+bcib-dae 1991
+bhi-dae 1991
+dgi-dae 1991
+djd-dae 1991
+ebf-dae 1991
+fce-dae 1991
+fdg-dae 1991
+gdh-dae 1991
+305
+10
+badi-daf 1991
+bch-daf 1991
+bdag-daf 1991
+bdcb-daf 1991
+bddb-daf 1991
+beb-daf 1991
+bfg-daf 1991
+cha-daf 1991
+fbb-daf 1991
+jae-daf 1991
+306
+6
+cfb-dag 1991
+dc-dag 1991
+eb-dag 1991
+hcd-dag 1991
+jd-dag 1991
+jg-dag 1991
+307
+12
+bgj-dah 1991
+bjb-dah 1991
+cfb-dah 1991
+cgi-dah 1991
+cib-dah 1991
+cjj-dah 1991
+dhd-dah 1991
+ehc-dah 1991
+fgh-dah 1991
+ggg-dah 1991
+ihj-dah 1991
+ija-dah 1991
+308
+11
+ba-dai 1991
+bafa-dai 1991
+bchi-dai 1991
+cca-dai 1991
+chh-dai 1991
+dhc-dai 1991
+ebd-dai 1991
+ebe-dai 1991
+ehg-dai 1991
+ejb-dai 1991
+geb-dai 1991
+309
+10
+bac-daj 1991
+bce-daj 1991
+dce-daj 1991
+ddc-daj 1991
+dhe-daj 1991
+ebb-daj 1991
+efb-daj 1991
+fae-daj 1991
+fhj-daj 1991
+geh-daj 1991
+310
+8
+bca-dba 1991
+bff-dba 1991
+bjh-dba 1991
+dfd-dba 1991
+dga-dba 1991
+gdh-dba 1991
+hhj-dba 1991
+ij-dba 1991
+311
+15
+bbh-dbb 1991
+chd-dbb 1991
+cjb-dbb 1991
+cje-dbb 1991
+daa-dbb 1991
+dfc-dbb 1991
+dgi-dbb 1991
+dhe-dbb 1991
+eaa-dbb 1991
+ebj-dbb 1991
+ecj-dbb 1991
+fi-dbb 1991
+ggf-dbb 1991
+ja-dbb 1991
+je-dbb 1991
+312
+9
+bbf-dbc 1991
+cac-dbc 1991
+dah-dbc 1991
+dba-dbc 1991
+dc-dbc 1991
+ei-dbc 1991
+ge-dbc 1991
+hca-dbc 1991
+he-dbc 1991
+313
+6
+bbg-dbd 1991
+bdjf-dbd 1991
+bfg-dbd 1991
+ccc-dbd 1991
+ceg-dbd 1991
+gcb-dbd 1991
+314
+11
+baji-dbe 1991
+bcaf-dbe 1991
+cb-dbe 1991
+cid-dbe 1991
+cji-dbe 1991
+dac-dbe 1991
+dcj-dbe 1991
+dfh-dbe 1991
+djc-dbe 1991
+edc-dbe 1991
+hig-dbe 1991
+315
+10
+baad-dbf 1991
+bbcb-dbf 1991
+bf-dbf 1991
+dac-dbf 1991
+dfe-dbf 1991
+eef-dbf 1991
+ei-dbf 1991
+eid-dbf 1991
+gdc-dbf 1991
+gib-dbf 1991
+316
+7
+bac-dbg 1991
+ce-dbg 1991
+dab-dbg 1991
+dba-dbg 1991
+dee-dbg 1991
+ffg-dbg 1991
+iag-dbg 1991
+317
+8
+a-dbh 1991
+caa-dbh 1991
+cba-dbh 1991
+cdb-dbh 1991
+cid-dbh 1991
+fcj-dbh 1991
+fha-dbh 1991
+gfj-dbh 1991
+318
+6
+bcaa-dbi 1991
+bgh-dbi 1991
+ch-dbi 1991
+edd-dbi 1991
+eia-dbi 1991
+fah-dbi 1991
+319
+7
+bafe-dbj 1991
+bb-dbj 1991
+cg-dbj 1991
+cgb-dbj 1991
+dad-dbj 1991
+dhd-dbj 1991
+gjf-dbj 1991
+320
+8
+a-dca 1991
+badg-dca 1991
+bba-dca 1991
+bda-dca 1991
+bdii-dca 1991
+dda-dca 1991
+eee-dca 1991
+jbi-dca 1991
+321
+12
+bec-dcb 1991
+ccb-dcb 1991
+ebb-dcb 1991
+eda-dcb 1991
+efg-dcb 1991
+egd-dcb 1991
+ehe-dcb 1991
+fi-dcb 1991
+gad-dcb 1991
+gbj-dcb 1991
+gcd-dcb 1991
+jia-dcb 1991
+322
+14
+baa-dcc 1991
+cdd-dcc 1991
+chf-dcc 1991
+ddf-dcc 1991
+dfb-dcc 1991
+di-dcc 1991
+eie-dcc 1991
+fbb-dcc 1991
+fjg-dcc 1991
+g-dcc 1991
+gdi-dcc 1991
+ge-dcc 1991
+heg-dcc 1991
+jah-dcc 1991
+323
+10
+baag-dcd 1991
+cfg-dcd 1991
+cg-dcd 1991
+dgj-dcd 1991
+gda-dcd 1991
+ghc-dcd 1991
+gjc-dcd 1991
+ib-dcd 1991
+jg-dcd 1991
+jgd-dcd 1991
+324
+6
+bcg-dce 1991
+cce-dce 1991
+che-dce 1991
+ebg-dce 1991
+fhh-dce 1991
+jef-dce 1991
+325
+13
+bbja-dcf 1991
+bcg-dcf 1991
+bed-dcf 1991
+bfa-dcf 1991
+bfb-dcf 1991
+bhe-dcf 1991
+ceh-dcf 1991
+cgb-dcf 1991
+ddg-dcf 1991
+ee-dcf 1991
+fce-dcf 1991
+fea-dcf 1991
+hf-dcf 1991
+326
+9
+bfi-dcg 1991
+cbc-dcg 1991
+cd-dcg 1991
+cga-dcg 1991
+dca-dcg 1991
+ecf-dcg 1991
+ffe-dcg 1991
+ii-dcg 1991
+jjj-dcg 1991
+327
+8
+bdgc-dch 1991
+cai-dch 1991
+cjc-dch 1991
+dh-dch 1991
+eca-dch 1991
+ehh-dch 1991
+he-dch 1991
+jai-dch 1991
+328
+9
+bbe-dci 1991
+bcef-dci 1991
+cab-dci 1991
+ccc-dci 1991
+cge-dci 1991
+dae-dci 1991
+ddg-dci 1991
+ehi-dci 1991
+h-dci 1991
+329
+8
+bde-dcj 1991
+begb-dcj 1991
+bgb-dcj 1991
+bij-dcj 1991
+dbj-dcj 1991
+dhd-dcj 1991
+ha-dcj 1991
+jcg-dcj 1991
+330
+4
+bjj-dda 1991
+cea-dda 1991
+dai-dda 1991
+fjj-dda 1991
+331
+11
+bbdj-ddb 1991
+bcea-ddb 1991
+bdge-ddb 1991
+ceh-ddb 1991
+cjb-ddb 1991
+ddd-ddb 1991
+ddg-ddb 1991
+eig-ddb 1991
+gai-ddb 1991
+h-ddb 1991
+if-ddb 1991
+332
+9
+bajc-ddc 1991
+beg-ddc 1991
+bfjb-ddc 1991
+bja-ddc 1991
+cb-ddc 1991
+cj-ddc 1991
+dac-ddc 1991
+gig-ddc 1991
+ia-ddc 1991
+333
+5
+bci-ddd 1991
+beef-ddd 1991
+cbj-ddd 1991
+gfa-ddd 1991
+hed-ddd 1991
+334
+17
+bbj-dde 1991
+bhb-dde 1991
+bib-dde 1991
+caj-dde 1991
+d-dde 1991
+dbe-dde 1991
+edb-dde 1991
+ehd-dde 1991
+ejf-dde 1991
+fbe-dde 1991
+fj-dde 1991
+gaa-dde 1991
+gfd-dde 1991
+ghh-dde 1991
+gi-dde 1991
+ifj-dde 1991
+ij-dde 1991
+335
+12
+bca-ddf 1991
+bei-ddf 1991
+bgj-ddf 1991
+chf-ddf 1991
+eb-ddf 1991
+eij-ddf 1991
+ej-ddf 1991
+fcf-ddf 1991
+ha-ddf 1991
+hhg-ddf 1991
+id-ddf 1991
+jh-ddf 1991
+336
+7
+bg-ddg 1991
+cdi-ddg 1991
+cgc-ddg 1991
+cji-ddg 1991
+dcd-ddg 1991
+eid-ddg 1991
+jb-ddg 1991
+337
+6
+baa-ddh 1991
+bf-ddh 1991
+bh-ddh 1991
+ech-ddh 1991
+edi-ddh 1991
+ef-ddh 1991
+338
+10
+bgh-ddi 1991
+bjc-ddi 1991
+ccc-ddi 1991
+cfa-ddi 1991
+dbi-ddi 1991
+eaj-ddi 1991
+ef-ddi 1991
+ehd-ddi 1991
+fib-ddi 1991
+jja-ddi 1991
+339
+11
+ccd-ddj 1991
+dci-ddj 1991
+dia-ddj 1991
+ecg-ddj 1991
+ehf-ddj 1991
+ehi-ddj 1991
+fgj-ddj 1991
+fj-ddj 1991
+haa-ddj 1991
+ic-ddj 1991
+ihj-ddj 1991
+340
+12
+bci-dea 1991
+bdi-dea 1991
+bgi-dea 1991
+cfg-dea 1991
+dgh-dea 1991
+dia-dea 1991
+ebe-dea 1991
+edh-dea 1991
+ejd-dea 1991
+ib-dea 1991
+ief-dea 1991
+ijh-dea 1991
+341
+10
+bhg-deb 1991
+cbi-deb 1991
+cfd-deb 1991
+eg-deb 1991
+fei-deb 1991
+hfg-deb 1991
+hgj-deb 1991
+hha-deb 1991
+hjc-deb 1991
+ig-deb 1991
+342
+7
+ba-dec 1991
+bcgh-dec 1991
+bfg-dec 1991
+bg-dec 1991
+cac-dec 1991
+cgj-dec 1991
+fdc-dec 1991
+343
+7
+bdbb-ded 1991
+dch-ded 1991
+ddc-ded 1991
+fbh-ded 1991
+gij-ded 1991
+ihf-ded 1991
+jab-ded 1991
+344
+13
+bbca-dee 1991
+cab-dee 1991
+ceb-dee 1991
+cia-dee 1991
+dej-dee 1991
+dfh-dee 1991
+dhc-dee 1991
+fee-dee 1991
+fhb-dee 1991
+fji-dee 1991
+gh-dee 1991
+ghf-dee 1991
+icg-dee 1991
+345
+7
+bajh-def 1991
+bbdc-def 1991
+bca-def 1991
+cci-def 1991
+ceb-def 1991
+hd-def 1991
+jfi-def 1991
+346
+9
+bceg-deg 1991
+cbb-deg 1991
+cdh-deg 1991
+cfb-deg 1991
+dbd-deg 1991
+djj-deg 1991
+eec-deg 1991
+fhd-deg 1991
+hia-deg 1991
+347
+11
+bde-deh 1991
+bhi-deh 1991
+ccj-deh 1991
+dj-deh 1991
+ejf-deh 1991
+fab-deh 1991
+gcf-deh 1991
+hdc-deh 1991
+hgj-deh 1991
+ifa-deh 1991
+iji-deh 1991
+348
+12
+bbh-dei 1991
+cfi-dei 1991
+chb-dei 1991
+ddd-dei 1991
+eed-dei 1991
+ef-dei 1991
+ehi-dei 1991
+ejj-dei 1991
+fif-dei 1991
+gce-dei 1991
+gjc-dei 1991
+hb-dei 1991
+349
+12
+babg-dej 1991
+bcah-dej 1991
+dif-dej 1991
+dj-dej 1991
+ea-dej 1991
+ebg-dej 1991
+eh-dej 1991
+eih-dej 1991
+fda-dej 1991
+fgh-dej 1991
+gj-dej 1991
+hab-dej 1991
+350
+10
+bbb-dfa 1991
+bef-dfa 1991
+bfb-dfa 1991
+eai-dfa 1991
+ege-dfa 1991
+fie-dfa 1991
+gfg-dfa 1991
+haa-dfa 1991
+hab-dfa 1991
+hh-dfa 1991
+351
+7
+bde-dfb 1991
+bed-dfb 1991
+cfc-dfb 1991
+e-dfb 1991
+ehb-dfb 1991
+jdi-dfb 1991
+ji-dfb 1991
+352
+12
+bdj-dfc 1991
+ca-dfc 1991
+cjc-dfc 1991
+ddc-dfc 1991
+dgh-dfc 1991
+djf-dfc 1991
+eb-dfc 1991
+ffg-dfc 1991
+fgg-dfc 1991
+fgj-dfc 1991
+ghb-dfc 1991
+hfe-dfc 1991
+353
+10
+bbae-dfd 1991
+bfcc-dfd 1991
+bga-dfd 1991
+bgg-dfd 1991
+da-dfd 1991
+dbh-dfd 1991
+gba-dfd 1991
+gcb-dfd 1991
+gj-dfd 1991
+idj-dfd 1991
+354
+6
+baac-dfe 1991
+badc-dfe 1991
+egf-dfe 1991
+ejd-dfe 1991
+gc-dfe 1991
+ii-dfe 1991
+355
+11
+baej-dff 1991
+bfie-dff 1991
+bfje-dff 1991
+eag-dff 1991
+egc-dff 1991
+gie-dff 1991
+heg-dff 1991
+hii-dff 1991
+ife-dff 1991
+jh-dff 1991
+jha-dff 1991
+356
+7
+bjh-dfg 1991
+cdj-dfg 1991
+dac-dfg 1991
+ddj-dfg 1991
+dhf-dfg 1991
+eib-dfg 1991
+hce-dfg 1991
+357
+11
+bbcb-dfh 1991
+beci-dfh 1991
+cbg-dfh 1991
+cgj-dfh 1991
+cji-dfh 1991
+ehi-dfh 1991
+fdj-dfh 1991
+fee-dfh 1991
+fhb-dfh 1991
+hg-dfh 1991
+jjc-dfh 1991
+358
+13
+baac-dfi 1991
+bbh-dfi 1991
+bce-dfi 1991
+cic-dfi 1991
+dbb-dfi 1991
+dcb-dfi 1991
+dcc-dfi 1991
+dde-dfi 1991
+dhd-dfi 1991
+dje-dfi 1991
+egd-dfi 1991
+hgh-dfi 1991
+iia-dfi 1991
+359
+7
+bbah-dfj 1991
+bhj-dfj 1991
+cad-dfj 1991
+djc-dfj 1991
+eb-dfj 1991
+ebc-dfj 1991
+ejd-dfj 1991
+360
+6
+bcdg-dga 1991
+cb-dga 1991
+dgi-dga 1991
+fff-dga 1991
+g-dga 1991
+gg-dga 1991
+361
+5
+bba-dgb 1991
+bbg-dgb 1991
+bcae-dgb 1991
+cad-dgb 1991
+gfc-dgb 1991
+362
+9
+bc-dgc 1991
+bdbb-dgc 1991
+c-dgc 1991
+dhc-dgc 1991
+fcj-dgc 1991
+fib-dgc 1991
+ha-dgc 1991
+jic-dgc 1991
+jja-dgc 1991
+363
+12
+badi-dgd 1991
+bajj-dgd 1991
+bbjf-dgd 1991
+bfa-dgd 1991
+cbc-dgd 1991
+dbh-dgd 1991
+ebc-dgd 1991
+edi-dgd 1991
+feh-dgd 1991
+gji-dgd 1991
+ifb-dgd 1991
+ifg-dgd 1991
+364
+10
+babc-dge 1991
+bccf-dge 1991
+beaa-dge 1991
+ce-dge 1991
+daf-dge 1991
+dc-dge 1991
+ef-dge 1991
+ggh-dge 1991
+hcj-dge 1991
+ifc-dge 1991
+365
+8
+bbba-dgf 1991
+bbe-dgf 1991
+bffd-dgf 1991
+dbe-dgf 1991
+dhf-dgf 1991
+edc-dgf 1991
+eg-dgf 1991
+jfj-dgf 1991
+366
+5
+bced-dgg 1991
+bg-dgg 1991
+cfh-dgg 1991
+dce-dgg 1991
+ffg-dgg 1991
+367
+7
+bafh-dgh 1991
+bai-dgh 1991
+bhc-dgh 1991
+big-dgh 1991
+dff-dgh 1991
+idi-dgh 1991
+ijd-dgh 1991
+368
+6
+bbf-dgi 1991
+bcf-dgi 1991
+ceb-dgi 1991
+cgg-dgi 1991
+deb-dgi 1991
+ibf-dgi 1991
+369
+7
+bcab-dgj 1991
+bcc-dgj 1991
+bea-dgj 1991
+eea-dgj 1991
+gc-dgj 1991
+gg-dgj 1991
+ghb-dgj 1991
+370
+13
+bid-dha 1991
+bje-dha 1991
+cdb-dha 1991
+d-dha 1991
+dhg-dha 1991
+dij-dha 1991
+dji-dha 1991
+ecg-dha 1991
+fbh-dha 1991
+gdj-dha 1991
+hi-dha 1991
+ic-dha 1991
+jhi-dha 1991
+371
+8
+bajb-dhb 1991
+cbi-dhb 1991
+d-dhb 1991
+dhj-dhb 1991
+ebh-dhb 1991
+hh-dhb 1991
+ihc-dhb 1991
+jh-dhb 1991
+372
+12
+bbce-dhc 1991
+bbed-dhc 1991
+bbjd-dhc 1991
+bdab-dhc 1991
+ccd-dhc 1991
+dbg-dhc 1991
+dfg-dhc 1991
+fda-dhc 1991
+ffi-dhc 1991
+hca-dhc 1991
+jg-dhc 1991
+jii-dhc 1991
+373
+12
+b-dhd 1991
+baeg-dhd 1991
+bdb-dhd 1991
+cdi-dhd 1991
+daj-dhd 1991
+dff-dhd 1991
+dgh-dhd 1991
+djd-dhd 1991
+fhc-dhd 1991
+gid-dhd 1991
+hfh-dhd 1991
+ije-dhd 1991
+374
+11
+bbhb-dhe 1991
+bbhi-dhe 1991
+bbii-dhe 1991
+cb-dhe 1991
+dca-dhe 1991
+df-dhe 1991
+dhf-dhe 1991
+ea-dhe 1991
+ehb-dhe 1991
+ieg-dhe 1991
+jf-dhe 1991
+375
+10
+baga-dhf 1991
+bcf-dhf 1991
+cf-dhf 1991
+cjd-dhf 1991
+dbj-dhf 1991
+ebj-dhf 1991
+ega-dhf 1991
+fh-dhf 1991
+ich-dhf 1991
+jac-dhf 1991
+376
+6
+beab-dhg 1991
+begf-dhg 1991
+bfe-dhg 1991
+dbj-dhg 1991
+heh-dhg 1991
+ida-dhg 1991
+377
+7
+bbb-dhh 1991
+bbh-dhh 1991
+bdac-dhh 1991
+bfj-dhh 1991
+dgf-dhh 1991
+gbg-dhh 1991
+j-dhh 1991
+378
+8
+bbbb-dhi 1991
+bcab-dhi 1991
+dha-dhi 1991
+ebh-dhi 1991
+ei-dhi 1991
+fhf-dhi 1991
+fjf-dhi 1991
+ihg-dhi 1991
+379
+10
+bbh-dhj 1991
+begh-dhj 1991
+bhg-dhj 1991
+daj-dhj 1991
+ddj-dhj 1991
+ecj-dhj 1991
+fce-dhj 1991
+icc-dhj 1991
+idc-dhj 1991
+idf-dhj 1991
+380
+9
+bad-dia 1991
+bdc-dia 1991
+bfac-dia 1991
+cid-dia 1991
+ecg-dia 1991
+eee-dia 1991
+hg-dia 1991
+hge-dia 1991
+jcc-dia 1991
+381
+4
+bgg-dib 1991
+cfd-dib 1991
+dhj-dib 1991
+ffd-dib 1991
+382
+10
+bbgj-dic 1991
+dih-dic 1991
+ebi-dic 1991
+edj-dic 1991
+ei-dic 1991
+fh-dic 1991
+hc-dic 1991
+hhd-dic 1991
+i-dic 1991
+jff-dic 1991
+383
+11
+a-did 1991
+bab-did 1991
+bbd-did 1991
+bgj-did 1991
+ccj-did 1991
+dc-did 1991
+dhg-did 1991
+ei-did 1991
+eii-did 1991
+hh-did 1991
+hid-did 1991
+384
+11
+baag-die 1991
+bgh-die 1991
+bhh-die 1991
+daa-die 1991
+dci-die 1991
+dfe-die 1991
+fac-die 1991
+fea-die 1991
+fig-die 1991
+ii-die 1991
+jeb-die 1991
+385
+3
+bbdh-dif 1991
+cfc-dif 1991
+gg-dif 1991
+386
+7
+bbf-dig 1991
+bbig-dig 1991
+edj-dig 1991
+fcd-dig 1991
+hac-dig 1991
+hih-dig 1991
+ijf-dig 1991
+387
+3
+bbjg-dih 1991
+dah-dih 1991
+fdg-dih 1991
+388
+6
+bage-dii 1991
+bdeg-dii 1991
+bhf-dii 1991
+c-dii 1991
+cci-dii 1991
+fgc-dii 1991
+389
+8
+bacf-dij 1991
+bid-dij 1991
+ceh-dij 1991
+cga-dij 1991
+eai-dij 1991
+ggf-dij 1991
+hhe-dij 1991
+ici-dij 1991
+390
+8
+bai-dja 1991
+bdhi-dja 1991
+bhe-dja 1991
+bjf-dja 1991
+cba-dja 1991
+dei-dja 1991
+fhh-dja 1991
+ja-dja 1991
+391
+8
+bcea-djb 1991
+bei-djb 1991
+bgcd-djb 1991
+eee-djb 1991
+ffj-djb 1991
+heh-djb 1991
+jdf-djb 1991
+jjj-djb 1991
+392
+5
+cii-djc 1991
+dba-djc 1991
+ddi-djc 1991
+jaj-djc 1991
+jdf-djc 1991
+393
+9
+bejh-djd 1991
+bjd-djd 1991
+ceb-djd 1991
+cie-djd 1991
+ddg-djd 1991
+fcb-djd 1991
+ifd-djd 1991
+jdd-djd 1991
+jif-djd 1991
+394
+10
+bbj-dje 1991
+beaj-dje 1991
+ce-dje 1991
+dbh-dje 1991
+dbi-dje 1991
+ddc-dje 1991
+ejf-dje 1991
+f-dje 1991
+hag-dje 1991
+he-dje 1991
+395
+5
+cig-djf 1991
+cii-djf 1991
+di-djf 1991
+eha-djf 1991
+fig-djf 1991
+396
+10
+baa-djg 1991
+bcc-djg 1991
+bce-djg 1991
+bceg-djg 1991
+bdi-djg 1991
+bga-djg 1991
+cji-djg 1991
+efi-djg 1991
+hca-djg 1991
+jbc-djg 1991
+397
+12
+bajg-djh 1991
+bdef-djh 1991
+bdh-djh 1991
+beca-djh 1991
+bif-djh 1991
+cdc-djh 1991
+cjc-djh 1991
+djb-djh 1991
+ebi-djh 1991
+gai-djh 1991
+gdg-djh 1991
+gf-djh 1991
+398
+4
+bahj-dji 1991
+cha-dji 1991
+cic-dji 1991
+hhj-dji 1991
+399
+8
+bbc-djj 1991
+bhf-djj 1991
+caj-djj 1991
+dda-djj 1991
+dec-djj 1991
+eea-djj 1991
+egi-djj 1991
+jib-djj 1991
+400
+9
+bee-eaa 1991
+bif-eaa 1991
+c-eaa 1991
+dbj-eaa 1991
+eji-eaa 1991
+ghi-eaa 1991
+hbg-eaa 1991
+hjj-eaa 1991
+jbb-eaa 1991
+401
+9
+bbga-eab 1991
+bdha-eab 1991
+big-eab 1991
+chi-eab 1991
+ffh-eab 1991
+fh-eab 1991
+gdb-eab 1991
+ha-eab 1991
+ie-eab 1991
+402
+10
+bagg-eac 1991
+bcc-eac 1991
+big-eac 1991
+cej-eac 1991
+chg-eac 1991
+eca-eac 1991
+efd-eac 1991
+f-eac 1991
+gjb-eac 1991
+jhi-eac 1991
+403
+8
+bgd-ead 1991
+caf-ead 1991
+cej-ead 1991
+chj-ead 1991
+dce-ead 1991
+dcg-ead 1991
+dj-ead 1991
+ggc-ead 1991
+404
+10
+bca-eae 1991
+bic-eae 1991
+chb-eae 1991
+edd-eae 1991
+fed-eae 1991
+fhi-eae 1991
+gai-eae 1991
+gdc-eae 1991
+ibc-eae 1991
+icb-eae 1991
+405
+4
+fde-eaf 1991
+fgj-eaf 1991
+ghj-eaf 1991
+jc-eaf 1991
+406
+9
+bge-eag 1991
+ca-eag 1991
+cfa-eag 1991
+cia-eag 1991
+ffj-eag 1991
+gee-eag 1991
+gff-eag 1991
+hea-eag 1991
+hgb-eag 1991
+407
+9
+bbcf-eah 1991
+bcaj-eah 1991
+bce-eah 1991
+cgd-eah 1991
+dde-eah 1991
+eca-eah 1991
+gac-eah 1991
+gdj-eah 1991
+gfd-eah 1991
+408
+5
+bbec-eai 1991
+be-eai 1991
+cdb-eai 1991
+efh-eai 1991
+ffa-eai 1991
+409
+6
+beec-eaj 1991
+c-eaj 1991
+dfj-eaj 1991
+eae-eaj 1991
+fad-eaj 1991
+jfa-eaj 1991
+410
+7
+bebc-eba 1991
+bif-eba 1991
+bjj-eba 1991
+cee-eba 1991
+cja-eba 1991
+feb-eba 1991
+gih-eba 1991
+411
+9
+beb-ebb 1991
+dc-ebb 1991
+ebc-ebb 1991
+ebg-ebb 1991
+fac-ebb 1991
+ffd-ebb 1991
+fff-ebb 1991
+ggb-ebb 1991
+iij-ebb 1991
+412
+7
+baej-ebc 1991
+befc-ebc 1991
+bjg-ebc 1991
+cbi-ebc 1991
+che-ebc 1991
+dia-ebc 1991
+ecb-ebc 1991
+413
+9
+badb-ebd 1991
+bcce-ebd 1991
+bdae-ebd 1991
+cag-ebd 1991
+cbb-ebd 1991
+dg-ebd 1991
+dgi-ebd 1991
+ejb-ebd 1991
+had-ebd 1991
+414
+15
+bcgi-ebe 1991
+bdi-ebe 1991
+bfhc-ebe 1991
+bib-ebe 1991
+bji-ebe 1991
+cea-ebe 1991
+ceb-ebe 1991
+cfg-ebe 1991
+df-ebe 1991
+dgb-ebe 1991
+ebb-ebe 1991
+fag-ebe 1991
+fgi-ebe 1991
+hfg-ebe 1991
+jf-ebe 1991
+415
+7
+bbd-ebf 1991
+bfd-ebf 1991
+bge-ebf 1991
+cge-ebf 1991
+fhf-ebf 1991
+hed-ebf 1991
+ijf-ebf 1991
+416
+4
+dcf-ebg 1991
+eca-ebg 1991
+fga-ebg 1991
+ghg-ebg 1991
+417
+10
+baaj-ebh 1991
+bahf-ebh 1991
+bjg-ebh 1991
+daf-ebh 1991
+ecj-ebh 1991
+edg-ebh 1991
+ejg-ebh 1991
+fbi-ebh 1991
+hdg-ebh 1991
+icg-ebh 1991
+418
+3
+ebc-ebi 1991
+ebd-ebi 1991
+hfe-ebi 1991
+419
+8
+bcc-ebj 1991
+djj-ebj 1991
+eci-ebj 1991
+ehi-ebj 1991
+ffh-ebj 1991
+ghd-ebj 1991
+igf-ebj 1991
+jgc-ebj 1991
+420
+7
+bhh-eca 1991
+cce-eca 1991
+dbf-eca 1991
+dhi-eca 1991
+eh-eca 1991
+jff-eca 1991
+jga-eca 1991
+421
+4
+bchc-ecb 1991
+bdd-ecb 1991
+cde-ecb 1991
+daj-ecb 1991
+422
+14
+babd-ecc 1991
+bdch-ecc 1991
+bdie-ecc 1991
+bhe-ecc 1991
+cd-ecc 1991
+cej-ecc 1991
+edi-ecc 1991
+ejd-ecc 1991
+fbe-ecc 1991
+fbh-ecc 1991
+ga-ecc 1991
+gce-ecc 1991
+idf-ecc 1991
+jc-ecc 1991
+423
+8
+bcfb-ecd 1991
+cdf-ecd 1991
+dch-ecd 1991
+dha-ecd 1991
+fba-ecd 1991
+iai-ecd 1991
+igh-ecd 1991
+jfj-ecd 1991
+424
+7
+bfji-ece 1991
+cjg-ece 1991
+eaa-ece 1991
+ecd-ece 1991
+eeh-ece 1991
+fcf-ece 1991
+ici-ece 1991
+425
+9
+beh-ecf 1991
+cib-ecf 1991
+dc-ecf 1991
+dgb-ecf 1991
+dh-ecf 1991
+eed-ecf 1991
+egi-ecf 1991
+gcc-ecf 1991
+gei-ecf 1991
+426
+6
+bbe-ecg 1991
+bcca-ecg 1991
+bf-ecg 1991
+dcc-ecg 1991
+dfa-ecg 1991
+fbc-ecg 1991
+427
+7
+bajd-ech 1991
+cbe-ech 1991
+cfa-ech 1991
+dbh-ech 1991
+fcf-ech 1991
+hcd-ech 1991
+jjc-ech 1991
+428
+6
+bcje-eci 1991
+cei-eci 1991
+dh-eci 1991
+dha-eci 1991
+hcg-eci 1991
+jac-eci 1991
+429
+5
+baj-ecj 1991
+bbhj-ecj 1991
+fbc-ecj 1991
+gbj-ecj 1991
+ihi-ecj 1991
+430
+10
+bbdb-eda 1991
+bdcg-eda 1991
+cei-eda 1991
+dgb-eda 1991
+dhf-eda 1991
+eai-eda 1991
+ghj-eda 1991
+hbd-eda 1991
+igj-eda 1991
+jcf-eda 1991
+431
+7
+eci-edb 1991
+fb-edb 1991
+ff-edb 1991
+gdd-edb 1991
+gec-edb 1991
+iia-edb 1991
+jj-edb 1991
+432
+5
+baa-edc 1991
+bhb-edc 1991
+dci-edc 1991
+ggi-edc 1991
+ihi-edc 1991
+433
+6
+bai-edd 1991
+bdh-edd 1991
+cbe-edd 1991
+dfa-edd 1991
+ebd-edd 1991
+gag-edd 1991
+434
+8
+bbf-ede 1991
+cbj-ede 1991
+ejb-ede 1991
+ffi-ede 1991
+gd-ede 1991
+ig-ede 1991
+jbb-ede 1991
+jh-ede 1991
+435
+10
+bdag-edf 1991
+bdfe-edf 1991
+bfh-edf 1991
+ci-edf 1991
+dic-edf 1991
+ebe-edf 1991
+ega-edf 1991
+fah-edf 1991
+ffi-edf 1991
+hba-edf 1991
+436
+8
+bb-edg 1991
+bgd-edg 1991
+cde-edg 1991
+ddc-edg 1991
+dee-edg 1991
+ggd-edg 1991
+ie-edg 1991
+jgh-edg 1991
+437
+8
+bbg-edh 1991
+bbgb-edh 1991
+beb-edh 1991
+bhf-edh 1991
+cfj-edh 1991
+dah-edh 1991
+dje-edh 1991
+hcd-edh 1991
+438
+13
+bade-edi 1991
+baib-edi 1991
+bda-edi 1991
+bjd-edi 1991
+ccg-edi 1991
+cfj-edi 1991
+egf-edi 1991
+eja-edi 1991
+fbg-edi 1991
+fhg-edi 1991
+gah-edi 1991
+gie-edi 1991
+ic-edi 1991
+439
+5
+cfb-edj 1991
+cgc-edj 1991
+dfb-edj 1991
+egf-edj 1991
+egj-edj 1991
+440
+11
+bcei-eea 1991
+bgj-eea 1991
+bhg-eea 1991
+bi-eea 1991
+bjf-eea 1991
+djh-eea 1991
+e-eea 1991
+fdh-eea 1991
+gcc-eea 1991
+gd-eea 1991
+igj-eea 1991
+441
+6
+bab-eeb 1991
+dec-eeb 1991
+faf-eeb 1991
+hei-eeb 1991
+hgh-eeb 1991
+iac-eeb 1991
+442
+7
+bch-eec 1991
+bec-eec 1991
+bha-eec 1991
+cbe-eec 1991
+dge-eec 1991
+hci-eec 1991
+hjf-eec 1991
+443
+9
+bid-eed 1991
+cah-eed 1991
+cbj-eed 1991
+ddf-eed 1991
+dja-eed 1991
+fcg-eed 1991
+gcd-eed 1991
+iaa-eed 1991
+jhc-eed 1991
+444
+5
+chb-eee 1991
+dhc-eee 1991
+eea-eee 1991
+fgi-eee 1991
+idg-eee 1991
+445
+6
+bdcd-eef 1991
+bdg-eef 1991
+bie-eef 1991
+ceg-eef 1991
+dej-eef 1991
+jad-eef 1991
+446
+13
+badg-eeg 1991
+bdb-eeg 1991
+bfc-eeg 1991
+cfe-eeg 1991
+chc-eeg 1991
+chg-eeg 1991
+dcc-eeg 1991
+dda-eeg 1991
+dji-eeg 1991
+eif-eeg 1991
+fgb-eeg 1991
+fi-eeg 1991
+h-eeg 1991
+447
+4
+bcc-eeh 1991
+fbd-eeh 1991
+gbb-eeh 1991
+jd-eeh 1991
+448
+10
+bajg-eei 1991
+bbf-eei 1991
+beed-eei 1991
+bih-eei 1991
+dba-eei 1991
+dhb-eei 1991
+ejc-eei 1991
+fii-eei 1991
+haj-eei 1991
+jdh-eei 1991
+449
+4
+bbif-eej 1991
+bcag-eej 1991
+bcih-eej 1991
+chc-eej 1991
+450
+11
+bccg-efa 1991
+bedb-efa 1991
+cbb-efa 1991
+dhd-efa 1991
+efd-efa 1991
+egc-efa 1991
+ggh-efa 1991
+hch-efa 1991
+hfe-efa 1991
+ii-efa 1991
+jia-efa 1991
+451
+5
+bahi-efb 1991
+bbgj-efb 1991
+cfh-efb 1991
+ehc-efb 1991
+eib-efb 1991
+452
+5
+bhh-efc 1991
+daj-efc 1991
+ehd-efc 1991
+fdg-efc 1991
+hd-efc 1991
+453
+5
+bbc-efd 1991
+dha-efd 1991
+fei-efd 1991
+iac-efd 1991
+igj-efd 1991
+454
+4
+bbe-efe 1991
+bcdb-efe 1991
+che-efe 1991
+ija-efe 1991
+455
+11
+bbed-eff 1991
+bjf-eff 1991
+cdf-eff 1991
+chj-eff 1991
+dga-eff 1991
+ebg-eff 1991
+ejh-eff 1991
+fff-eff 1991
+ghi-eff 1991
+hgf-eff 1991
+jge-eff 1991
+456
+10
+bbj-efg 1991
+bcad-efg 1991
+bfa-efg 1991
+chg-efg 1991
+daf-efg 1991
+eac-efg 1991
+eef-efg 1991
+efj-efg 1991
+fii-efg 1991
+iib-efg 1991
+457
+10
+bbeg-efh 1991
+bij-efh 1991
+dci-efh 1991
+ded-efh 1991
+efb-efh 1991
+fde-efh 1991
+ffi-efh 1991
+ibb-efh 1991
+igc-efh 1991
+iic-efh 1991
+458
+5
+cbj-efi 1991
+cfj-efi 1991
+eec-efi 1991
+eed-efi 1991
+icc-efi 1991
+459
+13
+bbca-efj 1991
+bbfa-efj 1991
+cbj-efj 1991
+dbj-efj 1991
+efe-efj 1991
+eji-efj 1991
+ejj-efj 1991
+fhc-efj 1991
+fje-efj 1991
+g-efj 1991
+gbf-efj 1991
+gde-efj 1991
+heh-efj 1991
+460
+14
+bac-ega 1991
+bbac-ega 1991
+bbe-ega 1991
+bja-ega 1991
+cb-ega 1991
+cbg-ega 1991
+cef-ega 1991
+cgd-ega 1991
+dbb-ega 1991
+dbj-ega 1991
+feh-ega 1991
+icf-ega 1991
+jca-ega 1991
+jdd-ega 1991
+461
+6
+bcdf-egb 1991
+cdg-egb 1991
+efi-egb 1991
+fdb-egb 1991
+hic-egb 1991
+jg-egb 1991
+462
+4
+bch-egc 1991
+bdj-egc 1991
+ccj-egc 1991
+ddc-egc 1991
+463
+6
+bbf-egd 1991
+bdhg-egd 1991
+cfa-egd 1991
+ebd-egd 1991
+ffd-egd 1991
+ijh-egd 1991
+464
+8
+bg-ege 1991
+dbb-ege 1991
+dib-ege 1991
+ecb-ege 1991
+fdb-ege 1991
+gf-ege 1991
+ggh-ege 1991
+ifi-ege 1991
+465
+7
+bji-egf 1991
+cha-egf 1991
+eae-egf 1991
+edh-egf 1991
+fge-egf 1991
+fjd-egf 1991
+ifd-egf 1991
+466
+5
+die-egg 1991
+eaj-egg 1991
+ed-egg 1991
+idd-egg 1991
+jia-egg 1991
+467
+5
+cii-egh 1991
+fa-egh 1991
+gah-egh 1991
+iid-egh 1991
+jc-egh 1991
+468
+4
+cdi-egi 1991
+efa-egi 1991
+ghc-egi 1991
+hef-egi 1991
+469
+8
+baih-egj 1991
+dbi-egj 1991
+ehh-egj 1991
+ejg-egj 1991
+ibi-egj 1991
+ij-egj 1991
+jdg-egj 1991
+jj-egj 1991
+470
+7
+bbi-eha 1991
+bcbi-eha 1991
+bfh-eha 1991
+bjj-eha 1991
+cgh-eha 1991
+eid-eha 1991
+fgd-eha 1991
+471
+8
+bfc-ehb 1991
+bh-ehb 1991
+bj-ehb 1991
+dh-ehb 1991
+eji-ehb 1991
+fei-ehb 1991
+hib-ehb 1991
+i-ehb 1991
+472
+4
+cdh-ehc 1991
+ece-ehc 1991
+ecj-ehc 1991
+iad-ehc 1991
+473
+5
+bffb-ehd 1991
+dfd-ehd 1991
+djf-ehd 1991
+hcb-ehd 1991
+hjj-ehd 1991
+474
+4
+bebj-ehe 1991
+di-ehe 1991
+hje-ehe 1991
+ibh-ehe 1991
+475
+7
+caa-ehf 1991
+cac-ehf 1991
+eea-ehf 1991
+fag-ehf 1991
+fci-ehf 1991
+hgh-ehf 1991
+jgj-ehf 1991
+476
+10
+bdgh-ehg 1991
+cbj-ehg 1991
+cgg-ehg 1991
+ddb-ehg 1991
+de-ehg 1991
+edf-ehg 1991
+eid-ehg 1991
+f-ehg 1991
+hda-ehg 1991
+jd-ehg 1991
+477
+5
+dad-ehh 1991
+dcc-ehh 1991
+ecf-ehh 1991
+gcc-ehh 1991
+had-ehh 1991
+478
+9
+bag-ehi 1991
+bbeg-ehi 1991
+big-ehi 1991
+caa-ehi 1991
+ceh-ehi 1991
+fbg-ehi 1991
+fef-ehi 1991
+h-ehi 1991
+jfd-ehi 1991
+479
+7
+baeh-ehj 1991
+bcgj-ehj 1991
+dbf-ehj 1991
+dei-ehj 1991
+eci-ehj 1991
+ee-ehj 1991
+hbj-ehj 1991
+480
+7
+bfa-eia 1991
+caj-eia 1991
+cjj-eia 1991
+ddb-eia 1991
+efb-eia 1991
+efc-eia 1991
+ghh-eia 1991
+481
+8
+bbbe-eib 1991
+bcji-eib 1991
+cfc-eib 1991
+cjj-eib 1991
+dg-eib 1991
+ehj-eib 1991
+fed-eib 1991
+iih-eib 1991
+482
+7
+bdfb-eic 1991
+befh-eic 1991
+bfef-eic 1991
+ebb-eic 1991
+fhi-eic 1991
+gd-eic 1991
+hih-eic 1991
+483
+8
+bcjh-eid 1991
+bddi-eid 1991
+bdg-eid 1991
+bfhj-eid 1991
+ejg-eid 1991
+fbg-eid 1991
+gg-eid 1991
+hc-eid 1991
+484
+9
+baf-eie 1991
+bbaf-eie 1991
+cah-eie 1991
+cgf-eie 1991
+cj-eie 1991
+ehf-eie 1991
+ffj-eie 1991
+gbb-eie 1991
+gcf-eie 1991
+485
+5
+bhf-eif 1991
+daa-eif 1991
+djj-eif 1991
+fdf-eif 1991
+hac-eif 1991
+486
+8
+bfeh-eig 1991
+dci-eig 1991
+ede-eig 1991
+edi-eig 1991
+eii-eig 1991
+faa-eig 1991
+fdf-eig 1991
+gdi-eig 1991
+487
+6
+cag-eih 1991
+daa-eih 1991
+efa-eih 1991
+efh-eih 1991
+ifi-eih 1991
+jc-eih 1991
+488
+5
+bfdi-eii 1991
+bgb-eii 1991
+bjf-eii 1991
+cfd-eii 1991
+fij-eii 1991
+489
+8
+beh-eij 1991
+bje-eij 1991
+chi-eij 1991
+dcc-eij 1991
+dfg-eij 1991
+ief-eij 1991
+igd-eij 1991
+jae-eij 1991
+490
+5
+babi-eja 1991
+dhh-eja 1991
+hej-eja 1991
+hgg-eja 1991
+iaj-eja 1991
+491
+3
+bhc-ejb 1991
+cdi-ejb 1991
+ibd-ejb 1991
+492
+7
+bag-ejc 1991
+bcbe-ejc 1991
+daj-ejc 1991
+eia-ejc 1991
+ggd-ejc 1991
+gji-ejc 1991
+hgb-ejc 1991
+493
+4
+cef-ejd 1991
+ebd-ejd 1991
+ige-ejd 1991
+iic-ejd 1991
+494
+9
+bfj-eje 1991
+cif-eje 1991
+cje-eje 1991
+dib-eje 1991
+ebj-eje 1991
+ege-eje 1991
+fej-eje 1991
+gic-eje 1991
+iei-eje 1991
+495
+10
+bae-ejf 1991
+bfja-ejf 1991
+bgb-ejf 1991
+cbe-ejf 1991
+dbc-ejf 1991
+ecf-ejf 1991
+fhe-ejf 1991
+fij-ejf 1991
+gb-ejf 1991
+had-ejf 1991
+496
+4
+chd-ejg 1991
+eb-ejg 1991
+feg-ejg 1991
+ghb-ejg 1991
+497
+7
+bbi-ejh 1991
+ci-ejh 1991
+dde-ejh 1991
+ecj-ejh 1991
+egb-ejh 1991
+iaa-ejh 1991
+idi-ejh 1991
+498
+6
+cdd-eji 1991
+cgh-eji 1991
+d-eji 1991
+dih-eji 1991
+ee-eji 1991
+hfb-eji 1991
+499
+9
+bbf-ejj 1991
+bgf-ejj 1991
+cej-ejj 1991
+cgi-ejj 1991
+chf-ejj 1991
+eia-ejj 1991
+gc-ejj 1991
+hif-ejj 1991
+ici-ejj 1991
+500
+7
+bbba-faa 1991
+bch-faa 1991
+bgj-faa 1991
+deg-faa 1991
+dfb-faa 1991
+dhg-faa 1991
+ice-faa 1991
+501
+4
+dbf-fab 1991
+dda-fab 1991
+ecc-fab 1991
+gd-fab 1991
+502
+8
+bbii-fac 1991
+bfd-fac 1991
+cbh-fac 1991
+cbi-fac 1991
+hbc-fac 1991
+hdh-fac 1991
+hf-fac 1991
+ijb-fac 1991
+503
+9
+baei-fad 1991
+bdjg-fad 1991
+cfh-fad 1991
+dih-fad 1991
+fgd-fad 1991
+fij-fad 1991
+gaf-fad 1991
+hcj-fad 1991
+iej-fad 1991
+504
+8
+baba-fae 1991
+bbd-fae 1991
+bdia-fae 1991
+dje-fae 1991
+fej-fae 1991
+fje-fae 1991
+ggi-fae 1991
+hih-fae 1991
+505
+14
+bcd-faf 1991
+bcfc-faf 1991
+bcja-faf 1991
+bjf-faf 1991
+dgd-faf 1991
+dgi-faf 1991
+ebh-faf 1991
+egi-faf 1991
+ghj-faf 1991
+hid-faf 1991
+ice-faf 1991
+idb-faf 1991
+iig-faf 1991
+jbg-faf 1991
+506
+9
+bahb-fag 1991
+bf-fag 1991
+bgc-fag 1991
+dbf-fag 1991
+eji-fag 1991
+ggd-fag 1991
+hcd-fag 1991
+hei-fag 1991
+jif-fag 1991
+507
+4
+bid-fah 1991
+bjf-fah 1991
+fdh-fah 1991
+jbj-fah 1991
+508
+7
+badj-fai 1991
+bbih-fai 1991
+bcj-fai 1991
+eff-fai 1991
+fdh-fai 1991
+gdj-fai 1991
+jd-fai 1991
+509
+8
+bhe-faj 1991
+faa-faj 1991
+fgi-faj 1991
+ga-faj 1991
+ggb-faj 1991
+ghi-faj 1991
+ifb-faj 1991
+iii-faj 1991
+510
+9
+bbdb-fba 1991
+bge-fba 1991
+bic-fba 1991
+cbj-fba 1991
+cdi-fba 1991
+dii-fba 1991
+eef-fba 1991
+faf-fba 1991
+jj-fba 1991
+511
+11
+baa-fbb 1991
+bge-fbb 1991
+efj-fbb 1991
+fic-fbb 1991
+fid-fbb 1991
+fjb-fbb 1991
+geh-fbb 1991
+hig-fbb 1991
+hjh-fbb 1991
+jgi-fbb 1991
+jih-fbb 1991
+512
+6
+baag-fbc 1991
+bb-fbc 1991
+bib-fbc 1991
+eeg-fbc 1991
+ejh-fbc 1991
+fej-fbc 1991
+513
+5
+bih-fbd 1991
+eai-fbd 1991
+ejj-fbd 1991
+hej-fbd 1991
+jhc-fbd 1991
+514
+7
+bajc-fbe 1991
+bceh-fbe 1991
+ceg-fbe 1991
+fgh-fbe 1991
+fgi-fbe 1991
+if-fbe 1991
+ii-fbe 1991
+515
+2
+dhj-fbf 1991
+jbh-fbf 1991
+516
+4
+bhb-fbg 1991
+dff-fbg 1991
+edb-fbg 1991
+fjj-fbg 1991
+517
+10
+bc-fbh 1991
+bcjg-fbh 1991
+cbg-fbh 1991
+cff-fbh 1991
+eih-fbh 1991
+fdh-fbh 1991
+fgb-fbh 1991
+hca-fbh 1991
+ib-fbh 1991
+j-fbh 1991
+518
+7
+bcj-fbi 1991
+bjb-fbi 1991
+cfg-fbi 1991
+dcc-fbi 1991
+eah-fbi 1991
+ebf-fbi 1991
+h-fbi 1991
+519
+6
+beig-fbj 1991
+fch-fbj 1991
+fdc-fbj 1991
+hb-fbj 1991
+hdc-fbj 1991
+ieg-fbj 1991
+520
+8
+bccg-fca 1991
+bcie-fca 1991
+bdf-fca 1991
+dce-fca 1991
+dgh-fca 1991
+gaj-fca 1991
+i-fca 1991
+jib-fca 1991
+521
+8
+bcdf-fcb 1991
+bhb-fcb 1991
+dff-fcb 1991
+e-fcb 1991
+ebe-fcb 1991
+fij-fcb 1991
+h-fcb 1991
+hbb-fcb 1991
+522
+5
+bfca-fcc 1991
+dcg-fcc 1991
+fjh-fcc 1991
+gbd-fcc 1991
+gic-fcc 1991
+523
+9
+bfi-fcd 1991
+cae-fcd 1991
+cba-fcd 1991
+ddb-fcd 1991
+gf-fcd 1991
+ghf-fcd 1991
+ghg-fcd 1991
+hib-fcd 1991
+hji-fcd 1991
+524
+5
+baec-fce 1991
+efh-fce 1991
+gdj-fce 1991
+gia-fce 1991
+gjh-fce 1991
+525
+9
+baib-fcf 1991
+bff-fcf 1991
+cce-fcf 1991
+cgf-fcf 1991
+ddi-fcf 1991
+ebi-fcf 1991
+ehe-fcf 1991
+ejd-fcf 1991
+fgf-fcf 1991
+526
+11
+bbc-fcg 1991
+bbe-fcg 1991
+bbeg-fcg 1991
+bcah-fcg 1991
+cie-fcg 1991
+eab-fcg 1991
+eig-fcg 1991
+gcc-fcg 1991
+ibg-fcg 1991
+ihc-fcg 1991
+jhc-fcg 1991
+527
+12
+bcee-fch 1991
+beaj-fch 1991
+beh-fch 1991
+bfgh-fch 1991
+ceb-fch 1991
+cjb-fch 1991
+eae-fch 1991
+ecb-fch 1991
+fcf-fch 1991
+hfc-fch 1991
+ifg-fch 1991
+jhb-fch 1991
+528
+12
+bbea-fci 1991
+bjf-fci 1991
+cjg-fci 1991
+dei-fci 1991
+dfd-fci 1991
+dfh-fci 1991
+dhf-fci 1991
+fhg-fci 1991
+ghf-fci 1991
+hdi-fci 1991
+iba-fci 1991
+iei-fci 1991
+529
+6
+egd-fcj 1991
+fcg-fcj 1991
+ffb-fcj 1991
+ghc-fcj 1991
+heb-fcj 1991
+hge-fcj 1991
+530
+6
+bbbd-fda 1991
+bhi-fda 1991
+bhj-fda 1991
+cfd-fda 1991
+edf-fda 1991
+gca-fda 1991
+531
+7
+bcga-fdb 1991
+ccf-fdb 1991
+dcg-fdb 1991
+def-fdb 1991
+eha-fdb 1991
+ffg-fdb 1991
+gha-fdb 1991
+532
+8
+bahi-fdc 1991
+bbjb-fdc 1991
+bdgb-fdc 1991
+bej-fdc 1991
+cif-fdc 1991
+dad-fdc 1991
+dhh-fdc 1991
+eg-fdc 1991
+533
+13
+baei-fdd 1991
+baif-fdd 1991
+bei-fdd 1991
+bfha-fdd 1991
+bfie-fdd 1991
+cib-fdd 1991
+de-fdd 1991
+dfb-fdd 1991
+eaf-fdd 1991
+edd-fdd 1991
+fbg-fdd 1991
+geb-fdd 1991
+hid-fdd 1991
+534
+3
+egb-fde 1991
+fih-fde 1991
+jj-fde 1991
+535
+6
+bade-fdf 1991
+cgg-fdf 1991
+fbj-fdf 1991
+fdg-fdf 1991
+gdc-fdf 1991
+ibe-fdf 1991
+536
+6
+bach-fdg 1991
+bdhg-fdg 1991
+bhi-fdg 1991
+gbh-fdg 1991
+gje-fdg 1991
+if-fdg 1991
+537
+10
+bcjh-fdh 1991
+cdc-fdh 1991
+che-fdh 1991
+cjd-fdh 1991
+deb-fdh 1991
+dff-fdh 1991
+ecf-fdh 1991
+ffa-fdh 1991
+gf-fdh 1991
+hjd-fdh 1991
+538
+2
+bh-fdi 1991
+jii-fdi 1991
+539
+5
+bdfh-fdj 1991
+e-fdj 1991
+ggc-fdj 1991
+gi-fdj 1991
+hbh-fdj 1991
+540
+6
+bbia-fea 1991
+bceb-fea 1991
+bdcd-fea 1991
+caf-fea 1991
+ee-fea 1991
+ffe-fea 1991
+541
+10
+big-feb 1991
+cid-feb 1991
+dfh-feb 1991
+ejf-feb 1991
+fhh-feb 1991
+fj-feb 1991
+hgh-feb 1991
+ibd-feb 1991
+ieb-feb 1991
+ih-feb 1991
+542
+7
+bfcg-fec 1991
+bfij-fec 1991
+cff-fec 1991
+cjg-fec 1991
+dbe-fec 1991
+ffe-fec 1991
+fjf-fec 1991
+543
+10
+bbhb-fed 1991
+bjf-fed 1991
+cif-fed 1991
+dag-fed 1991
+dib-fed 1991
+eac-fed 1991
+fdh-fed 1991
+fjd-fed 1991
+hdi-fed 1991
+jeb-fed 1991
+544
+9
+bbaa-fee 1991
+bdbd-fee 1991
+be-fee 1991
+bfh-fee 1991
+ecb-fee 1991
+efc-fee 1991
+ejj-fee 1991
+fff-fee 1991
+ihf-fee 1991
+545
+6
+bbfh-fef 1991
+bdad-fef 1991
+bfdg-fef 1991
+dfe-fef 1991
+h-fef 1991
+je-fef 1991
+546
+7
+bcgj-feg 1991
+bd-feg 1991
+bhg-feg 1991
+bi-feg 1991
+hgh-feg 1991
+ihh-feg 1991
+ijc-feg 1991
+547
+6
+bbdc-feh 1991
+bch-feh 1991
+chc-feh 1991
+daj-feh 1991
+djg-feh 1991
+hei-feh 1991
+548
+7
+bcgi-fei 1991
+begd-fei 1991
+cff-fei 1991
+dbc-fei 1991
+eeg-fei 1991
+fbi-fei 1991
+ffc-fei 1991
+549
+6
+b-fej 1991
+cff-fej 1991
+dfe-fej 1991
+eji-fej 1991
+gcg-fej 1991
+hhe-fej 1991
+550
+9
+babh-ffa 1991
+bfef-ffa 1991
+dce-ffa 1991
+df-ffa 1991
+gch-ffa 1991
+gf-ffa 1991
+gfb-ffa 1991
+idb-ffa 1991
+jba-ffa 1991
+551
+8
+cbd-ffb 1991
+cfd-ffb 1991
+cii-ffb 1991
+dab-ffb 1991
+gda-ffb 1991
+i-ffb 1991
+ica-ffb 1991
+jfe-ffb 1991
+552
+5
+bdj-ffc 1991
+bgc-ffc 1991
+ejg-ffc 1991
+fgc-ffc 1991
+hbb-ffc 1991
+553
+8
+bii-ffd 1991
+dij-ffd 1991
+efd-ffd 1991
+eia-ffd 1991
+hec-ffd 1991
+ifg-ffd 1991
+jaf-ffd 1991
+jcj-ffd 1991
+554
+4
+baba-ffe 1991
+bgj-ffe 1991
+ghg-ffe 1991
+hdc-ffe 1991
+555
+8
+baae-fff 1991
+baj-fff 1991
+bbd-fff 1991
+chc-fff 1991
+edi-fff 1991
+fgj-fff 1991
+hfd-fff 1991
+jbf-fff 1991
+556
+2
+cca-ffg 1991
+ffi-ffg 1991
+557
+7
+cfa-ffh 1991
+e-ffh 1991
+ehi-ffh 1991
+fbc-ffh 1991
+fdb-ffh 1991
+fja-ffh 1991
+gfb-ffh 1991
+558
+9
+baga-ffi 1991
+bcdd-ffi 1991
+cdj-ffi 1991
+cgb-ffi 1991
+cif-ffi 1991
+efg-ffi 1991
+fed-ffi 1991
+fid-ffi 1991
+gaj-ffi 1991
+559
+5
+baid-ffj 1991
+dfd-ffj 1991
+gfi-ffj 1991
+gih-ffj 1991
+i-ffj 1991
+560
+12
+bbhg-fga 1991
+bdib-fga 1991
+bfh-fga 1991
+bhe-fga 1991
+ceb-fga 1991
+cfi-fga 1991
+cie-fga 1991
+cii-fga 1991
+eae-fga 1991
+gei-fga 1991
+hhc-fga 1991
+igi-fga 1991
+561
+4
+chd-fgb 1991
+dba-fgb 1991
+eei-fgb 1991
+gff-fgb 1991
+562
+7
+bagf-fgc 1991
+cjb-fgc 1991
+dbd-fgc 1991
+dgd-fgc 1991
+ecf-fgc 1991
+eg-fgc 1991
+jad-fgc 1991
+563
+7
+bfff-fgd 1991
+bfic-fgd 1991
+bie-fgd 1991
+cf-fgd 1991
+dij-fgd 1991
+fb-fgd 1991
+ffa-fgd 1991
+564
+6
+bdad-fge 1991
+bfg-fge 1991
+dah-fge 1991
+gci-fge 1991
+gjf-fge 1991
+ibf-fge 1991
+565
+3
+def-fgf 1991
+fhh-fgf 1991
+ha-fgf 1991
+566
+4
+bih-fgg 1991
+dde-fgg 1991
+efb-fgg 1991
+ice-fgg 1991
+567
+3
+dbh-fgh 1991
+jcf-fgh 1991
+jjf-fgh 1991
+568
+6
+bcbi-fgi 1991
+dfg-fgi 1991
+eeh-fgi 1991
+efc-fgi 1991
+fjj-fgi 1991
+hjf-fgi 1991
+569
+6
+bdc-fgj 1991
+c-fgj 1991
+dei-fgj 1991
+egh-fgj 1991
+gbh-fgj 1991
+ghj-fgj 1991
+570
+5
+bfi-fha 1991
+bfig-fha 1991
+cej-fha 1991
+fhc-fha 1991
+hgc-fha 1991
+571
+9
+bajf-fhb 1991
+beaa-fhb 1991
+beeb-fhb 1991
+bfcb-fhb 1991
+cbf-fhb 1991
+feb-fhb 1991
+gga-fhb 1991
+hab-fhb 1991
+hfe-fhb 1991
+572
+9
+bbi-fhc 1991
+bfed-fhc 1991
+bgea-fhc 1991
+cba-fhc 1991
+dg-fhc 1991
+gah-fhc 1991
+hch-fhc 1991
+ihe-fhc 1991
+ijj-fhc 1991
+573
+7
+cej-fhd 1991
+cih-fhd 1991
+dea-fhd 1991
+dgi-fhd 1991
+ec-fhd 1991
+hci-fhd 1991
+hic-fhd 1991
+574
+10
+bafg-fhe 1991
+cgf-fhe 1991
+cgj-fhe 1991
+dic-fhe 1991
+ebh-fhe 1991
+ei-fhe 1991
+gge-fhe 1991
+hci-fhe 1991
+hhi-fhe 1991
+jbe-fhe 1991
+575
+4
+dh-fhf 1991
+dhj-fhf 1991
+ffb-fhf 1991
+gad-fhf 1991
+576
+6
+bbfh-fhg 1991
+da-fhg 1991
+fjc-fhg 1991
+jbb-fhg 1991
+jbj-fhg 1991
+jdi-fhg 1991
+577
+2
+cba-fhh 1991
+fde-fhh 1991
+578
+5
+bcgj-fhi 1991
+bja-fhi 1991
+eh-fhi 1991
+idd-fhi 1991
+jcb-fhi 1991
+579
+6
+bgde-fhj 1991
+bgj-fhj 1991
+fag-fhj 1991
+fgf-fhj 1991
+gaj-fhj 1991
+ii-fhj 1991
+580
+6
+bb-fia 1991
+cdd-fia 1991
+gcc-fia 1991
+hga-fia 1991
+hjh-fia 1991
+jd-fia 1991
+581
+4
+bag-fib 1991
+dcg-fib 1991
+fgb-fib 1991
+gjb-fib 1991
+582
+10
+bgaj-fic 1991
+ce-fic 1991
+cea-fic 1991
+cif-fic 1991
+eh-fic 1991
+hgg-fic 1991
+ic-fic 1991
+ifh-fic 1991
+ijd-fic 1991
+ijh-fic 1991
+583
+7
+bbaa-fid 1991
+cdd-fid 1991
+cih-fid 1991
+ejh-fid 1991
+fh-fid 1991
+gif-fid 1991
+hh-fid 1991
+584
+8
+bbdc-fie 1991
+bccf-fie 1991
+bdbf-fie 1991
+efe-fie 1991
+ffb-fie 1991
+gj-fie 1991
+idg-fie 1991
+ijh-fie 1991
+585
+8
+bbc-fif 1991
+bcec-fif 1991
+bfcg-fif 1991
+cba-fif 1991
+fj-fif 1991
+gge-fif 1991
+gjb-fif 1991
+ibj-fif 1991
+586
+8
+bfj-fig 1991
+bgf-fig 1991
+bjc-fig 1991
+dec-fig 1991
+eib-fig 1991
+ejf-fig 1991
+ejg-fig 1991
+gfa-fig 1991
+587
+3
+bcc-fih 1991
+ed-fih 1991
+id-fih 1991
+588
+9
+bac-fii 1991
+bagb-fii 1991
+bcfh-fii 1991
+bje-fii 1991
+fce-fii 1991
+fde-fii 1991
+gde-fii 1991
+gga-fii 1991
+haf-fii 1991
+589
+4
+bdfi-fij 1991
+ebj-fij 1991
+fdf-fij 1991
+jie-fij 1991
+590
+6
+bhf-fja 1991
+bhg-fja 1991
+cib-fja 1991
+cih-fja 1991
+edj-fja 1991
+ge-fja 1991
+591
+9
+bggb-fjb 1991
+caa-fjb 1991
+cij-fjb 1991
+cja-fjb 1991
+egg-fjb 1991
+gcg-fjb 1991
+gef-fjb 1991
+hae-fjb 1991
+hc-fjb 1991
+592
+12
+baee-fjc 1991
+bcff-fjc 1991
+bd-fjc 1991
+cce-fjc 1991
+cie-fjc 1991
+dbd-fjc 1991
+dbg-fjc 1991
+gab-fjc 1991
+h-fjc 1991
+hdf-fjc 1991
+hh-fjc 1991
+jii-fjc 1991
+593
+7
+cde-fjd 1991
+cec-fjd 1991
+cif-fjd 1991
+ecc-fjd 1991
+ed-fjd 1991
+gba-fjd 1991
+hjc-fjd 1991
+594
+5
+bbac-fje 1991
+fba-fje 1991
+fdj-fje 1991
+hci-fje 1991
+hdj-fje 1991
+595
+7
+bae-fjf 1991
+bahg-fjf 1991
+ded-fjf 1991
+did-fjf 1991
+fhc-fjf 1991
+jcc-fjf 1991
+jhf-fjf 1991
+596
+3
+bcfe-fjg 1991
+bhg-fjg 1991
+f-fjg 1991
+597
+7
+babb-fjh 1991
+baij-fjh 1991
+ddd-fjh 1991
+ei-fjh 1991
+fdf-fjh 1991
+g-fjh 1991
+h-fjh 1991
+598
+9
+bddi-fji 1991
+bgb-fji 1991
+cdf-fji 1991
+ehf-fji 1991
+ejc-fji 1991
+fij-fji 1991
+hh-fji 1991
+iga-fji 1991
+jbi-fji 1991
+599
+4
+bbg-fjj 1991
+ddi-fjj 1991
+fib-fjj 1991
+gj-fjj 1991
+600
+5
+bacj-gaa 1991
+cdd-gaa 1991
+gbb-gaa 1991
+gie-gaa 1991
+gjf-gaa 1991
+601
+3
+ca-gab 1991
+ejg-gab 1991
+gdh-gab 1991
+602
+3
+cca-gac 1991
+fbf-gac 1991
+ijf-gac 1991
+603
+7
+bdfe-gad 1991
+bf-gad 1991
+bjc-gad 1991
+cdf-gad 1991
+fjf-gad 1991
+hij-gad 1991
+jjh-gad 1991
+604
+12
+bai-gae 1991
+bd-gae 1991
+bfi-gae 1991
+ceb-gae 1991
+cfd-gae 1991
+cfi-gae 1991
+dhj-gae 1991
+eig-gae 1991
+gcg-gae 1991
+ghc-gae 1991
+hca-gae 1991
+jci-gae 1991
+605
+2
+bjh-gaf 1991
+cig-gaf 1991
+606
+7
+bafe-gag 1991
+bahg-gag 1991
+bcba-gag 1991
+dff-gag 1991
+dgc-gag 1991
+gii-gag 1991
+jij-gag 1991
+607
+9
+bed-gah 1991
+cdd-gah 1991
+cjc-gah 1991
+dch-gah 1991
+dji-gah 1991
+ebg-gah 1991
+fac-gah 1991
+iaf-gah 1991
+ici-gah 1991
+608
+2
+daa-gai 1991
+gff-gai 1991
+609
+4
+bcde-gaj 1991
+ccf-gaj 1991
+di-gaj 1991
+iae-gaj 1991
+610
+7
+bbge-gba 1991
+bbib-gba 1991
+dah-gba 1991
+fdi-gba 1991
+gcb-gba 1991
+hgc-gba 1991
+hge-gba 1991
+611
+7
+becb-gbb 1991
+bfjj-gbb 1991
+cgb-gbb 1991
+dhf-gbb 1991
+efh-gbb 1991
+eja-gbb 1991
+fab-gbb 1991
+612
+7
+baab-gbc 1991
+bbh-gbc 1991
+bbhc-gbc 1991
+bej-gbc 1991
+ejh-gbc 1991
+ga-gbc 1991
+hb-gbc 1991
+613
+6
+bbcd-gbd 1991
+cdf-gbd 1991
+cg-gbd 1991
+ege-gbd 1991
+fcb-gbd 1991
+gca-gbd 1991
+614
+3
+bbch-gbe 1991
+bgfd-gbe 1991
+fcj-gbe 1991
+615
+5
+bbeh-gbf 1991
+bdcf-gbf 1991
+ccj-gbf 1991
+fa-gbf 1991
+fgd-gbf 1991
+616
+4
+bbcb-gbg 1991
+dga-gbg 1991
+dhh-gbg 1991
+hhb-gbg 1991
+617
+3
+dje-gbh 1991
+ejj-gbh 1991
+ff-gbh 1991
+618
+9
+bacg-gbi 1991
+bbeh-gbi 1991
+cfd-gbi 1991
+dbi-gbi 1991
+dib-gbi 1991
+ej-gbi 1991
+hhg-gbi 1991
+ifc-gbi 1991
+jd-gbi 1991
+619
+8
+bbfi-gbj 1991
+cai-gbj 1991
+dee-gbj 1991
+eaa-gbj 1991
+fih-gbj 1991
+gch-gbj 1991
+jej-gbj 1991
+jib-gbj 1991
+620
+7
+bbfc-gca 1991
+ddd-gca 1991
+gfd-gca 1991
+haj-gca 1991
+hbg-gca 1991
+iid-gca 1991
+jig-gca 1991
+621
+7
+bafh-gcb 1991
+bbbb-gcb 1991
+bch-gcb 1991
+bfbd-gcb 1991
+cab-gcb 1991
+dj-gcb 1991
+jca-gcb 1991
+622
+12
+baad-gcc 1991
+baee-gcc 1991
+bafc-gcc 1991
+bbii-gcc 1991
+cdh-gcc 1991
+che-gcc 1991
+ejb-gcc 1991
+ffj-gcc 1991
+gaj-gcc 1991
+gi-gcc 1991
+gih-gcc 1991
+iie-gcc 1991
+623
+5
+bbjd-gcd 1991
+bfd-gcd 1991
+bgbi-gcd 1991
+egf-gcd 1991
+ja-gcd 1991
+624
+7
+bbb-gce 1991
+bdfi-gce 1991
+bfh-gce 1991
+de-gce 1991
+dgg-gce 1991
+dhb-gce 1991
+fai-gce 1991
+625
+3
+baii-gcf 1991
+cgj-gcf 1991
+daf-gcf 1991
+626
+6
+cce-gcg 1991
+chg-gcg 1991
+gbh-gcg 1991
+haa-gcg 1991
+hgd-gcg 1991
+ijg-gcg 1991
+627
+8
+ba-gch 1991
+bdc-gch 1991
+cih-gch 1991
+ed-gch 1991
+eja-gch 1991
+ffb-gch 1991
+fjh-gch 1991
+ggd-gch 1991
+628
+6
+bga-gci 1991
+cea-gci 1991
+fdc-gci 1991
+ghh-gci 1991
+gid-gci 1991
+igb-gci 1991
+629
+3
+cde-gcj 1991
+ebb-gcj 1991
+ged-gcj 1991
+630
+3
+bdcf-gda 1991
+dha-gda 1991
+ihh-gda 1991
+631
+5
+bbg-gdb 1991
+bdci-gdb 1991
+bii-gdb 1991
+cb-gdb 1991
+eah-gdb 1991
+632
+8
+babf-gdc 1991
+bcbd-gdc 1991
+cah-gdc 1991
+ejj-gdc 1991
+gbe-gdc 1991
+hjf-gdc 1991
+ifc-gdc 1991
+igj-gdc 1991
+633
+5
+bcag-gdd 1991
+bic-gdd 1991
+dgb-gdd 1991
+efh-gdd 1991
+hfi-gdd 1991
+634
+9
+baeb-gde 1991
+bafh-gde 1991
+becb-gde 1991
+cdd-gde 1991
+cjg-gde 1991
+fgf-gde 1991
+gah-gde 1991
+gba-gde 1991
+hed-gde 1991
+635
+5
+bchf-gdf 1991
+bhc-gdf 1991
+cbe-gdf 1991
+gfe-gdf 1991
+hjh-gdf 1991
+636
+9
+bahb-gdg 1991
+bajh-gdg 1991
+bddj-gdg 1991
+cdf-gdg 1991
+dac-gdg 1991
+db-gdg 1991
+dcd-gdg 1991
+gfd-gdg 1991
+hag-gdg 1991
+637
+6
+bdfd-gdh 1991
+big-gdh 1991
+ghh-gdh 1991
+if-gdh 1991
+iih-gdh 1991
+jci-gdh 1991
+638
+4
+caj-gdi 1991
+ega-gdi 1991
+fde-gdi 1991
+jcc-gdi 1991
+639
+4
+cei-gdj 1991
+dib-gdj 1991
+gh-gdj 1991
+gjg-gdj 1991
+640
+6
+cda-gea 1991
+dea-gea 1991
+eaa-gea 1991
+eda-gea 1991
+edi-gea 1991
+jh-gea 1991
+641
+7
+begg-geb 1991
+cfh-geb 1991
+eff-geb 1991
+fcb-geb 1991
+hfa-geb 1991
+hhd-geb 1991
+ijh-geb 1991
+642
+3
+ffc-gec 1991
+ig-gec 1991
+ihd-gec 1991
+643
+5
+bdbj-ged 1991
+ccj-ged 1991
+deh-ged 1991
+dja-ged 1991
+haj-ged 1991
+644
+1
+dda-gee 1991
+645
+8
+bdgj-gef 1991
+cib-gef 1991
+dad-gef 1991
+dfi-gef 1991
+gfh-gef 1991
+gij-gef 1991
+icf-gef 1991
+jii-gef 1991
+646
+8
+baaa-geg 1991
+bagj-geg 1991
+bcbi-geg 1991
+bfcj-geg 1991
+cie-geg 1991
+dcg-geg 1991
+gaj-geg 1991
+hh-geg 1991
+647
+4
+bjh-geh 1991
+gah-geh 1991
+iai-geh 1991
+jg-geh 1991
+648
+6
+bej-gei 1991
+daf-gei 1991
+eeb-gei 1991
+ffa-gei 1991
+he-gei 1991
+iba-gei 1991
+649
+5
+bge-gej 1991
+cab-gej 1991
+fec-gej 1991
+gda-gej 1991
+hgi-gej 1991
+650
+5
+bdd-gfa 1991
+bgeg-gfa 1991
+bgj-gfa 1991
+dcg-gfa 1991
+hbc-gfa 1991
+651
+4
+bcbi-gfb 1991
+g-gfb 1991
+gfj-gfb 1991
+jhj-gfb 1991
+652
+5
+baha-gfc 1991
+bcb-gfc 1991
+bche-gfc 1991
+ccf-gfc 1991
+iae-gfc 1991
+653
+5
+bdbg-gfd 1991
+gca-gfd 1991
+gch-gfd 1991
+hdc-gfd 1991
+hjb-gfd 1991
+654
+3
+baci-gfe 1991
+bif-gfe 1991
+hfa-gfe 1991
+655
+10
+bga-gff 1991
+cda-gff 1991
+cge-gff 1991
+eci-gff 1991
+egd-gff 1991
+egf-gff 1991
+ehe-gff 1991
+hh-gff 1991
+idi-gff 1991
+jbi-gff 1991
+656
+5
+bahh-gfg 1991
+cef-gfg 1991
+chc-gfg 1991
+gee-gfg 1991
+jaj-gfg 1991
+657
+6
+bi-gfh 1991
+bji-gfh 1991
+ccf-gfh 1991
+ffb-gfh 1991
+iga-gfh 1991
+jaj-gfh 1991
+658
+6
+becd-gfi 1991
+bfbd-gfi 1991
+dbd-gfi 1991
+ech-gfi 1991
+ghc-gfi 1991
+jeh-gfi 1991
+659
+3
+bdba-gfj 1991
+dgd-gfj 1991
+ejh-gfj 1991
+660
+4
+bhe-gga 1991
+gbc-gga 1991
+hhe-gga 1991
+j-gga 1991
+661
+5
+bee-ggb 1991
+bej-ggb 1991
+bgj-ggb 1991
+eae-ggb 1991
+igf-ggb 1991
+662
+3
+bgae-ggc 1991
+id-ggc 1991
+iea-ggc 1991
+663
+7
+bge-ggd 1991
+cjh-ggd 1991
+djj-ggd 1991
+hed-ggd 1991
+igd-ggd 1991
+igf-ggd 1991
+jhh-ggd 1991
+664
+11
+bdc-gge 1991
+beai-gge 1991
+beg-gge 1991
+bfid-gge 1991
+cjh-gge 1991
+dbj-gge 1991
+eeb-gge 1991
+efd-gge 1991
+ehc-gge 1991
+gaj-gge 1991
+ifg-gge 1991
+665
+6
+bad-ggf 1991
+bcdj-ggf 1991
+feh-ggf 1991
+hab-ggf 1991
+ibj-ggf 1991
+jfj-ggf 1991
+666
+4
+bih-ggg 1991
+caf-ggg 1991
+die-ggg 1991
+dij-ggg 1991
+667
+1
+cab-ggh 1991
+668
+7
+beh-ggi 1991
+bfc-ggi 1991
+bfge-ggi 1991
+cbc-ggi 1991
+cgh-ggi 1991
+hae-ggi 1991
+jag-ggi 1991
+669
+3
+cfa-ggj 1991
+hai-ggj 1991
+idj-ggj 1991
+670
+6
+bfgj-gha 1991
+bhc-gha 1991
+cgi-gha 1991
+gdh-gha 1991
+gii-gha 1991
+ifc-gha 1991
+671
+10
+bbff-ghb 1991
+bbfg-ghb 1991
+bcg-ghb 1991
+bdj-ghb 1991
+bed-ghb 1991
+bgae-ghb 1991
+bgef-ghb 1991
+bji-ghb 1991
+ccg-ghb 1991
+idb-ghb 1991
+672
+8
+bch-ghc 1991
+begg-ghc 1991
+beid-ghc 1991
+cib-ghc 1991
+efi-ghc 1991
+fea-ghc 1991
+fhi-ghc 1991
+jjf-ghc 1991
+673
+4
+bae-ghd 1991
+cba-ghd 1991
+did-ghd 1991
+egj-ghd 1991
+674
+4
+ccb-ghe 1991
+cji-ghe 1991
+gee-ghe 1991
+ggg-ghe 1991
+675
+2
+fhh-ghf 1991
+ggb-ghf 1991
+676
+5
+baic-ghg 1991
+cej-ghg 1991
+dhh-ghg 1991
+fdj-ghg 1991
+fhb-ghg 1991
+677
+6
+bacj-ghh 1991
+cbc-ghh 1991
+fdi-ghh 1991
+gdc-ghh 1991
+gec-ghh 1991
+hib-ghh 1991
+678
+4
+bge-ghi 1991
+cic-ghi 1991
+daf-ghi 1991
+hai-ghi 1991
+679
+5
+bcbc-ghj 1991
+eig-ghj 1991
+fcd-ghj 1991
+fdb-ghj 1991
+hec-ghj 1991
+680
+8
+ccg-gia 1991
+egg-gia 1991
+fda-gia 1991
+gca-gia 1991
+hbf-gia 1991
+ied-gia 1991
+jfc-gia 1991
+ji-gia 1991
+681
+3
+bbhf-gib 1991
+cic-gib 1991
+ehj-gib 1991
+682
+6
+bbga-gic 1991
+bjc-gic 1991
+dhi-gic 1991
+fed-gic 1991
+gge-gic 1991
+hag-gic 1991
+683
+3
+cjj-gid 1991
+ddg-gid 1991
+ejh-gid 1991
+684
+6
+bcga-gie 1991
+ggj-gie 1991
+ha-gie 1991
+ici-gie 1991
+ihe-gie 1991
+iih-gie 1991
+685
+8
+bcdi-gif 1991
+bcig-gif 1991
+dfb-gif 1991
+fij-gif 1991
+gdf-gif 1991
+gej-gif 1991
+hge-gif 1991
+jea-gif 1991
+686
+4
+bbe-gig 1991
+cec-gig 1991
+gj-gig 1991
+ijf-gig 1991
+687
+5
+baai-gih 1991
+badc-gih 1991
+bbfb-gih 1991
+die-gih 1991
+fic-gih 1991
+688
+6
+baab-gii 1991
+badj-gii 1991
+cgf-gii 1991
+edf-gii 1991
+hgg-gii 1991
+ib-gii 1991
+689
+6
+bei-gij 1991
+ehf-gij 1991
+ehh-gij 1991
+faf-gij 1991
+fgh-gij 1991
+ibd-gij 1991
+690
+4
+bajc-gja 1991
+bbhg-gja 1991
+ecd-gja 1991
+fha-gja 1991
+691
+1
+ebc-gjb 1991
+692
+7
+behb-gjc 1991
+ca-gjc 1991
+de-gjc 1991
+gbe-gjc 1991
+hg-gjc 1991
+hji-gjc 1991
+jed-gjc 1991
+693
+4
+bji-gjd 1991
+cba-gjd 1991
+gad-gjd 1991
+hfh-gjd 1991
+694
+4
+b-gje 1991
+bbdf-gje 1991
+bhc-gje 1991
+eca-gje 1991
+695
+3
+dig-gjf 1991
+hdh-gjf 1991
+ieg-gjf 1991
+696
+7
+bbic-gjg 1991
+bdda-gjg 1991
+behg-gjg 1991
+bfb-gjg 1991
+dci-gjg 1991
+egg-gjg 1991
+ifa-gjg 1991
+697
+5
+cbg-gjh 1991
+cje-gjh 1991
+dfd-gjh 1991
+fgi-gjh 1991
+hia-gjh 1991
+698
+2
+bbgf-gji 1991
+ghe-gji 1991
+699
+5
+bahi-gjj 1991
+cg-gjj 1991
+fbi-gjj 1991
+hhe-gjj 1991
+iii-gjj 1991
+700
+4
+bcea-haa 1991
+bjj-haa 1991
+dbe-haa 1991
+dg-haa 1991
+701
+3
+bcfg-hab 1991
+fij-hab 1991
+gc-hab 1991
+702
+4
+bcbg-hac 1991
+eif-hac 1991
+gdb-hac 1991
+gid-hac 1991
+703
+6
+bahi-had 1991
+bjh-had 1991
+gh-had 1991
+hd-had 1991
+iec-had 1991
+jc-had 1991
+704
+7
+bbic-hae 1991
+chi-hae 1991
+fac-hae 1991
+fhh-hae 1991
+hea-hae 1991
+idb-hae 1991
+ije-hae 1991
+705
+5
+bbcd-haf 1991
+cdd-haf 1991
+gic-haf 1991
+jda-haf 1991
+jji-haf 1991
+706
+6
+bcgb-hag 1991
+beje-hag 1991
+dfg-hag 1991
+dic-hag 1991
+ecj-hag 1991
+hje-hag 1991
+707
+4
+dcd-hah 1991
+efj-hah 1991
+fda-hah 1991
+ghg-hah 1991
+708
+3
+bce-hai 1991
+bfh-hai 1991
+hfh-hai 1991
+709
+6
+bbhd-haj 1991
+bdjj-haj 1991
+ejj-haj 1991
+ggj-haj 1991
+gj-haj 1991
+hjd-haj 1991
+710
+3
+bdbi-hba 1991
+bega-hba 1991
+gee-hba 1991
+711
+4
+cfb-hbb 1991
+cgj-hbb 1991
+eee-hbb 1991
+fac-hbb 1991
+712
+3
+bdif-hbc 1991
+ffc-hbc 1991
+jdg-hbc 1991
+713
+6
+bcbd-hbd 1991
+bdff-hbd 1991
+bei-hbd 1991
+eij-hbd 1991
+iah-hbd 1991
+jjf-hbd 1991
+714
+3
+edh-hbe 1991
+fc-hbe 1991
+fji-hbe 1991
+715
+4
+dbd-hbf 1991
+dga-hbf 1991
+fcf-hbf 1991
+jf-hbf 1991
+716
+6
+bdjf-hbg 1991
+egh-hbg 1991
+gde-hbg 1991
+i-hbg 1991
+ife-hbg 1991
+jh-hbg 1991
+717
+4
+babe-hbh 1991
+ci-hbh 1991
+dbj-hbh 1991
+ifg-hbh 1991
+718
+4
+bdid-hbi 1991
+egd-hbi 1991
+gja-hbi 1991
+jfh-hbi 1991
+719
+3
+bedf-hbj 1991
+ghc-hbj 1991
+jge-hbj 1991
+720
+8
+bcej-hca 1991
+cib-hca 1991
+ead-hca 1991
+ejj-hca 1991
+g-hca 1991
+hcf-hca 1991
+ibe-hca 1991
+jid-hca 1991
+721
+8
+baaj-hcb 1991
+bahd-hcb 1991
+bdfa-hcb 1991
+cha-hcb 1991
+faf-hcb 1991
+ffe-hcb 1991
+igd-hcb 1991
+jba-hcb 1991
+722
+8
+bacg-hcc 1991
+cfe-hcc 1991
+cie-hcc 1991
+dda-hcc 1991
+eah-hcc 1991
+ghd-hcc 1991
+id-hcc 1991
+iee-hcc 1991
+723
+7
+bdhb-hcd 1991
+bgi-hcd 1991
+cf-hcd 1991
+cjg-hcd 1991
+ghf-hcd 1991
+hhf-hcd 1991
+jee-hcd 1991
+724
+7
+bchf-hce 1991
+bde-hce 1991
+beaf-hce 1991
+dha-hce 1991
+eab-hce 1991
+ejf-hce 1991
+gfj-hce 1991
+725
+5
+b-hcf 1991
+bbae-hcf 1991
+cih-hcf 1991
+gad-hcf 1991
+hhc-hcf 1991
+726
+5
+baed-hcg 1991
+bfd-hcg 1991
+ibf-hcg 1991
+ja-hcg 1991
+jjg-hcg 1991
+727
+4
+fci-hch 1991
+gdg-hch 1991
+ghe-hch 1991
+jcb-hch 1991
+728
+5
+baef-hci 1991
+bdff-hci 1991
+fbf-hci 1991
+geh-hci 1991
+ggi-hci 1991
+729
+7
+bbbg-hcj 1991
+bbe-hcj 1991
+bbgd-hcj 1991
+eec-hcj 1991
+ejb-hcj 1991
+hdb-hcj 1991
+jd-hcj 1991
+730
+5
+dec-hda 1991
+ea-hda 1991
+eda-hda 1991
+ffb-hda 1991
+idc-hda 1991
+731
+4
+bejg-hdb 1991
+bfhg-hdb 1991
+fei-hdb 1991
+jh-hdb 1991
+732
+6
+bdac-hdc 1991
+befb-hdc 1991
+cbi-hdc 1991
+cej-hdc 1991
+gig-hdc 1991
+jbf-hdc 1991
+733
+6
+bcbd-hdd 1991
+bcf-hdd 1991
+bdg-hdd 1991
+bib-hdd 1991
+cih-hdd 1991
+ejb-hdd 1991
+734
+4
+baci-hde 1991
+bbjf-hde 1991
+gdj-hde 1991
+jfh-hde 1991
+735
+5
+bbha-hdf 1991
+bcfg-hdf 1991
+dci-hdf 1991
+fad-hdf 1991
+gbh-hdf 1991
+736
+3
+dac-hdg 1991
+eba-hdg 1991
+fjc-hdg 1991
+737
+3
+baga-hdh 1991
+fec-hdh 1991
+ihb-hdh 1991
+738
+4
+beah-hdi 1991
+bic-hdi 1991
+hca-hdi 1991
+iae-hdi 1991
+739
+4
+bci-hdj 1991
+eci-hdj 1991
+haa-hdj 1991
+jbj-hdj 1991
+740
+8
+bcji-hea 1991
+bdfd-hea 1991
+befg-hea 1991
+cb-hea 1991
+djb-hea 1991
+fdf-hea 1991
+jb-hea 1991
+jjg-hea 1991
+741
+3
+bji-heb 1991
+fab-heb 1991
+icg-heb 1991
+742
+9
+bbca-hec 1991
+bdda-hec 1991
+bdhc-hec 1991
+beh-hec 1991
+bfjg-hec 1991
+edd-hec 1991
+fai-hec 1991
+gai-hec 1991
+iif-hec 1991
+743
+3
+bcbg-hed 1991
+bfei-hed 1991
+ffe-hed 1991
+744
+4
+bfhd-hee 1991
+gbf-hee 1991
+idh-hee 1991
+ijb-hee 1991
+745
+5
+beg-hef 1991
+bfch-hef 1991
+bge-hef 1991
+bjd-hef 1991
+gha-hef 1991
+746
+7
+bcdd-heg 1991
+bcg-heg 1991
+ceb-heg 1991
+ega-heg 1991
+fid-heg 1991
+gee-heg 1991
+hee-heg 1991
+747
+6
+dcb-heh 1991
+ecf-heh 1991
+ed-heh 1991
+fcj-heh 1991
+ggc-heh 1991
+hii-heh 1991
+748
+4
+baca-hei 1991
+fad-hei 1991
+ie-hei 1991
+if-hei 1991
+749
+4
+bgbd-hej 1991
+ccd-hej 1991
+cec-hej 1991
+gcc-hej 1991
+750
+8
+bdi-hfa 1991
+befe-hfa 1991
+dei-hfa 1991
+dgc-hfa 1991
+gif-hfa 1991
+hbc-hfa 1991
+jga-hfa 1991
+jhg-hfa 1991
+751
+7
+beh-hfb 1991
+bff-hfb 1991
+egc-hfb 1991
+gc-hfb 1991
+gdg-hfb 1991
+ghg-hfb 1991
+icd-hfb 1991
+752
+4
+bbg-hfc 1991
+bcdc-hfc 1991
+gab-hfc 1991
+gjh-hfc 1991
+753
+4
+bad-hfd 1991
+bcec-hfd 1991
+ddc-hfd 1991
+eih-hfd 1991
+754
+6
+bahd-hfe 1991
+bbjj-hfe 1991
+dch-hfe 1991
+dfb-hfe 1991
+ejg-hfe 1991
+gac-hfe 1991
+755
+7
+bacc-hff 1991
+bbci-hff 1991
+eic-hff 1991
+gfh-hff 1991
+gie-hff 1991
+hge-hff 1991
+ij-hff 1991
+756
+3
+bbac-hfg 1991
+gfd-hfg 1991
+ij-hfg 1991
+757
+5
+bbaj-hfh 1991
+eci-hfh 1991
+ede-hfh 1991
+ibb-hfh 1991
+ihf-hfh 1991
+758
+4
+beih-hfi 1991
+dde-hfi 1991
+eci-hfi 1991
+heb-hfi 1991
+759
+3
+bfhi-hfj 1991
+gaa-hfj 1991
+jfc-hfj 1991
+760
+4
+bbg-hga 1991
+eah-hga 1991
+fdb-hga 1991
+jcj-hga 1991
+761
+7
+bccd-hgb 1991
+bdf-hgb 1991
+dfj-hgb 1991
+gcc-hgb 1991
+gig-hgb 1991
+hfc-hgb 1991
+iaj-hgb 1991
+762
+5
+dej-hgc 1991
+fdi-hgc 1991
+fea-hgc 1991
+fia-hgc 1991
+hje-hgc 1991
+763
+3
+bbfa-hgd 1991
+bedb-hgd 1991
+ccc-hgd 1991
+764
+3
+beff-hge 1991
+efg-hge 1991
+jdc-hge 1991
+765
+5
+bafe-hgf 1991
+bbcc-hgf 1991
+bci-hgf 1991
+fea-hgf 1991
+icd-hgf 1991
+766
+3
+baib-hgg 1991
+ddc-hgg 1991
+ehf-hgg 1991
+767
+5
+bad-hgh 1991
+chd-hgh 1991
+deg-hgh 1991
+dej-hgh 1991
+heh-hgh 1991
+768
+4
+baai-hgi 1991
+baja-hgi 1991
+cdb-hgi 1991
+hah-hgi 1991
+769
+2
+bbjj-hgj 1991
+bji-hgj 1991
+770
+7
+baad-hha 1991
+bi-hha 1991
+dag-hha 1991
+hdd-hha 1991
+ihj-hha 1991
+ii-hha 1991
+jdd-hha 1991
+771
+5
+bbaa-hhb 1991
+bbaj-hhb 1991
+dfa-hhb 1991
+fj-hhb 1991
+gfa-hhb 1991
+772
+6
+beff-hhc 1991
+ccf-hhc 1991
+eia-hhc 1991
+fhc-hhc 1991
+gha-hhc 1991
+iad-hhc 1991
+773
+6
+bbd-hhd 1991
+bdec-hhd 1991
+ch-hhd 1991
+dhh-hhd 1991
+gaa-hhd 1991
+gj-hhd 1991
+774
+5
+bdfa-hhe 1991
+dji-hhe 1991
+eff-hhe 1991
+fcd-hhe 1991
+gja-hhe 1991
+775
+5
+bafj-hhf 1991
+bbc-hhf 1991
+bcf-hhf 1991
+dag-hhf 1991
+ed-hhf 1991
+776
+4
+bcd-hhg 1991
+dgd-hhg 1991
+ga-hhg 1991
+hbb-hhg 1991
+777
+2
+ebd-hhh 1991
+haa-hhh 1991
+778
+4
+bdci-hhi 1991
+dcj-hhi 1991
+fjd-hhi 1991
+jdd-hhi 1991
+779
+9
+beb-hhj 1991
+bfag-hhj 1991
+cbg-hhj 1991
+cda-hhj 1991
+chi-hhj 1991
+hie-hhj 1991
+idc-hhj 1991
+ie-hhj 1991
+jec-hhj 1991
+780
+3
+bbie-hia 1991
+dbf-hia 1991
+jdd-hia 1991
+781
+4
+bbfb-hib 1991
+bbi-hib 1991
+ccc-hib 1991
+edh-hib 1991
+782
+7
+bbda-hic 1991
+bgcf-hic 1991
+chh-hic 1991
+dcc-hic 1991
+dgg-hic 1991
+dhd-hic 1991
+hcj-hic 1991
+783
+2
+bgdg-hid 1991
+cjh-hid 1991
+784
+3
+bgbb-hie 1991
+bjg-hie 1991
+e-hie 1991
+785
+4
+cii-hif 1991
+fje-hif 1991
+ggc-hif 1991
+idh-hif 1991
+786
+3
+che-hig 1991
+fig-hig 1991
+gb-hig 1991
+787
+5
+bdbe-hih 1991
+bfg-hih 1991
+ddh-hih 1991
+eii-hih 1991
+iaf-hih 1991
+788
+6
+bcbd-hii 1991
+cgi-hii 1991
+dff-hii 1991
+djb-hii 1991
+fej-hii 1991
+jaj-hii 1991
+789
+7
+bbbd-hij 1991
+bji-hij 1991
+dif-hij 1991
+eah-hij 1991
+fj-hij 1991
+hag-hij 1991
+jff-hij 1991
+790
+2
+fae-hja 1991
+gbd-hja 1991
+791
+4
+bde-hjb 1991
+cbb-hjb 1991
+cfh-hjb 1991
+ddi-hjb 1991
+792
+9
+baah-hjc 1991
+bbfi-hjc 1991
+bfhe-hjc 1991
+djf-hjc 1991
+edj-hjc 1991
+gaj-hjc 1991
+hbi-hjc 1991
+hcc-hjc 1991
+ifd-hjc 1991
+793
+3
+bbd-hjd 1991
+fef-hjd 1991
+jb-hjd 1991
+794
+4
+bdja-hje 1991
+beg-hje 1991
+bfd-hje 1991
+fgj-hje 1991
+795
+5
+beji-hjf 1991
+dj-hjf 1991
+edj-hjf 1991
+gid-hjf 1991
+iae-hjf 1991
+796
+7
+cfa-hjg 1991
+eda-hjg 1991
+gci-hjg 1991
+gdj-hjg 1991
+igd-hjg 1991
+jdh-hjg 1991
+jgg-hjg 1991
+797
+2
+bcg-hjh 1991
+caj-hjh 1991
+798
+3
+bba-hji 1991
+hfj-hji 1991
+iac-hji 1991
+799
+8
+bace-hjj 1991
+baic-hjj 1991
+beea-hjj 1991
+bgc-hjj 1991
+cjf-hjj 1991
+fe-hjj 1991
+fgd-hjj 1991
+gah-hjj 1991
+800
+7
+cij-iaa 1991
+deb-iaa 1991
+dhc-iaa 1991
+ead-iaa 1991
+eef-iaa 1991
+fdg-iaa 1991
+jcg-iaa 1991
+801
+3
+bdbh-iab 1991
+cdh-iab 1991
+ech-iab 1991
+802
+3
+eic-iac 1991
+hbi-iac 1991
+hia-iac 1991
+803
+6
+bade-iad 1991
+cba-iad 1991
+cgd-iad 1991
+d-iad 1991
+dd-iad 1991
+jcd-iad 1991
+804
+5
+bcd-iae 1991
+cdf-iae 1991
+cib-iae 1991
+cjg-iae 1991
+fjd-iae 1991
+805
+4
+ecj-iaf 1991
+ejf-iaf 1991
+gjf-iaf 1991
+jd-iaf 1991
+806
+5
+bage-iag 1991
+begg-iag 1991
+ejg-iag 1991
+gj-iag 1991
+ihd-iag 1991
+807
+5
+bge-iah 1991
+dad-iah 1991
+dfb-iah 1991
+fei-iah 1991
+heh-iah 1991
+808
+4
+beja-iai 1991
+dje-iai 1991
+gf-iai 1991
+jh-iai 1991
+809
+6
+bc-iaj 1991
+bddg-iaj 1991
+dja-iaj 1991
+gbh-iaj 1991
+gci-iaj 1991
+hce-iaj 1991
+810
+6
+bafb-iba 1991
+bbba-iba 1991
+bbbj-iba 1991
+bcb-iba 1991
+ejb-iba 1991
+fdb-iba 1991
+811
+4
+bead-ibb 1991
+gec-ibb 1991
+he-ibb 1991
+iha-ibb 1991
+812
+2
+bbgf-ibc 1991
+egb-ibc 1991
+813
+3
+bdhd-ibd 1991
+bgcj-ibd 1991
+cig-ibd 1991
+814
+3
+bbcc-ibe 1991
+fba-ibe 1991
+jbe-ibe 1991
+815
+4
+bcej-ibf 1991
+bffh-ibf 1991
+dih-ibf 1991
+dje-ibf 1991
+816
+5
+bafg-ibg 1991
+cbf-ibg 1991
+ceb-ibg 1991
+efj-ibg 1991
+fhg-ibg 1991
+817
+4
+babb-ibh 1991
+bahj-ibh 1991
+eja-ibh 1991
+hhf-ibh 1991
+818
+6
+bjc-ibi 1991
+fdi-ibi 1991
+fii-ibi 1991
+gi-ibi 1991
+hjb-ibi 1991
+jib-ibi 1991
+819
+4
+bbcd-ibj 1991
+bbdb-ibj 1991
+dfd-ibj 1991
+hae-ibj 1991
+820
+6
+bcfh-ica 1991
+becf-ica 1991
+dgi-ica 1991
+edc-ica 1991
+gdh-ica 1991
+jde-ica 1991
+821
+3
+fhj-icb 1991
+fib-icb 1991
+hfi-icb 1991
+822
+3
+bafd-icc 1991
+edb-icc 1991
+fdh-icc 1991
+823
+9
+bfd-icd 1991
+cjf-icd 1991
+dj-icd 1991
+eig-icd 1991
+hcd-icd 1991
+hj-icd 1991
+ibh-icd 1991
+jaa-icd 1991
+jaj-icd 1991
+824
+4
+ehd-ice 1991
+hgi-ice 1991
+ijh-ice 1991
+jfh-ice 1991
+825
+4
+bcha-icf 1991
+cih-icf 1991
+dbb-icf 1991
+fce-icf 1991
+826
+6
+bcdi-icg 1991
+bcfg-icg 1991
+bdj-icg 1991
+bjj-icg 1991
+gcg-icg 1991
+h-icg 1991
+827
+3
+beei-ich 1991
+djd-ich 1991
+ig-ich 1991
+828
+5
+cj-ici 1991
+dfa-ici 1991
+edh-ici 1991
+ijb-ici 1991
+jc-ici 1991
+829
+2
+hbe-icj 1991
+jie-icj 1991
+830
+5
+bcfd-ida 1991
+bhf-ida 1991
+ehj-ida 1991
+hee-ida 1991
+jbh-ida 1991
+831
+8
+bach-idb 1991
+bfjd-idb 1991
+cdh-idb 1991
+cii-idb 1991
+fce-idb 1991
+ghi-idb 1991
+jcb-idb 1991
+jhh-idb 1991
+832
+4
+dae-idc 1991
+djj-idc 1991
+gjg-idc 1991
+iij-idc 1991
+833
+5
+bbah-idd 1991
+bfda-idd 1991
+dfh-idd 1991
+fih-idd 1991
+fj-idd 1991
+834
+3
+cbf-ide 1991
+dcd-ide 1991
+fgc-ide 1991
+835
+6
+bajg-idf 1991
+dh-idf 1991
+dii-idf 1991
+efa-idf 1991
+ha-idf 1991
+jhi-idf 1991
+836
+5
+bagf-idg 1991
+bdij-idg 1991
+bfi-idg 1991
+dhd-idg 1991
+ic-idg 1991
+837
+5
+bad-idh 1991
+cac-idh 1991
+eca-idh 1991
+gdg-idh 1991
+hhg-idh 1991
+838
+9
+baeh-idi 1991
+bbdd-idi 1991
+bgfa-idi 1991
+bic-idi 1991
+ech-idi 1991
+eii-idi 1991
+gab-idi 1991
+hhc-idi 1991
+ie-idi 1991
+839
+3
+bcc-idj 1991
+bgf-idj 1991
+fdj-idj 1991
+840
+4
+bebf-iea 1991
+bij-iea 1991
+chb-iea 1991
+eeb-iea 1991
+841
+5
+bab-ieb 1991
+bbie-ieb 1991
+bdaj-ieb 1991
+fhb-ieb 1991
+igj-ieb 1991
+842
+6
+bbca-iec 1991
+dhh-iec 1991
+fgf-iec 1991
+hfg-iec 1991
+hfh-iec 1991
+iff-iec 1991
+843
+5
+bbid-ied 1991
+bche-ied 1991
+f-ied 1991
+hhb-ied 1991
+jac-ied 1991
+844
+4
+baje-iee 1991
+bdcd-iee 1991
+bgj-iee 1991
+efc-iee 1991
+845
+5
+bbah-ief 1991
+bfc-ief 1991
+ea-ief 1991
+hag-ief 1991
+jc-ief 1991
+846
+6
+ebg-ieg 1991
+fab-ieg 1991
+ffh-ieg 1991
+fjj-ieg 1991
+hcd-ieg 1991
+idd-ieg 1991
+847
+5
+bchj-ieh 1991
+bge-ieh 1991
+bjg-ieh 1991
+caj-ieh 1991
+cgj-ieh 1991
+848
+6
+bcgb-iei 1991
+behf-iei 1991
+dbf-iei 1991
+efg-iei 1991
+gdf-iei 1991
+hgi-iei 1991
+849
+2
+bbh-iej 1991
+bdi-iej 1991
+850
+5
+bbbi-ifa 1991
+bdbe-ifa 1991
+bdih-ifa 1991
+ccc-ifa 1991
+hcf-ifa 1991
+851
+3
+bagh-ifb 1991
+dfh-ifb 1991
+fgh-ifb 1991
+852
+7
+bchg-ifc 1991
+cb-ifc 1991
+cee-ifc 1991
+ejj-ifc 1991
+fdj-ifc 1991
+gfa-ifc 1991
+jid-ifc 1991
+853
+4
+bah-ifd 1991
+bbhd-ifd 1991
+cf-ifd 1991
+ijh-ifd 1991
+854
+4
+bbdj-ife 1991
+dad-ife 1991
+fhh-ife 1991
+hjf-ife 1991
+855
+5
+bjb-iff 1991
+cgi-iff 1991
+efe-iff 1991
+fb-iff 1991
+jgf-iff 1991
+856
+7
+be-ifg 1991
+bff-ifg 1991
+bgeb-ifg 1991
+c-ifg 1991
+cjh-ifg 1991
+hdh-ifg 1991
+jci-ifg 1991
+857
+7
+baai-ifh 1991
+baga-ifh 1991
+cbf-ifh 1991
+cid-ifh 1991
+eif-ifh 1991
+fic-ifh 1991
+ghi-ifh 1991
+858
+3
+badf-ifi 1991
+bcci-ifi 1991
+ejg-ifi 1991
+859
+2
+chb-ifj 1991
+ffi-ifj 1991
+860
+4
+dcd-iga 1991
+ebb-iga 1991
+gfj-iga 1991
+iij-iga 1991
+861
+2
+cif-igb 1991
+gb-igb 1991
+862
+3
+bcgi-igc 1991
+eaf-igc 1991
+gh-igc 1991
+863
+5
+fbg-igd 1991
+ggg-igd 1991
+ha-igd 1991
+hfd-igd 1991
+ife-igd 1991
+864
+5
+dbi-ige 1991
+dbj-ige 1991
+de-ige 1991
+ffg-ige 1991
+hjc-ige 1991
+865
+1
+egi-igf 1991
+866
+2
+babd-igg 1991
+ejj-igg 1991
+867
+1
+hag-igh 1991
+868
+3
+bbg-igi 1991
+bcbj-igi 1991
+gag-igi 1991
+869
+6
+bdie-igj 1991
+bj-igj 1991
+dde-igj 1991
+gbc-igj 1991
+gih-igj 1991
+jba-igj 1991
+870
+4
+bbfe-iha 1991
+bcdj-iha 1991
+hgf-iha 1991
+jfa-iha 1991
+871
+2
+bbcj-ihb 1991
+eii-ihb 1991
+872
+6
+bbig-ihc 1991
+eba-ihc 1991
+ehj-ihc 1991
+fhh-ihc 1991
+hdj-ihc 1991
+jfd-ihc 1991
+873
+7
+bbdd-ihd 1991
+behh-ihd 1991
+bfa-ihd 1991
+bfdd-ihd 1991
+bgei-ihd 1991
+ddf-ihd 1991
+fj-ihd 1991
+874
+3
+hdg-ihe 1991
+hdi-ihe 1991
+hdj-ihe 1991
+875
+5
+bbad-ihf 1991
+bfcc-ihf 1991
+cfb-ihf 1991
+eh-ihf 1991
+ijj-ihf 1991
+876
+5
+bcj-ihg 1991
+cdj-ihg 1991
+fhh-ihg 1991
+gbf-ihg 1991
+gij-ihg 1991
+877
+3
+cib-ihh 1991
+eef-ihh 1991
+gih-ihh 1991
+878
+5
+bdgf-ihi 1991
+bebh-ihi 1991
+gjh-ihi 1991
+hdb-ihi 1991
+jg-ihi 1991
+879
+3
+caf-ihj 1991
+cef-ihj 1991
+dja-ihj 1991
+880
+3
+fgb-iia 1991
+fid-iia 1991
+hfh-iia 1991
+881
+6
+baeb-iib 1991
+bafa-iib 1991
+bge-iib 1991
+cfb-iib 1991
+chd-iib 1991
+id-iib 1991
+882
+5
+baj-iic 1991
+fag-iic 1991
+gfa-iic 1991
+iie-iic 1991
+jje-iic 1991
+883
+5
+bbhj-iid 1991
+bfei-iid 1991
+cej-iid 1991
+ffa-iid 1991
+iae-iid 1991
+884
+5
+bec-iie 1991
+bejf-iie 1991
+bgc-iie 1991
+cbb-iie 1991
+jee-iie 1991
+885
+2
+bbei-iif 1991
+hif-iif 1991
+886
+5
+bahe-iig 1991
+cde-iig 1991
+ddg-iig 1991
+hcg-iig 1991
+hjb-iig 1991
+887
+1
+hbj-iih 1991
+888
+4
+bbib-iii 1991
+dhi-iii 1991
+gje-iii 1991
+jab-iii 1991
+889
+2
+baaa-iij 1991
+fih-iij 1991
+890
+4
+bcfe-ija 1991
+bib-ija 1991
+dbj-ija 1991
+iaa-ija 1991
+891
+1
+ega-ijb 1991
+892
+5
+bbf-ijc 1991
+bcij-ijc 1991
+cgi-ijc 1991
+hg-ijc 1991
+hjg-ijc 1991
+893
+5
+beda-ijd 1991
+cfc-ijd 1991
+gai-ijd 1991
+gdh-ijd 1991
+hfi-ijd 1991
+894
+6
+bbbj-ije 1991
+beef-ije 1991
+bef-ije 1991
+ffh-ije 1991
+gda-ije 1991
+jbg-ije 1991
+895
+3
+bj-ijf 1991
+cai-ijf 1991
+hei-ijf 1991
+896
+3
+behi-ijg 1991
+cgi-ijg 1991
+ig-ijg 1991
+897
+2
+bii-ijh 1991
+hhg-ijh 1991
+898
+2
+cbj-iji 1991
+gd-iji 1991
+899
+2
+cff-ijj 1991
+iaf-ijj 1991
+900
+3
+bbjh-jaa 1991
+cf-jaa 1991
+jbg-jaa 1991
+901
+6
+baej-jab 1991
+djh-jab 1991
+fg-jab 1991
+gbe-jab 1991
+hjg-jab 1991
+jdi-jab 1991
+902
+5
+bgg-jac 1991
+ejj-jac 1991
+ghg-jac 1991
+hca-jac 1991
+ibb-jac 1991
+903
+3
+bcij-jad 1991
+dgj-jad 1991
+djc-jad 1991
+904
+3
+bbih-jae 1991
+cja-jae 1991
+ee-jae 1991
+905
+4
+bci-jaf 1991
+bdig-jaf 1991
+bgd-jaf 1991
+fjj-jaf 1991
+906
+3
+bdij-jag 1991
+cbc-jag 1991
+cg-jag 1991
+907
+7
+baia-jah 1991
+bajg-jah 1991
+bchh-jah 1991
+bcif-jah 1991
+cfe-jah 1991
+fie-jah 1991
+hf-jah 1991
+908
+5
+bbbg-jai 1991
+bffi-jai 1991
+efa-jai 1991
+gbj-jai 1991
+hah-jai 1991
+909
+4
+bhf-jaj 1991
+bid-jaj 1991
+ebd-jaj 1991
+iic-jaj 1991
+910
+3
+bdef-jba 1991
+cgd-jba 1991
+gej-jba 1991
+911
+4
+bde-jbb 1991
+cdg-jbb 1991
+dhg-jbb 1991
+gjc-jbb 1991
+912
+2
+gbg-jbc 1991
+jca-jbc 1991
+913
+3
+bfad-jbd 1991
+bgh-jbd 1991
+dij-jbd 1991
+914
+4
+bbig-jbe 1991
+bdbi-jbe 1991
+de-jbe 1991
+fbj-jbe 1991
+915
+5
+bedi-jbf 1991
+cc-jbf 1991
+gfg-jbf 1991
+hai-jbf 1991
+jbe-jbf 1991
+916
+5
+baie-jbg 1991
+bdid-jbg 1991
+bjd-jbg 1991
+ehd-jbg 1991
+igc-jbg 1991
+917
+3
+babf-jbh 1991
+bji-jbh 1991
+dbd-jbh 1991
+918
+2
+bdcc-jbi 1991
+hai-jbi 1991
+919
+6
+daa-jbj 1991
+ejd-jbj 1991
+ga-jbj 1991
+hdc-jbj 1991
+ieg-jbj 1991
+jhb-jbj 1991
+920
+4
+fdh-jca 1991
+idf-jca 1991
+jde-jca 1991
+jfg-jca 1991
+921
+4
+faj-jcb 1991
+gae-jcb 1991
+hhf-jcb 1991
+ihh-jcb 1991
+922
+3
+fej-jcc 1991
+fjg-jcc 1991
+gfb-jcc 1991
+923
+4
+bagh-jcd 1991
+hgh-jcd 1991
+ied-jcd 1991
+jcc-jcd 1991
+924
+2
+bafi-jce 1991
+hdb-jce 1991
+925
+3
+djc-jcf 1991
+ghe-jcf 1991
+igj-jcf 1991
+926
+5
+babe-jcg 1991
+cfj-jcg 1991
+cjc-jcg 1991
+ggg-jcg 1991
+hjb-jcg 1991
+927
+2
+ejb-jch 1991
+hhh-jch 1991
+928
+7
+beia-jci 1991
+bfbf-jci 1991
+efa-jci 1991
+fb-jci 1991
+fch-jci 1991
+gih-jci 1991
+hhe-jci 1991
+929
+3
+bcf-jcj 1991
+bch-jcj 1991
+ceb-jcj 1991
+930
+5
+bchb-jda 1991
+bdig-jda 1991
+bgdf-jda 1991
+cda-jda 1991
+cjb-jda 1991
+931
+6
+bai-jdb 1991
+bbaj-jdb 1991
+cgf-jdb 1991
+hge-jdb 1991
+jhc-jdb 1991
+jji-jdb 1991
+932
+6
+d-jdc 1991
+gdh-jdc 1991
+hbh-jdc 1991
+iib-jdc 1991
+jaj-jdc 1991
+jc-jdc 1991
+933
+3
+dhc-jdd 1991
+dic-jdd 1991
+ffh-jdd 1991
+934
+6
+baad-jde 1991
+bcjb-jde 1991
+bdgi-jde 1991
+bi-jde 1991
+bie-jde 1991
+ha-jde 1991
+935
+1
+cbe-jdf 1991
+936
+7
+bh-jdg 1991
+bhb-jdg 1991
+cjh-jdg 1991
+dhj-jdg 1991
+fbf-jdg 1991
+gea-jdg 1991
+ibi-jdg 1991
+937
+1
+ea-jdh 1991
+938
+2
+dfb-jdi 1991
+ggh-jdi 1991
+939
+4
+dhb-jdj 1991
+eic-jdj 1991
+ja-jdj 1991
+jfj-jdj 1991
+940
+3
+ef-jea 1991
+igh-jea 1991
+ije-jea 1991
+941
+2
+dha-jeb 1991
+jad-jeb 1991
+942
+5
+badg-jec 1991
+bdfg-jec 1991
+bgb-jec 1991
+dae-jec 1991
+ehc-jec 1991
+943
+1
+djc-jed 1991
+944
+4
+ceg-jee 1991
+cfg-jee 1991
+ej-jee 1991
+hjb-jee 1991
+945
+5
+badj-jef 1991
+bbfe-jef 1991
+bbje-jef 1991
+beh-jef 1991
+fad-jef 1991
+946
+2
+baib-jeg 1991
+bbj-jeg 1991
+947
+5
+bafe-jeh 1991
+bbgj-jeh 1991
+bgdb-jeh 1991
+bid-jeh 1991
+ddj-jeh 1991
+948
+2
+eff-jei 1991
+jja-jei 1991
+949
+3
+dch-jej 1991
+ehb-jej 1991
+fgj-jej 1991
+950
+4
+bhe-jfa 1991
+chb-jfa 1991
+fdj-jfa 1991
+iec-jfa 1991
+951
+3
+bbdb-jfb 1991
+cge-jfb 1991
+ebb-jfb 1991
+952
+3
+cgh-jfc 1991
+egb-jfc 1991
+jgb-jfc 1991
+953
+2
+babc-jfd 1991
+fbd-jfd 1991
+954
+4
+bcif-jfe 1991
+bfgb-jfe 1991
+c-jfe 1991
+egf-jfe 1991
+955
+4
+bfeb-jff 1991
+ee-jff 1991
+egg-jff 1991
+fa-jff 1991
+956
+4
+bccb-jfg 1991
+ega-jfg 1991
+fic-jfg 1991
+ghc-jfg 1991
+957
+6
+bffj-jfh 1991
+ddc-jfh 1991
+eij-jfh 1991
+fdf-jfh 1991
+gfb-jfh 1991
+idh-jfh 1991
+958
+4
+bbj-jfi 1991
+befa-jfi 1991
+dii-jfi 1991
+eib-jfi 1991
+959
+5
+bcaj-jfj 1991
+bcc-jfj 1991
+bdhe-jfj 1991
+eac-jfj 1991
+jfa-jfj 1991
+960
+5
+bagg-jga 1991
+bfab-jga 1991
+bfcd-jga 1991
+bfcf-jga 1991
+fdf-jga 1991
+961
+2
+ecd-jgb 1991
+idg-jgb 1991
+962
+5
+babj-jgc 1991
+bba-jgc 1991
+cfa-jgc 1991
+ibd-jgc 1991
+ied-jgc 1991
+963
+5
+cac-jgd 1991
+djc-jgd 1991
+ghb-jgd 1991
+iee-jgd 1991
+ihg-jgd 1991
+964
+5
+bagf-jge 1991
+bcgj-jge 1991
+bedj-jge 1991
+dda-jge 1991
+gbf-jge 1991
+965
+6
+bhg-jgf 1991
+ccc-jgf 1991
+fbf-jgf 1991
+fjd-jgf 1991
+hhj-jgf 1991
+i-jgf 1991
+966
+3
+bajc-jgg 1991
+cfd-jgg 1991
+heh-jgg 1991
+967
+2
+dfc-jgh 1991
+jcb-jgh 1991
+968
+2
+gjf-jgi 1991
+iae-jgi 1991
+969
+3
+baaj-jgj 1991
+eca-jgj 1991
+hfb-jgj 1991
+970
+7
+bade-jha 1991
+bea-jha 1991
+efh-jha 1991
+fbf-jha 1991
+ghd-jha 1991
+igj-jha 1991
+jia-jha 1991
+971
+1
+ejg-jhb 1991
+972
+4
+ced-jhc 1991
+eej-jhc 1991
+gga-jhc 1991
+hei-jhc 1991
+973
+3
+cff-jhd 1991
+gba-jhd 1991
+geb-jhd 1991
+974
+4
+bbai-jhe 1991
+fif-jhe 1991
+jae-jhe 1991
+jih-jhe 1991
+975
+4
+bajj-jhf 1991
+behe-jhf 1991
+fch-jhf 1991
+gid-jhf 1991
+976
+3
+bfei-jhg 1991
+fbi-jhg 1991
+hde-jhg 1991
+977
+4
+bfia-jhh 1991
+gab-jhh 1991
+gej-jhh 1991
+hb-jhh 1991
+978
+3
+bagi-jhi 1991
+bcj-jhi 1991
+fca-jhi 1991
+979
+2
+eei-jhj 1991
+fda-jhj 1991
+980
+7
+baac-jia 1991
+baca-jia 1991
+bded-jia 1991
+bje-jia 1991
+ddg-jia 1991
+ecc-jia 1991
+hdd-jia 1991
+981
+4
+bab-jib 1991
+bjf-jib 1991
+gda-jib 1991
+iac-jib 1991
+982
+3
+hff-jic 1991
+igj-jic 1991
+ija-jic 1991
+983
+4
+bdgd-jid 1991
+bgfj-jid 1991
+cag-jid 1991
+jff-jid 1991
+984
+3
+baih-jie 1991
+cij-jie 1991
+hdb-jie 1991
+985
+4
+bb-jif 1991
+bdih-jif 1991
+dge-jif 1991
+hah-jif 1991
+986
+3
+bafi-jig 1991
+bbe-jig 1991
+gha-jig 1991
+987
+3
+bfa-jih 1991
+gfi-jih 1991
+jhi-jih 1991
+988
+4
+bjh-jii 1991
+cei-jii 1991
+ddf-jii 1991
+ihe-jii 1991
+989
+3
+bah-jij 1991
+ebc-jij 1991
+ge-jij 1991
+990
+1
+idh-jja 1991
+991
+6
+bdi-jjb 1991
+cjc-jjb 1991
+hja-jjb 1991
+ieg-jjb 1991
+ihg-jjb 1991
+jif-jjb 1991
+992
+4
+bcgb-jjc 1991
+eif-jjc 1991
+jbg-jjc 1991
+jhg-jjc 1991
+993
+1
+daj-jjd 1991
+994
+6
+badd-jje 1991
+bafj-jje 1991
+baig-jje 1991
+bbcg-jje 1991
+ej-jje 1991
+hdd-jje 1991
+995
+2
+ccf-jjf 1991
+hja-jjf 1991
+996
+2
+efa-jjg 1991
+gfc-jjg 1991
+997
+1
+geh-jjh 1991
+998
+2
+hef-jji 1991
+j-jji 1991
+999
+5
+baea-jjj 1991
+bcci-jjj 1991
+edg-jjj 1991
+fcj-jjj 1991
+ibc-jjj 1991
+1000
+1
+fgi-baaa 1991
+1001
+5
+bbdf-baab 1991
+bc-baab 1991
+efi-baab 1991
+ifd-baab 1991
+jeg-baab 1991
+1002
+3
+egc-baac 1991
+hig-baac 1991
+jbh-baac 1991
+1003
+4
+bbbh-baad 1991
+ceb-baad 1991
+ehj-baad 1991
+jcd-baad 1991
+1004
+2
+dib-baae 1991
+eje-baae 1991
+1005
+4
+baae-baaf 1991
+badg-baaf 1991
+bdej-baaf 1991
+gaf-baaf 1991
+1006
+7
+bba-baag 1991
+beja-baag 1991
+cdc-baag 1991
+ced-baag 1991
+fc-baag 1991
+ffj-baag 1991
+jci-baag 1991
+1007
+3
+baef-baah 1991
+ic-baah 1991
+jab-baah 1991
+1008
+4
+bacb-baai 1991
+baha-baai 1991
+dgd-baai 1991
+igj-baai 1991
+1009
+1
+ceb-baaj 1991
+1010
+6
+bbfb-baba 1991
+dfi-baba 1991
+ehi-baba 1991
+gb-baba 1991
+haj-baba 1991
+jdf-baba 1991
+1011
+3
+djh-babb 1991
+edh-babb 1991
+ggi-babb 1991
+1012
+5
+baif-babc 1991
+beag-babc 1991
+ege-babc 1991
+if-babc 1991
+jga-babc 1991
+1013
+3
+bddi-babd 1991
+dfe-babd 1991
+gec-babd 1991
+1014
+4
+cjc-babe 1991
+dbj-babe 1991
+ebj-babe 1991
+ije-babe 1991
+1015
+2
+begj-babf 1991
+ceg-babf 1991
+1016
+4
+bbdj-babg 1991
+bdhd-babg 1991
+beba-babg 1991
+dja-babg 1991
+1017
+2
+baia-babh 1991
+cbg-babh 1991
+1018
+5
+baij-babi 1991
+cdb-babi 1991
+edb-babi 1991
+gd-babi 1991
+he-babi 1991
+1019
+4
+bbcg-babj 1991
+bfib-babj 1991
+dhb-babj 1991
+fdc-babj 1991
+1020
+1
+igh-baca 1991
+1021
+7
+bcje-bacb 1991
+bgbj-bacb 1991
+che-bacb 1991
+heb-bacb 1991
+jce-bacb 1991
+jg-bacb 1991
+jhb-bacb 1991
+1022
+4
+bdb-bacc 1991
+feg-bacc 1991
+gdb-bacc 1991
+hbc-bacc 1991
+1023
+2
+hjh-bacd 1991
+jgf-bacd 1991
+1024
+2
+bbcd-bace 1991
+dhb-bace 1991
+1025
+1
+ifd-bacf 1991
+1026
+2
+bgdb-bacg 1991
+cja-bacg 1991
+1027
+3
+baag-bach 1991
+bih-bach 1991
+fdd-bach 1991
+1028
+2
+egi-baci 1991
+ejc-baci 1991
+1029
+4
+bada-bacj 1991
+ib-bacj 1991
+ibj-bacj 1991
+iha-bacj 1991
+1030
+6
+ba-bada 1991
+bbcf-bada 1991
+ecj-bada 1991
+gdb-bada 1991
+hbe-bada 1991
+hej-bada 1991
+1031
+3
+bddf-badb 1991
+bdf-badb 1991
+dcd-badb 1991
+1032
+3
+cad-badc 1991
+hfg-badc 1991
+ifg-badc 1991
+1033
+3
+bcac-badd 1991
+gh-badd 1991
+jc-badd 1991
+1034
+2
+ega-bade 1991
+ji-bade 1991
+1035
+2
+bhf-badf 1991
+fgh-badf 1991
+1036
+2
+bbbf-badg 1991
+jhi-badg 1991
+1037
+2
+bbgj-badh 1991
+fhe-badh 1991
+1038
+2
+bbdi-badi 1991
+ghg-badi 1991
+1039
+6
+bbhf-badj 1991
+bjf-badj 1991
+ff-badj 1991
+fi-badj 1991
+gee-badj 1991
+ijj-badj 1991
+1040
+6
+chj-baea 1991
+cid-baea 1991
+gae-baea 1991
+hdd-baea 1991
+he-baea 1991
+jgg-baea 1991
+1041
+4
+bbaf-baeb 1991
+bdcj-baeb 1991
+fd-baeb 1991
+iag-baeb 1991
+1042
+5
+bcac-baec 1991
+ccb-baec 1991
+hbg-baec 1991
+jaa-baec 1991
+jha-baec 1991
+1043
+1
+djc-baed 1991
+1044
+2
+baeg-baee 1991
+fdj-baee 1991
+1045
+4
+bdbf-baef 1991
+efd-baef 1991
+fi-baef 1991
+gj-baef 1991
+1046
+5
+baic-baeg 1991
+bcef-baeg 1991
+ccc-baeg 1991
+hhd-baeg 1991
+jdc-baeg 1991
+1047
+3
+bbeg-baeh 1991
+dfd-baeh 1991
+ihg-baeh 1991
+1048
+5
+bagg-baei 1991
+bbfh-baei 1991
+bcig-baei 1991
+bhc-baei 1991
+chj-baei 1991
+1049
+5
+bbhh-baej 1991
+bdfj-baej 1991
+bdij-baej 1991
+dgg-baej 1991
+hih-baej 1991
+1050
+5
+babe-bafa 1991
+cff-bafa 1991
+dgj-bafa 1991
+hgc-bafa 1991
+jdj-bafa 1991
+1051
+4
+baah-bafb 1991
+bbbd-bafb 1991
+bcji-bafb 1991
+gdg-bafb 1991
+1052
+5
+bbef-bafc 1991
+ei-bafc 1991
+gfg-bafc 1991
+hii-bafc 1991
+jce-bafc 1991
+1053
+2
+cfa-bafd 1991
+fei-bafd 1991
+1054
+4
+bgf-bafe 1991
+ci-bafe 1991
+dhc-bafe 1991
+fdd-bafe 1991
+1055
+3
+bfif-baff 1991
+ffg-baff 1991
+hcj-baff 1991
+1056
+1
+fdd-bafg 1991
+1057
+1
+jbd-bafh 1991
+1058
+4
+bag-bafi 1991
+bbgf-bafi 1991
+bhj-bafi 1991
+chi-bafi 1991
+1059
+3
+bcag-bafj 1991
+gfi-bafj 1991
+hef-bafj 1991
+1060
+3
+bbag-baga 1991
+bdge-baga 1991
+ded-baga 1991
+1061
+3
+bcgd-bagb 1991
+dfb-bagb 1991
+fhb-bagb 1991
+1062
+1
+gie-bagc 1991
+1063
+3
+beg-bagd 1991
+hgd-bagd 1991
+ibg-bagd 1991
+1064
+4
+babh-bage 1991
+bbcj-bage 1991
+jfb-bage 1991
+jhf-bage 1991
+1065
+2
+bede-bagf 1991
+bgd-bagf 1991
+1066
+5
+baie-bagg 1991
+bbgh-bagg 1991
+fcb-bagg 1991
+hgb-bagg 1991
+jid-bagg 1991
+1067
+6
+cde-bagh 1991
+cgf-bagh 1991
+eab-bagh 1991
+gje-bagh 1991
+ijg-bagh 1991
+jbd-bagh 1991
+1068
+4
+bcac-bagi 1991
+ehh-bagi 1991
+ggh-bagi 1991
+igf-bagi 1991
+1069
+3
+bad-bagj 1991
+bgj-bagj 1991
+jhd-bagj 1991
+1070
+4
+bcgf-baha 1991
+bgcc-baha 1991
+cbf-baha 1991
+fbg-baha 1991
+1071
+2
+bgah-bahb 1991
+cgc-bahb 1991
+1072
+2
+fcj-bahc 1991
+hbg-bahc 1991
+1073
+6
+bcgf-bahd 1991
+behd-bahd 1991
+beij-bahd 1991
+dbb-bahd 1991
+dii-bahd 1991
+efa-bahd 1991
+1074
+2
+bcdi-bahe 1991
+iaa-bahe 1991
+1075
+2
+bagd-bahf 1991
+ffi-bahf 1991
+1076
+2
+bgc-bahg 1991
+gjc-bahg 1991
+1077
+4
+bahg-bahh 1991
+bedg-bahh 1991
+hea-bahh 1991
+jab-bahh 1991
+1078
+4
+ceh-bahi 1991
+ghc-bahi 1991
+hab-bahi 1991
+ia-bahi 1991
+1079
+2
+fbe-bahj 1991
+ghi-bahj 1991
+1080
+3
+bgg-baia 1991
+gaf-baia 1991
+jif-baia 1991
+1081
+2
+hih-baib 1991
+iac-baib 1991
+1082
+5
+babi-baic 1991
+bcgg-baic 1991
+bhg-baic 1991
+iaa-baic 1991
+idc-baic 1991
+1083
+2
+bejd-baid 1991
+ib-baid 1991
+1084
+5
+bade-baie 1991
+bai-baie 1991
+chg-baie 1991
+efc-baie 1991
+iaf-baie 1991
+1085
+2
+ha-baif 1991
+jcb-baif 1991
+1086
+4
+edd-baig 1991
+hif-baig 1991
+ihc-baig 1991
+jgh-baig 1991
+1087
+6
+bbgd-baih 1991
+bcej-baih 1991
+bcgf-baih 1991
+becj-baih 1991
+eea-baih 1991
+gcf-baih 1991
+1088
+2
+bbab-baii 1991
+ffj-baii 1991
+1089
+5
+bfh-baij 1991
+bha-baij 1991
+gd-baij 1991
+gje-baij 1991
+ife-baij 1991
+1090
+4
+bcfj-baja 1991
+bif-baja 1991
+cdh-baja 1991
+cgg-baja 1991
+1091
+3
+bafj-bajb 1991
+bdfg-bajb 1991
+ji-bajb 1991
+1092
+3
+bbae-bajc 1991
+dhb-bajc 1991
+hih-bajc 1991
+1093
+4
+bfjc-bajd 1991
+edc-bajd 1991
+hha-bajd 1991
+hhg-bajd 1991
+1094
+5
+bbei-baje 1991
+bdab-baje 1991
+gfi-baje 1991
+hhe-baje 1991
+iej-baje 1991
+1095
+5
+bbgi-bajf 1991
+bcje-bajf 1991
+eca-bajf 1991
+jcd-bajf 1991
+jeb-bajf 1991
+1096
+2
+cgf-bajg 1991
+fi-bajg 1991
+1097
+2
+bia-bajh 1991
+hba-bajh 1991
+1098
+2
+baje-baji 1991
+bhf-baji 1991
+1099
+3
+bajf-bajj 1991
+eci-bajj 1991
+ejh-bajj 1991
+1100
+4
+bcfa-bbaa 1991
+beeg-bbaa 1991
+cf-bbaa 1991
+ghb-bbaa 1991
+1101
+2
+bbfc-bbab 1991
+cde-bbab 1991
+1102
+5
+bcej-bbac 1991
+bejd-bbac 1991
+dce-bbac 1991
+fed-bbac 1991
+iif-bbac 1991
+1103
+4
+bbag-bbad 1991
+bbbd-bbad 1991
+ga-bbad 1991
+jbh-bbad 1991
+1104
+6
+bcfc-bbae 1991
+bgba-bbae 1991
+eah-bbae 1991
+gc-bbae 1991
+gid-bbae 1991
+hg-bbae 1991
+1105
+2
+eff-bbaf 1991
+hhg-bbaf 1991
+1106
+3
+bbbc-bbag 1991
+bcbd-bbag 1991
+gff-bbag 1991
+1107
+4
+beci-bbah 1991
+bfjh-bbah 1991
+cja-bbah 1991
+fhe-bbah 1991
+1108
+4
+bafj-bbai 1991
+bdch-bbai 1991
+bhj-bbai 1991
+ebe-bbai 1991
+1109
+1
+ich-bbaj 1991
+1110
+5
+babb-bbba 1991
+cgd-bbba 1991
+hdb-bbba 1991
+hde-bbba 1991
+jid-bbba 1991
+1111
+1
+hed-bbbb 1991
+1112
+1
+dff-bbbc 1991
+1113
+4
+baec-bbbd 1991
+bbh-bbbd 1991
+bgab-bbbd 1991
+icb-bbbd 1991
+1114
+3
+bcc-bbbe 1991
+bccj-bbbe 1991
+dhj-bbbe 1991
+1115
+3
+cef-bbbf 1991
+faj-bbbf 1991
+gej-bbbf 1991
+1116
+3
+baci-bbbg 1991
+icb-bbbg 1991
+ief-bbbg 1991
+1117
+2
+bagc-bbbh 1991
+ehg-bbbh 1991
+1118
+2
+bac-bbbi 1991
+gee-bbbi 1991
+1119
+3
+bahe-bbbj 1991
+bgdj-bbbj 1991
+big-bbbj 1991
+1120
+3
+bdbd-bbca 1991
+bdd-bbca 1991
+jcc-bbca 1991
+1121
+7
+bejc-bbcb 1991
+ccc-bbcb 1991
+djj-bbcb 1991
+fbc-bbcb 1991
+hih-bbcb 1991
+iee-bbcb 1991
+jfd-bbcb 1991
+1122
+2
+bgf-bbcc 1991
+hbd-bbcc 1991
+1123
+3
+baii-bbcd 1991
+gje-bbcd 1991
+jjd-bbcd 1991
+1124
+2
+gde-bbce 1991
+iff-bbce 1991
+1125
+2
+bbae-bbcf 1991
+fhc-bbcf 1991
+1126
+3
+bdid-bbcg 1991
+ccj-bbcg 1991
+fcg-bbcg 1991
+1127
+1
+icb-bbch 1991
+1128
+2
+babh-bbci 1991
+bie-bbci 1991
+1129
+2
+bbbb-bbcj 1991
+hee-bbcj 1991
+1130
+4
+bbji-bbda 1991
+bh-bbda 1991
+ehh-bbda 1991
+jde-bbda 1991
+1131
+5
+bbf-bbdb 1991
+bfdj-bbdb 1991
+hjj-bbdb 1991
+idc-bbdb 1991
+ifa-bbdb 1991
+1132
+1
+jh-bbdc 1991
+1133
+6
+bci-bbdd 1991
+beb-bbdd 1991
+bij-bbdd 1991
+eii-bbdd 1991
+fgh-bbdd 1991
+gid-bbdd 1991
+1134
+2
+hce-bbde 1991
+jif-bbde 1991
+1135
+3
+baed-bbdf 1991
+gbc-bbdf 1991
+gbi-bbdf 1991
+1136
+4
+bgdc-bbdg 1991
+bhc-bbdg 1991
+bid-bbdg 1991
+ijh-bbdg 1991
+1137
+3
+bcjd-bbdh 1991
+eef-bbdh 1991
+ghb-bbdh 1991
+1138
+4
+baee-bbdi 1991
+bcba-bbdi 1991
+che-bbdi 1991
+hbh-bbdi 1991
+1139
+1
+ghi-bbdj 1991
+1140
+3
+cga-bbea 1991
+df-bbea 1991
+dfh-bbea 1991
+1141
+5
+bbae-bbeb 1991
+bbde-bbeb 1991
+bffc-bbeb 1991
+ihd-bbeb 1991
+ji-bbeb 1991
+1142
+3
+bcie-bbec 1991
+cai-bbec 1991
+ge-bbec 1991
+1143
+3
+ebg-bbed 1991
+ijf-bbed 1991
+jc-bbed 1991
+1144
+2
+bdee-bbee 1991
+gcj-bbee 1991
+1145
+4
+badd-bbef 1991
+ce-bbef 1991
+fjb-bbef 1991
+fjf-bbef 1991
+1146
+3
+bcjg-bbeg 1991
+bgbc-bbeg 1991
+eca-bbeg 1991
+1147
+2
+eg-bbeh 1991
+ghj-bbeh 1991
+1148
+2
+eif-bbei 1991
+gej-bbei 1991
+1149
+3
+bcbb-bbej 1991
+fci-bbej 1991
+fja-bbej 1991
+1150
+2
+bacc-bbfa 1991
+jf-bbfa 1991
+1151
+5
+baji-bbfb 1991
+bbgg-bbfb 1991
+bdah-bbfb 1991
+fgd-bbfb 1991
+ghj-bbfb 1991
+1152
+3
+bfej-bbfc 1991
+hbe-bbfc 1991
+ibh-bbfc 1991
+1153
+5
+bdcj-bbfd 1991
+bdje-bbfd 1991
+bej-bbfd 1991
+eaa-bbfd 1991
+ebc-bbfd 1991
+1154
+2
+bbgi-bbfe 1991
+chg-bbfe 1991
+1155
+6
+bdjd-bbff 1991
+dbh-bbff 1991
+fcc-bbff 1991
+hg-bbff 1991
+ihi-bbff 1991
+jig-bbff 1991
+1156
+4
+bcjh-bbfg 1991
+bfee-bbfg 1991
+eee-bbfg 1991
+fea-bbfg 1991
+1157
+3
+bbjg-bbfh 1991
+efd-bbfh 1991
+gec-bbfh 1991
+1158
+3
+bace-bbfi 1991
+bbej-bbfi 1991
+bfhb-bbfi 1991
+1159
+5
+babh-bbfj 1991
+bcid-bbfj 1991
+cbc-bbfj 1991
+cje-bbfj 1991
+ifc-bbfj 1991
+1160
+2
+eji-bbga 1991
+jbc-bbga 1991
+1161
+4
+hgd-bbgb 1991
+hi-bbgb 1991
+iic-bbgb 1991
+jff-bbgb 1991
+1162
+1
+bafa-bbgc 1991
+1163
+2
+bgag-bbgd 1991
+bh-bbgd 1991
+1164
+5
+bbff-bbge 1991
+ddd-bbge 1991
+eb-bbge 1991
+hdf-bbge 1991
+ihg-bbge 1991
+1165
+1
+fcj-bbgf 1991
+1166
+5
+bcde-bbgg 1991
+bdai-bbgg 1991
+ca-bbgg 1991
+djf-bbgg 1991
+gfh-bbgg 1991
+1167
+2
+bbei-bbgh 1991
+bcfe-bbgh 1991
+1168
+4
+bdgi-bbgi 1991
+bfi-bbgi 1991
+jab-bbgi 1991
+jgi-bbgi 1991
+1169
+4
+bbcj-bbgj 1991
+bejh-bbgj 1991
+eah-bbgj 1991
+hjc-bbgj 1991
+1170
+2
+begi-bbha 1991
+fbe-bbha 1991
+1171
+2
+djd-bbhb 1991
+iec-bbhb 1991
+1172
+3
+bca-bbhc 1991
+cbh-bbhc 1991
+jdi-bbhc 1991
+1173
+4
+bced-bbhd 1991
+bdb-bbhd 1991
+ece-bbhd 1991
+j-bbhd 1991
+1174
+4
+bbgb-bbhe 1991
+fh-bbhe 1991
+gfe-bbhe 1991
+id-bbhe 1991
+1175
+3
+baif-bbhf 1991
+bfec-bbhf 1991
+dia-bbhf 1991
+1176
+1
+bai-bbhg 1991
+1177
+4
+bcjf-bbhh 1991
+beee-bbhh 1991
+bij-bbhh 1991
+eea-bbhh 1991
+1178
+3
+bfge-bbhi 1991
+gfi-bbhi 1991
+hgi-bbhi 1991
+1179
+1
+c-bbhj 1991
+1180
+3
+edb-bbia 1991
+ei-bbia 1991
+ij-bbia 1991
+1181
+2
+bdi-bbib 1991
+ibb-bbib 1991
+1182
+3
+befc-bbic 1991
+fgf-bbic 1991
+iab-bbic 1991
+1183
+1
+bbdd-bbid 1991
+1184
+3
+bbhj-bbie 1991
+dee-bbie 1991
+def-bbie 1991
+1185
+2
+bij-bbif 1991
+dcj-bbif 1991
+1186
+1
+cig-bbig 1991
+1187
+2
+bfd-bbih 1991
+gc-bbih 1991
+1188
+2
+bfgf-bbii 1991
+jhc-bbii 1991
+1189
+4
+bbdf-bbij 1991
+bbie-bbij 1991
+beci-bbij 1991
+cdd-bbij 1991
+1190
+2
+bacb-bbja 1991
+fec-bbja 1991
+1191
+2
+ffj-bbjb 1991
+gje-bbjb 1991
+1192
+3
+bbha-bbjc 1991
+bhc-bbjc 1991
+ii-bbjc 1991
+1193
+1
+jig-bbjd 1991
+1194
+1
+cbd-bbje 1991
+1195
+4
+dji-bbjf 1991
+fcj-bbjf 1991
+haj-bbjf 1991
+jbg-bbjf 1991
+1196
+3
+bagj-bbjg 1991
+bbfe-bbjg 1991
+hjb-bbjg 1991
+1197
+2
+bcjb-bbjh 1991
+jih-bbjh 1991
+1198
+3
+bch-bbji 1991
+hhi-bbji 1991
+ijh-bbji 1991
+1199
+1
+cig-bbjj 1991
+1200
+2
+bbie-bcaa 1991
+bgb-bcaa 1991
+1201
+5
+bag-bcab 1991
+bchi-bcab 1991
+dfi-bcab 1991
+gce-bcab 1991
+jjj-bcab 1991
+1202
+3
+fa-bcac 1991
+hac-bcac 1991
+had-bcac 1991
+1203
+4
+bahe-bcad 1991
+bdf-bcad 1991
+bgcb-bcad 1991
+hcd-bcad 1991
+1204
+2
+bdaj-bcae 1991
+ibg-bcae 1991
+1205
+3
+bbha-bcaf 1991
+bcda-bcaf 1991
+jh-bcaf 1991
+1206
+2
+babb-bcag 1991
+bgch-bcag 1991
+1207
+2
+dhh-bcah 1991
+eed-bcah 1991
+1208
+2
+bbcj-bcai 1991
+bej-bcai 1991
+1209
+1
+bbji-bcaj 1991
+1210
+2
+ejb-bcba 1991
+gfc-bcba 1991
+1211
+3
+bdbj-bcbb 1991
+die-bcbb 1991
+hag-bcbb 1991
+1212
+5
+bafj-bcbc 1991
+bbai-bcbc 1991
+bcij-bcbc 1991
+dbe-bcbc 1991
+ef-bcbc 1991
+1213
+1
+baca-bcbd 1991
+1214
+2
+bdd-bcbe 1991
+gda-bcbe 1991
+1215
+2
+bged-bcbf 1991
+igc-bcbf 1991
+1216
+3
+behc-bcbg 1991
+dbh-bcbg 1991
+iea-bcbg 1991
+1217
+1
+bhg-bcbh 1991
+1218
+3
+bfcf-bcbi 1991
+jcf-bcbi 1991
+jdd-bcbi 1991
+1219
+3
+bcch-bcbj 1991
+hgc-bcbj 1991
+hjj-bcbj 1991
+1220
+5
+bdhj-bcca 1991
+behj-bcca 1991
+fb-bcca 1991
+hf-bcca 1991
+jfe-bcca 1991
+1221
+3
+bcag-bccb 1991
+cid-bccb 1991
+egb-bccb 1991
+1222
+1
+edj-bccc 1991
+1223
+3
+behg-bccd 1991
+bfed-bccd 1991
+ced-bccd 1991
+1224
+2
+eci-bcce 1991
+iib-bcce 1991
+1225
+3
+bajb-bccf 1991
+bfei-bccf 1991
+bfhd-bccf 1991
+1226
+2
+badf-bccg 1991
+begg-bccg 1991
+1227
+1
+hjg-bcch 1991
+1228
+2
+bcae-bcci 1991
+hjd-bcci 1991
+1229
+6
+bdeb-bccj 1991
+bg-bccj 1991
+cfg-bccj 1991
+dci-bccj 1991
+gbe-bccj 1991
+hci-bccj 1991
+1230
+3
+beii-bcda 1991
+dh-bcda 1991
+ijd-bcda 1991
+1231
+3
+baci-bcdb 1991
+bbeb-bcdb 1991
+bddd-bcdb 1991
+1232
+5
+bbae-bcdc 1991
+bccd-bcdc 1991
+bcj-bcdc 1991
+bfga-bcdc 1991
+ghb-bcdc 1991
+1233
+4
+bagh-bcdd 1991
+bbfh-bcdd 1991
+bdid-bcdd 1991
+gf-bcdd 1991
+1234
+5
+baji-bcde 1991
+bcha-bcde 1991
+beje-bcde 1991
+cba-bcde 1991
+gic-bcde 1991
+1235
+2
+bbef-bcdf 1991
+ge-bcdf 1991
+1236
+3
+chc-bcdg 1991
+hjc-bcdg 1991
+jje-bcdg 1991
+1237
+2
+bchf-bcdh 1991
+faf-bcdh 1991
+1238
+4
+becb-bcdi 1991
+cfg-bcdi 1991
+che-bcdi 1991
+hee-bcdi 1991
+1239
+1
+fdb-bcdj 1991
+1240
+2
+bbhj-bcea 1991
+becb-bcea 1991
+1241
+2
+bfcf-bceb 1991
+idj-bceb 1991
+1242
+1
+dgj-bcec 1991
+1243
+2
+bbbc-bced 1991
+bcjd-bced 1991
+1244
+6
+bdca-bcee 1991
+bdja-bcee 1991
+ejh-bcee 1991
+ffd-bcee 1991
+gdf-bcee 1991
+iai-bcee 1991
+1245
+2
+fbb-bcef 1991
+fbj-bcef 1991
+1246
+1
+cca-bceg 1991
+1247
+4
+bbdf-bceh 1991
+bdae-bceh 1991
+bge-bceh 1991
+fab-bceh 1991
+1248
+1
+bci-bcei 1991
+1249
+3
+ef-bcej 1991
+gif-bcej 1991
+jfh-bcej 1991
+1250
+2
+djh-bcfa 1991
+jfh-bcfa 1991
+1251
+1
+gbc-bcfb 1991
+1252
+2
+cig-bcfc 1991
+jbj-bcfc 1991
+1253
+3
+beie-bcfd 1991
+idg-bcfd 1991
+jeh-bcfd 1991
+1254
+2
+fca-bcfe 1991
+jh-bcfe 1991
+1255
+4
+begg-bcff 1991
+ddd-bcff 1991
+hfh-bcff 1991
+iie-bcff 1991
+1256
+2
+bcje-bcfg 1991
+fjj-bcfg 1991
+1257
+1
+egd-bcfh 1991
+1258
+1
+ihe-bcfi 1991
+1259
+4
+bchb-bcfj 1991
+cig-bcfj 1991
+ibc-bcfj 1991
+jii-bcfj 1991
+1260
+1
+ghc-bcga 1991
+1261
+2
+eai-bcgb 1991
+jae-bcgb 1991
+1262
+2
+bahc-bcgc 1991
+beih-bcgc 1991
+1263
+2
+bcid-bcgd 1991
+gba-bcgd 1991
+1264
+3
+baih-bcge 1991
+bddi-bcge 1991
+bgh-bcge 1991
+1265
+1
+bbga-bcgf 1991
+1266
+3
+bbjg-bcgg 1991
+beej-bcgg 1991
+bfhf-bcgg 1991
+1267
+2
+bdjg-bcgh 1991
+cbj-bcgh 1991
+1268
+4
+bfh-bcgi 1991
+bge-bcgi 1991
+fca-bcgi 1991
+hce-bcgi 1991
+1269
+4
+bdbg-bcgj 1991
+beae-bcgj 1991
+bfci-bcgj 1991
+cbf-bcgj 1991
+1270
+2
+deh-bcha 1991
+dgg-bcha 1991
+1271
+2
+bdfj-bchb 1991
+hhd-bchb 1991
+1272
+2
+bdb-bchc 1991
+cej-bchc 1991
+1273
+2
+bdaf-bchd 1991
+jbd-bchd 1991
+1274
+2
+becg-bche 1991
+gcd-bche 1991
+1275
+2
+bfag-bchf 1991
+hdj-bchf 1991
+1276
+4
+bebi-bchg 1991
+hga-bchg 1991
+hhj-bchg 1991
+idc-bchg 1991
+1277
+5
+bbij-bchh 1991
+bcjb-bchh 1991
+bcjj-bchh 1991
+cjb-bchh 1991
+hhi-bchh 1991
+1278
+2
+bcdj-bchi 1991
+ifh-bchi 1991
+1279
+3
+bafi-bchj 1991
+gdd-bchj 1991
+jcd-bchj 1991
+1280
+5
+baid-bcia 1991
+bgec-bcia 1991
+hhg-bcia 1991
+hid-bcia 1991
+ibc-bcia 1991
+1281
+5
+bbif-bcib 1991
+bdcc-bcib 1991
+bfgd-bcib 1991
+bje-bcib 1991
+dde-bcib 1991
+1282
+1
+iji-bcic 1991
+1283
+2
+bede-bcid 1991
+ged-bcid 1991
+1284
+3
+bbgh-bcie 1991
+bebd-bcie 1991
+eic-bcie 1991
+1285
+2
+bdjb-bcif 1991
+jhh-bcif 1991
+1286
+1
+fae-bcig 1991
+1287
+1
+cae-bcih 1991
+1288
+3
+bafh-bcii 1991
+cga-bcii 1991
+jeh-bcii 1991
+1289
+1
+ebd-bcij 1991
+1290
+4
+bbfi-bcja 1991
+bc-bcja 1991
+hhd-bcja 1991
+ica-bcja 1991
+1291
+2
+bcaa-bcjb 1991
+dba-bcjb 1991
+1292
+3
+bbaf-bcjc 1991
+bbdg-bcjc 1991
+hih-bcjc 1991
+1293
+1
+hdf-bcjd 1991
+1294
+1
+bbfh-bcje 1991
+1295
+4
+bdjc-bcjf 1991
+bedc-bcjf 1991
+dde-bcjf 1991
+fda-bcjf 1991
+1296
+2
+eii-bcjg 1991
+jce-bcjg 1991
+1297
+1
+dch-bcjh 1991
+1298
+2
+dg-bcji 1991
+ida-bcji 1991
+1299
+2
+bfgi-bcjj 1991
+fig-bcjj 1991
+1300
+4
+cbf-bdaa 1991
+eba-bdaa 1991
+edh-bdaa 1991
+gcj-bdaa 1991
+1301
+2
+bdib-bdab 1991
+iji-bdab 1991
+1302
+2
+cgb-bdac 1991
+gba-bdac 1991
+1303
+3
+ch-bdad 1991
+dja-bdad 1991
+jdi-bdad 1991
+1304
+2
+bahi-bdae 1991
+bbif-bdae 1991
+1305
+1
+ga-bdaf 1991
+1306
+1
+badg-bdag 1991
+1307
+3
+beeg-bdah 1991
+gcd-bdah 1991
+ibd-bdah 1991
+1308
+2
+baij-bdai 1991
+bajh-bdai 1991
+1309
+2
+hed-bdaj 1991
+je-bdaj 1991
+1310
+1
+bbch-bdba 1991
+1311
+1
+jeh-bdbb 1991
+1312
+1
+bcgf-bdbc 1991
+1313
+1
+cdg-bdbd 1991
+1314
+1
+hh-bdbe 1991
+1315
+1
+hf-bdbf 1991
+1316
+3
+bfii-bdbg 1991
+ddc-bdbg 1991
+hdj-bdbg 1991
+1317
+1
+jhg-bdbh 1991
+1318
+3
+bddc-bdbi 1991
+bfbc-bdbi 1991
+dbc-bdbi 1991
+1319
+4
+bbci-bdbj 1991
+dhe-bdbj 1991
+gid-bdbj 1991
+jfa-bdbj 1991
+1320
+1
+fej-bdca 1991
+1321
+2
+cii-bdcb 1991
+ibj-bdcb 1991
+1322
+3
+baj-bdcc 1991
+bdhf-bdcc 1991
+iig-bdcc 1991
+1323
+2
+bbcb-bdcd 1991
+bdgd-bdcd 1991
+1324
+1
+jfc-bdce 1991
+1325
+1
+faa-bdcf 1991
+1326
+1
+bce-bdcg 1991
+1327
+2
+cac-bdch 1991
+hgc-bdch 1991
+1328
+2
+ci-bdci 1991
+efh-bdci 1991
+1329
+2
+feb-bdcj 1991
+jjc-bdcj 1991
+1330
+2
+bebj-bdda 1991
+efh-bdda 1991
+1331
+1
+bbbg-bddb 1991
+1332
+1
+dee-bddc 1991
+1333
+2
+bcbf-bddd 1991
+daa-bddd 1991
+1334
+2
+bid-bdde 1991
+jif-bdde 1991
+1335
+3
+bbbg-bddf 1991
+bbcc-bddf 1991
+gig-bddf 1991
+1336
+2
+badj-bddg 1991
+dja-bddg 1991
+1337
+2
+bffa-bddh 1991
+ci-bddh 1991
+1338
+1
+fjg-bddi 1991
+1339
+3
+bbbe-bddj 1991
+bcaf-bddj 1991
+bj-bddj 1991
+1340
+1
+dc-bdea 1991
+1341
+2
+bdif-bdeb 1991
+jaf-bdeb 1991
+1342
+4
+bfaf-bdec 1991
+bfeg-bdec 1991
+cca-bdec 1991
+ida-bdec 1991
+1343
+2
+bbbi-bded 1991
+befd-bded 1991
+1344
+3
+bcie-bdee 1991
+cgc-bdee 1991
+gii-bdee 1991
+1345
+2
+bbeg-bdef 1991
+hbe-bdef 1991
+1346
+3
+bgfb-bdeg 1991
+hdh-bdeg 1991
+iai-bdeg 1991
+1347
+2
+cfc-bdeh 1991
+ecj-bdeh 1991
+1348
+1
+bccd-bdei 1991
+1349
+2
+bfaa-bdej 1991
+jag-bdej 1991
+1350
+3
+bje-bdfa 1991
+hdb-bdfa 1991
+jjf-bdfa 1991
+1351
+2
+icf-bdfb 1991
+ijg-bdfb 1991
+1352
+2
+bcea-bdfc 1991
+hdc-bdfc 1991
+1353
+2
+bec-bdfd 1991
+efb-bdfd 1991
+1354
+2
+bfeg-bdfe 1991
+gdf-bdfe 1991
+1355
+1
+jga-bdff 1991
+1356
+2
+bdic-bdfg 1991
+bib-bdfg 1991
+1357
+2
+bacc-bdfh 1991
+bege-bdfh 1991
+1358
+2
+becc-bdfi 1991
+jcf-bdfi 1991
+1359
+4
+bbjf-bdfj 1991
+cdf-bdfj 1991
+hae-bdfj 1991
+ij-bdfj 1991
+1360
+4
+bafa-bdga 1991
+begc-bdga 1991
+ehh-bdga 1991
+ihf-bdga 1991
+1361
+3
+bead-bdgb 1991
+fca-bdgb 1991
+hig-bdgb 1991
+1362
+2
+bcbd-bdgc 1991
+eba-bdgc 1991
+1363
+2
+gbc-bdgd 1991
+gga-bdgd 1991
+1364
+1
+baej-bdge 1991
+1365
+3
+bfbe-bdgf 1991
+fcc-bdgf 1991
+gdb-bdgf 1991
+1366
+1
+fbh-bdgg 1991
+1367
+3
+cjg-bdgh 1991
+eea-bdgh 1991
+ghj-bdgh 1991
+1368
+2
+bdj-bdgi 1991
+bdjb-bdgi 1991
+1369
+2
+bgdi-bdgj 1991
+hhh-bdgj 1991
+1370
+4
+bcjh-bdha 1991
+behi-bdha 1991
+daj-bdha 1991
+gfj-bdha 1991
+1371
+3
+becg-bdhb 1991
+haf-bdhb 1991
+hbh-bdhb 1991
+1372
+2
+bahg-bdhc 1991
+jei-bdhc 1991
+1373
+2
+bae-bdhd 1991
+bcbg-bdhd 1991
+1374
+4
+bagb-bdhe 1991
+baia-bdhe 1991
+ecc-bdhe 1991
+jjj-bdhe 1991
+1375
+2
+bcdh-bdhf 1991
+bfae-bdhf 1991
+1376
+1
+efd-bdhg 1991
+1377
+2
+bdfd-bdhh 1991
+eii-bdhh 1991
+1378
+3
+ccf-bdhi 1991
+hb-bdhi 1991
+ihe-bdhi 1991
+1379
+1
+iah-bdhj 1991
+1380
+2
+bgff-bdia 1991
+jgg-bdia 1991
+1381
+1
+bcfi-bdib 1991
+1382
+1
+hhg-bdic 1991
+1383
+1
+beh-bdid 1991
+1384
+1
+igc-bdie 1991
+1385
+2
+f-bdif 1991
+fgc-bdif 1991
+1386
+3
+bajc-bdig 1991
+bdge-bdig 1991
+fgf-bdig 1991
+1387
+2
+gee-bdih 1991
+ijf-bdih 1991
+1388
+2
+cch-bdii 1991
+fbg-bdii 1991
+1389
+1
+fbg-bdij 1991
+1390
+2
+bbhb-bdja 1991
+bdeb-bdja 1991
+1391
+1
+bchd-bdjb 1991
+1392
+2
+bfbb-bdjc 1991
+ifh-bdjc 1991
+1393
+1
+eca-bdjd 1991
+1394
+3
+bacj-bdje 1991
+bbjb-bdje 1991
+cge-bdje 1991
+1395
+1
+jig-bdjf 1991
+1396
+1
+bdef-bdjg 1991
+1397
+2
+baj-bdjh 1991
+bfdf-bdjh 1991
+1398
+2
+bej-bdji 1991
+egb-bdji 1991
+1399
+2
+bccf-bdjj 1991
+cb-bdjj 1991
+1400
+2
+bcfj-beaa 1991
+eeb-beaa 1991
+1401
+2
+baai-beab 1991
+bdde-beab 1991
+1402
+3
+cej-beac 1991
+cje-beac 1991
+jja-beac 1991
+1403
+2
+bafg-bead 1991
+bib-bead 1991
+1404
+1
+bdch-beae 1991
+1405
+1
+geb-beaf 1991
+1406
+1
+cci-beag 1991
+1407
+3
+bche-beah 1991
+bgfc-beah 1991
+jie-beah 1991
+1408
+1
+ida-beai 1991
+1409
+2
+bcea-beaj 1991
+dea-beaj 1991
+1410
+3
+bbcb-beba 1991
+bbf-beba 1991
+bfg-beba 1991
+1411
+1
+bgf-bebb 1991
+1412
+1
+bbah-bebc 1991
+1413
+2
+babc-bebd 1991
+bejj-bebd 1991
+1414
+1
+bccd-bebe 1991
+1415
+2
+bbfj-bebf 1991
+ghb-bebf 1991
+1416
+2
+bbbc-bebg 1991
+idj-bebg 1991
+1417
+2
+bbgc-bebh 1991
+dag-bebh 1991
+1418
+1
+fad-bebi 1991
+1419
+1
+bbec-bebj 1991
+1420
+2
+ddg-beca 1991
+jjf-beca 1991
+1421
+3
+bcg-becb 1991
+bfbj-becb 1991
+jed-becb 1991
+1422
+2
+bcc-becc 1991
+haf-becc 1991
+1423
+2
+bbii-becd 1991
+fba-becd 1991
+1424
+1
+fii-bece 1991
+1425
+2
+fed-becf 1991
+hce-becf 1991
+1426
+1
+bagi-becg 1991
+1427
+1
+dfj-bech 1991
+1428
+1
+bbgj-beci 1991
+1429
+2
+bdbi-becj 1991
+hec-becj 1991
+1430
+3
+bc-beda 1991
+bfhh-beda 1991
+cbd-beda 1991
+1431
+1
+bebd-bedb 1991
+1432
+2
+baic-bedc 1991
+bfaj-bedc 1991
+1433
+1
+ceg-bedd 1991
+1434
+2
+bbda-bede 1991
+hf-bede 1991
+1435
+2
+djf-bedf 1991
+ebh-bedf 1991
+1436
+4
+bbdc-bedg 1991
+ehj-bedg 1991
+gfg-bedg 1991
+jbg-bedg 1991
+1437
+3
+baha-bedh 1991
+bgai-bedh 1991
+che-bedh 1991
+1438
+2
+bfba-bedi 1991
+iib-bedi 1991
+1439
+1
+igd-bedj 1991
+1440
+1
+eii-beea 1991
+1441
+4
+bahj-beeb 1991
+bbee-beeb 1991
+bfjb-beeb 1991
+hcf-beeb 1991
+1442
+1
+jba-beec 1991
+1443
+4
+becd-beed 1991
+bfih-beed 1991
+dgj-beed 1991
+hfi-beed 1991
+1444
+2
+eff-beee 1991
+hhc-beee 1991
+1445
+2
+hhf-beef 1991
+icf-beef 1991
+1446
+3
+bdeb-beeg 1991
+befc-beeg 1991
+he-beeg 1991
+1447
+1
+bdgc-beeh 1991
+1448
+1
+bdcg-beei 1991
+1449
+2
+bfcc-beej 1991
+cge-beej 1991
+1450
+4
+cbc-befa 1991
+dba-befa 1991
+ebe-befa 1991
+jb-befa 1991
+1451
+1
+babd-befb 1991
+1452
+1
+bchf-befc 1991
+1453
+3
+chj-befd 1991
+dci-befd 1991
+iia-befd 1991
+1454
+1
+fif-befe 1991
+1455
+2
+fid-beff 1991
+hc-beff 1991
+1456
+1
+bah-befg 1991
+1457
+1
+heh-befh 1991
+1458
+1
+bahf-befi 1991
+1459
+1
+bdgc-befj 1991
+1460
+1
+gca-bega 1991
+1461
+1
+iie-begb 1991
+1462
+2
+bgad-begc 1991
+ghf-begc 1991
+1463
+1
+bdgi-begd 1991
+1464
+2
+babb-bege 1991
+bdci-bege 1991
+1465
+1
+dfc-begf 1991
+1466
+2
+bfai-begg 1991
+ifb-begg 1991
+1467
+1
+eac-begh 1991
+1468
+1
+cff-begi 1991
+1469
+2
+bbfb-begj 1991
+eef-begj 1991
+1470
+3
+bebd-beha 1991
+cji-beha 1991
+hcj-beha 1991
+1471
+2
+bfdh-behb 1991
+eeh-behb 1991
+1472
+1
+ifa-behc 1991
+1473
+1
+eda-behd 1991
+1474
+3
+baja-behe 1991
+bgaa-behe 1991
+ihd-behe 1991
+1475
+1
+hdf-behf 1991
+1476
+1
+iei-behg 1991
+1477
+1
+bcgg-behh 1991
+1478
+2
+bgde-behi 1991
+bjh-behi 1991
+1479
+3
+dbd-behj 1991
+dcd-behj 1991
+ihb-behj 1991
+1480
+1
+ffd-beia 1991
+1481
+1
+bdaj-beib 1991
+1482
+3
+bbb-beic 1991
+dg-beic 1991
+ec-beic 1991
+1483
+2
+bdje-beid 1991
+iai-beid 1991
+1484
+1
+cgc-beie 1991
+1485
+3
+cii-beif 1991
+gab-beif 1991
+hfb-beif 1991
+1486
+2
+baf-beig 1991
+bedd-beig 1991
+1487
+2
+dcc-beih 1991
+ijd-beih 1991
+1488
+1
+cbe-beii 1991
+1489
+3
+bah-beij 1991
+che-beij 1991
+dee-beij 1991
+1490
+1
+cid-beja 1991
+1491
+1
+bace-bejb 1991
+1492
+1
+bbhj-bejc 1991
+1493
+1
+badc-bejd 1991
+1494
+1
+baag-beje 1991
+1495
+1
+jhi-bejf 1991
+1496
+2
+bcag-bejg 1991
+cha-bejg 1991
+1497
+1
+bdaa-bejh 1991
+1498
+2
+dcf-beji 1991
+ifa-beji 1991
+1499
+1
+cdg-bejj 1991
+1500
+2
+bhf-bfaa 1991
+ccd-bfaa 1991
+1501
+1
+fbi-bfab 1991
+1502
+1
+gfc-bfac 1991
+1503
+1
+jhc-bfad 1991
+1504
+3
+bai-bfae 1991
+bfah-bfae 1991
+ecc-bfae 1991
+1505
+2
+bedh-bfaf 1991
+hbb-bfaf 1991
+1506
+2
+bdad-bfag 1991
+jai-bfag 1991
+1507
+1
+jbf-bfah 1991
+1508
+1
+bcaj-bfai 1991
+1509
+1
+bcjd-bfaj 1991
+1510
+1
+bdgg-bfba 1991
+1511
+1
+hda-bfbb 1991
+1512
+1
+ijd-bfbc 1991
+1513
+3
+bbjd-bfbd 1991
+dcg-bfbd 1991
+fia-bfbd 1991
+1514
+1
+behh-bfbe 1991
+1515
+2
+bdga-bfbf 1991
+efe-bfbf 1991
+1516
+1
+hih-bfbg 1991
+1517
+1
+f-bfbh 1991
+1518
+1
+jjc-bfbi 1991
+1519
+1
+beif-bfbj 1991
+1520
+1
+ghc-bfca 1991
+1521
+3
+bbba-bfcb 1991
+gaj-bfcb 1991
+gfa-bfcb 1991
+1522
+1
+gga-bfcc 1991
+1523
+3
+bcdc-bfcd 1991
+bdbj-bfcd 1991
+ggc-bfcd 1991
+1524
+1
+jh-bfce 1991
+1525
+1
+bca-bfcf 1991
+1526
+3
+bfgg-bfcg 1991
+bgdj-bfcg 1991
+cjc-bfcg 1991
+1527
+1
+bafe-bfch 1991
+1528
+1
+fjb-bfci 1991
+1529
+2
+dif-bfcj 1991
+gh-bfcj 1991
+1530
+2
+baai-bfda 1991
+bgce-bfda 1991
+1531
+1
+iih-bfdb 1991
+1532
+1
+bfbc-bfdc 1991
+1533
+1
+bcgh-bfdd 1991
+1534
+1
+jgf-bfde 1991
+1535
+1
+ddf-bfdf 1991
+1536
+1
+bdfi-bfdg 1991
+1537
+1
+bdec-bfdh 1991
+1538
+2
+fgc-bfdi 1991
+ihc-bfdi 1991
+1539
+2
+bddd-bfdj 1991
+dgg-bfdj 1991
+1540
+1
+jdg-bfea 1991
+1541
+1
+ggf-bfeb 1991
+1542
+2
+bdge-bfec 1991
+edg-bfec 1991
+1543
+2
+iea-bfed 1991
+iia-bfed 1991
+1544
+2
+dae-bfee 1991
+fhi-bfee 1991
+1545
+4
+bgaf-bfef 1991
+bgda-bfef 1991
+faa-bfef 1991
+ied-bfef 1991
+1546
+1
+dfb-bfeg 1991
+1547
+1
+fdc-bfeh 1991
+1548
+1
+cbf-bfei 1991
+1549
+1
+bdia-bfej 1991
+1550
+1
+iab-bffa 1991
+1551
+1
+bda-bffb 1991
+1552
+1
+iai-bffc 1991
+1553
+1
+egi-bffd 1991
+1554
+1
+jai-bffe 1991
+1555
+1
+becg-bfff 1991
+1556
+1
+gci-bffg 1991
+1557
+1
+ghi-bffh 1991
+1558
+1
+ed-bffi 1991
+1559
+1
+eda-bffj 1991
+1560
+2
+bfj-bfga 1991
+dcg-bfga 1991
+1561
+2
+bcfj-bfgb 1991
+beif-bfgb 1991
+1562
+1
+bdac-bfgc 1991
+1563
+1
+ihj-bfgd 1991
+1564
+1
+chj-bfge 1991
+1565
+2
+bgga-bfgf 1991
+eig-bfgf 1991
+1566
+1
+ec-bfgg 1991
+1567
+1
+bbie-bfgh 1991
+1568
+3
+bgee-bfgi 1991
+bgej-bfgi 1991
+fea-bfgi 1991
+1569
+1
+bdd-bfgj 1991
+1570
+1
+cga-bfha 1991
+1571
+1
+bhg-bfhb 1991
+1572
+1
+dgd-bfhc 1991
+1573
+1
+bdgb-bfhd 1991
+1574
+1
+bfi-bfhe 1991
+1575
+2
+ded-bfhf 1991
+jjj-bfhf 1991
+1576
+2
+bfhi-bfhg 1991
+ibi-bfhg 1991
+1577
+1
+ibh-bfhh 1991
+1578
+1
+ice-bfhi 1991
+1579
+2
+bejj-bfhj 1991
+gih-bfhj 1991
+1580
+1
+df-bfia 1991
+1581
+1
+bdca-bfib 1991
+1582
+2
+bgfg-bfic 1991
+igc-bfic 1991
+1583
+1
+hfa-bfid 1991
+1584
+1
+ceh-bfie 1991
+1585
+2
+caa-bfif 1991
+dfi-bfif 1991
+1586
+1
+bceb-bfig 1991
+1587
+1
+cif-bfih 1991
+1588
+2
+edc-bfii 1991
+hjg-bfii 1991
+1589
+1
+gih-bfij 1991
+1590
+1
+bie-bfja 1991
+1591
+1
+icj-bfjb 1991
+1592
+1
+bej-bfjc 1991
+1593
+1
+bajd-bfjd 1991
+1594
+1
+bfba-bfje 1991
+1595
+1
+cdg-bfjf 1991
+1596
+1
+bdej-bfjg 1991
+1597
+1
+bcga-bfjh 1991
+1598
+1
+bebd-bfji 1991
+1599
+1
+hhg-bfjj 1991
+1600
+1
+bcdd-bgaa 1991
+1601
+1
+fga-bgab 1991
+1602
+1
+babg-bgac 1991
+1603
+1
+bdba-bgad 1991
+1604
+1
+bajd-bgae 1991
+1605
+1
+beab-bgaf 1991
+1606
+1
+bed-bgag 1991
+1607
+1
+bdhi-bgah 1991
+1608
+1
+baji-bgai 1991
+1609
+1
+egb-bgaj 1991
+1610
+1
+ddd-bgba 1991
+1611
+1
+dib-bgbb 1991
+1612
+1
+bba-bgbc 1991
+1613
+2
+bfb-bgbd 1991
+bfje-bgbd 1991
+1614
+1
+bfhe-bgbe 1991
+1615
+1
+bbfa-bgbf 1991
+1616
+1
+dff-bgbg 1991
+1617
+2
+bgfh-bgbh 1991
+ece-bgbh 1991
+1618
+1
+bfjc-bgbi 1991
+1619
+1
+cbj-bgbj 1991
+1620
+1
+hjh-bgca 1991
+1621
+1
+icd-bgcb 1991
+1622
+2
+bdbe-bgcc 1991
+dga-bgcc 1991
+1623
+1
+djf-bgcd 1991
+1624
+1
+bacd-bgce 1991
+1625
+1
+cib-bgcf 1991
+1626
+1
+cba-bgcg 1991
+1627
+1
+cga-bgch 1991
+1628
+2
+bda-bgci 1991
+hje-bgci 1991
+1629
+1
+beeg-bgcj 1991
+1630
+1
+bcai-bgda 1991
+1631
+1
+jdd-bgdb 1991
+1632
+1
+gbb-bgdc 1991
+1633
+3
+bffd-bgdd 1991
+bhf-bgdd 1991
+ede-bgdd 1991
+1634
+1
+beic-bgde 1991
+1635
+1
+bbia-bgdf 1991
+1636
+1
+baf-bgdg 1991
+1637
+1
+hhh-bgdh 1991
+1638
+2
+bach-bgdi 1991
+jdi-bgdi 1991
+1639
+1
+jdb-bgdj 1991
+1640
+1
+bcia-bgea 1991
+1641
+1
+ega-bgeb 1991
+1642
+2
+bacg-bgec 1991
+djd-bgec 1991
+1643
+1
+behi-bged 1991
+1644
+1
+hjf-bgee 1991
+1645
+1
+fed-bgef 1991
+1646
+1
+baca-bgeg 1991
+1647
+1
+bece-bgeh 1991
+1648
+1
+bgca-bgei 1991
+1649
+1
+jej-bgej 1991
+1650
+1
+bddj-bgfa 1991
+1651
+1
+bhh-bgfb 1991
+1652
+1
+bfjg-bgfc 1991
+1653
+2
+ddb-bgfd 1991
+gif-bgfd 1991
+1654
+1
+bfcf-bgfe 1991
+1655
+1
+bcgh-bgff 1991
+1656
+1
+bce-bgfg 1991
+1657
+1
+bgbi-bgfh 1991
+1658
+1
+bie-bgfi 1991
+1659
+1
+eef-bgfj 1991
+1660
+1
+bdhi-bgga 1991
+1661
+1
+bdhg-bggb 1991

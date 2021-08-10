@@ -1,0 +1,3 @@
+isme pehle right child ko push krte h stack m then left because we need to ensure that left tree is traversed first.
+(ROOT->LEFT->RIGHT).
+
