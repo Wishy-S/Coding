@@ -36,11 +36,38 @@ int gcd(int a,int b){
 	return gcd(b,a%b);
 }
 void solve(){
-	int n,k;cin>>n>>k;
-	int ans = 0;
-	if(k == 0){
-		ans = 1;return ;
-	}
+	ll N;cin>>N;
+	//if u look at the problem carefully there is a pattern associated with output
+	//which is 1,1,3,1,3,5,7,1,3,5,7,9. . . 
+	//i.e., whenever (n is a power of 2) the series restarts and continues till next power of 2, 
+	//which implies for a given N we have to find the power of 2 which is less than N 
+	//after which simply find the indx for the series element by subtracting the N from the pow of 2 and 
+	//rth term of series is 2*r+1 so just put the calculated value in place r and get your answer 
+	//and as we only have to find the power of 2 less than N so the Time Complexity will be O(log2(n))
+	//and S.C -> O(1) as we are not using any variable space.
+
+	//here the solution begins
+
+  	long long p = 1;
+    if(N<3){
+    	cout<<"1\n";
+    	return ;
+    }
+    
+    while(p<N){
+        
+        p = p*2;
+   	 }
+    
+    if(!(N&(N-1))){
+    	cout<<"1\n";
+        return;
+    }else{
+        p/=2;//because of overflow from the above while loop which make p > n 
+    }
+
+    //(N-p) is the index for the series 1,3,5,7,9....
+    cout<<(2*(N-p)+1)<<endl;
 }
 int main()
 {	boost;
