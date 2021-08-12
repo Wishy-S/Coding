@@ -47,14 +47,15 @@ void solve(){
 	while(l<=r){
 		int m = l + (r-l)/2;
 		if(v[m]>t){
-			r = m;
-		}else{
+			r = m-1;
+		}else if(v[m]<t){
 			l = m+1;
+		}else{
+			cout<<m<<'\n';
+			return ;
 		}
 	}
-
-	cout<<l<<' '<<v[l]<<endl;
-	cout<<r<<' '<<v[r]<<endl;
+	cout<<"-1\n";
 }
 int main()
 {	boost;
