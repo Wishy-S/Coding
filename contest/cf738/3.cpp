@@ -37,58 +37,36 @@ int gcd(int a,int b){
 }
 
 
-void canReach(int s,map<int,int>&vis,vector<int>&res,vector<int>adj[]){
-	vis[s] = 1;
-	res.push_back(s);
-	for(int i:adj[s]){
-		if(!vis[i]){
-			canReach(i,vis,res,adj);
-		}
-	}
-}
+
 void solve(){
 	int n;cin>>n;
-	vector<int>v(n);
-	for(int &i:v)cin>>i;
-vector<int>adj[n+2];
-	for(int i = 1;i<=n-1;i++){
-		adj[i].push_back(i+1);
-	}
+	vector<int>v(n+1);
+	for(int i=1;i<=n;i++)cin>>v[i];
 
-	for(int i = 1;i<=n;i++){
-		if(v[i-1]==0){
-			adj[i].push_back(n+1);
-		}
-		else{
-			adj[n+1].push_back(i);
-		}
-	}
-	for(int i = 1;i<=n+1;i++){
-		map<int,int>vis;
-		vector<int>res;
-		bool ok = 1;
-		canReach(i,vis,res,adj);
-		for(int i = 1;i<=n+1;i++){
-			if(vis[i]==0){
-				ok = 0;
-				break;
+		bool ok = 0;
+	for(int i = n;i>=1;i--){
+		
+		if(v[i]==0){
+			ok = 1;
+			for(int j = 1;j<=i;j++){
+				cout<<j<<' ';
 			}
+			cout<<n+1<<' ';
+			if(i<n)
+			for(int j = i+1;j<=n;j++){
+				cout<<j<<' ';
+			}
+			cout<<'\n';
+			break;
+		}}
+		if(!ok){
+			cout<<n+1<<' ';
+			for(int i=1;i<=n;i++){
+				cout<<i<<' ';
+			}
+			cout<<'\n';
 		}
-		if(ok){
-			for(int i:res)cout<<i<<' ';
-			cout<<endl;
-			return ;
-		}
-	}
-	// 	for(int i = 1;i<=n+1;i++){
-	// 	cout<<i<<": ";
-	// 	for(int j : adj[i]){
-	// 		cout<<j<<' ';
-	// 	}
-	// 	cout<<endl;
-	// }
-
-	cout<<"-1\n";
+	
 
 }
 int main()
