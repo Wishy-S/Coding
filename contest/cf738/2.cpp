@@ -47,13 +47,12 @@ void solve(){
 		return ;
 	}
 
-	int i = 1;
-	int jr = i+1;
-	int jl = i-1;
-		
+	int i = 0,jr,jl;
+
+
 	while(i<n){
 
-		if((s[i]!='?') and ((i-1>=0 and s[i-1]=='?') or (i+1<n and s[i+1]=='?'))){
+		if((s[i]!='?') and ((s[i-1]=='?') or (s[i+1]=='?')) ){
 			jr = i+1;
 			jl = i-1;
 			int sign = s[i]=='B'?0:1;
@@ -70,11 +69,19 @@ void solve(){
 				--jl;
 			}
 		}
-		// i = jr;
 
 		++i;
 	}
-	
+	if(s[0]=='?'){
+		int i = 0;
+		int sign = 1;
+		while(i<n){
+			s[i] = sign&1?'B':'R';
+			sign = 1-sign;
+			++i;
+		}
+	}
+
 	cout<<s<<endl;
 }
 int main()
