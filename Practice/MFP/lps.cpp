@@ -55,6 +55,7 @@ int tabulation_lps(string s){
     }
 
 //tabulation space complexity modified using 1-D array instead of 2-D 
+//TC: O(n^2)
 int tabulation_lps_modified(string &s){
     int n = s.length();
     int L[n];
