@@ -75,7 +75,7 @@ int tabulation_lps_modified(string &s){
     }
     return L[n-1];
 }
-//without memo
+//without memo TC: O(2^n) where 'n' is string length
 int lps_without_memo(string &seq, int i, int j)
 {
 // Base Case 1: If there is only 1 character
