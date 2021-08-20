@@ -7,34 +7,6 @@ using namespace std;
 #define s second
 #define vt vector
 #define boost ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);  
-const ll mod = 1e9+7;
-const int d4i[4]={-1, 0, 1, 0}, d4j[4]={0, 1, 0, -1};
-const int d8i[8]={-1, -1, 0, 1, 1, 1, 0, -1}, d8j[8]={0, 1, 1, 1, 0, -1, -1, -1};
-ll power(ll x,unsigned ll y,ll p){
-	 ll res = 1;     // Initialize result
- 
-    x = x % p; // Update x if it is more than or
-                // equal to p
-  
-    if (x == 0) return 0; // In case x is divisible by p;
- 
-    while (y > 0)
-    {
-        // If y is odd, multiply x with result
-        if (y & 1)
-            res = (res*x) % p;
- 
-        // y must be even now
-        y = y>>1; // y = y/2
-        x = (x*x) % p;
-    }
-    return res;
-}
-int gcd(int a,int b){
-	if(b==0)return a;
-	
-	return gcd(b,a%b);
-}
 //longest pallindromic subsequence
 //state: L(i,j) -> longest pallindromic subsequence in the string starting from i and ending at j;
 //
@@ -81,6 +53,28 @@ int tabulation_lps(string s){
         
         return L[0][n-1];
     }
+
+//tabulation space complexity modified using 1-D array instead of 2-D 
+int tabulation_lps_modified(string &s){
+    int n = s.length();
+    int L[n];
+    for(int i = n-1;i>=0;i--){
+        int b = 0;
+        for(int j = i ;j<n;j++){
+            if(j==i){
+                L[i] = 1;
+            }else if(s[i]==s[j]){
+                int t = L[j];
+                L[j] = b+2;
+                b = t;
+            }else{
+                b = L[j];
+                L[j] = max(L[j-1],L[j]);
+            }
+        }
+    }
+    return L[n-1];
+}
 //without memo
 int lps_without_memo(string &seq, int i, int j)
 {
@@ -104,7 +98,9 @@ void solve(){
 	string s;cin>>s;
 	memset(memo,-1,sizeof(memo));
 	int n = s.length();
-	cout<<lps_without_memo(s,0,n-1)<<endl;
+	// cout<<lps_without_memo(s,0,n-1)<<endl;
+	cout<<tabulation_lps_modified(s)<<endl;
+	// cout<<n<<endl;
 }
 int main()
 {	boost;
