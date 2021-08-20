@@ -96,6 +96,7 @@ return max( lps_without_memo(seq, i, j-1), lps_without_memo(seq, i+1, j) );
 }
 void solve(){
 	string s;cin>>s;
+	
 	memset(memo,-1,sizeof(memo));
 	int n = s.length();
 	// cout<<lps_without_memo(s,0,n-1)<<endl;
