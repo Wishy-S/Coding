@@ -13,7 +13,7 @@ void Bubble_Sort(vector<int>&a){
 			if(a[j]<a[j-1])
 				swap(a[j],a[j-1]);
 			}
-	}	
+	}
 }
 void Selection_Sort(vector<int>&a){
 	//partition the array in to 2 parts one is the sorted and the other is unsorted
