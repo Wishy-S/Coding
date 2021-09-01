@@ -45,6 +45,7 @@ void Insertion_Sort(vector<int>&a){
 	int n = a.size();
 	for(int i = 1;i<n;i++){
 		int j = i-1;
+		//here key is the element to be placed at its correct place
 		int key = a[i];
 		while(j >= 0 and a[j]>key){
 			a[j+1] = a[j];
@@ -56,7 +57,9 @@ void Insertion_Sort(vector<int>&a){
 int main(){
 	vector<int>v;
 	int x;
+
 	while(cin>>x){v.push_back(x);}
+
 	cout<<"Before sorting : ";
 	for(int i:v)cout<<i<<' ';
 	cout<<"\n";
