@@ -29,23 +29,23 @@ ll sum(ll k){
 	ll s = 0;
 	while(k>=1){
 		s+=tree[k];
-		k-=k&-k;
-		}
+		k -= (k&-k);
+	}
 	return s;
 }
 //update function 
 void update(ll k, ll x,ll n){
 	while(k<=n){
 		tree[k]+=x;
-		k+=k&-k;
+		k+=(k&-k);
 	}
 }
 
 void solve(){
-	ll n ;cin>>n;
+	ll n,q ;cin>>n>>q;
 	//1-indexing 
 	
-	vector<ll>v(n+1,0);
+	vector<ll>v(n+1);
 	
 	for(ll i = 1;i<=n;i++)cin>>v[i];
 	
@@ -59,20 +59,20 @@ void solve(){
 	//for(ll i = 1;i<=n;i++)cout<<tree[i]<<' ';
 		
 	//cout<<'\n';
-	int q;cin>>q;
-	while(q--){
-		char t;
+	while(q-->0){
+		int t;
 		ll L,R;cin>>t;
 		
 		//sum query
-		if(t=='q'){
+		if(t==1){
 			cin>>L>>R;
-			cout<<sum(R)-sum(L-1)<<'\n';
+			// cout<<sum(L)<<' '<<sum(R)<<endl;
+			cout<<sum(R)-sum(L)<<'\n';
 		}
 		//update query
 		else{
-			ll x,k;cin>>k>>x;
-			update(k,x,n);			
+			ll x,p;cin>>p>>x;
+			update(p+1,x,n);		
 			}	
 	}
 }

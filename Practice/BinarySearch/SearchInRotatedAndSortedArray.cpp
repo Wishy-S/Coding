@@ -77,7 +77,7 @@ void solve(){
 	int q;cin>>q;
 	while(q-->0){
 		int k;cin>>k;
-		cout<<search(v,n,k)<<'\n';
+		cout<<search(v,n,k)<<'';
 	}
 
 }

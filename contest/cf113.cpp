@@ -8,43 +8,35 @@ using namespace std;
 #define vt vector
 #define boost ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);  
 const ll mod = 1e9+7;
+const int d4i[4]={-1, 0, 1, 0}, d4j[4]={0, 1, 0, -1};
+const int d8i[8]={-1, -1, 0, 1, 1, 1, 0, -1}, d8j[8]={0, 1, 1, 1, 0, -1, -1, -1};
+ll power(ll x,unsigned ll y,ll p){
+	 ll res = 1;     // Initialize result
+ 
+    x = x % p; // Update x if it is more than or
+                // equal to p
+  
+    if (x == 0) return 0; // In case x is divisible by p;
+ 
+    while (y > 0)
+    {
+        // If y is odd, multiply x with result
+        if (y & 1)
+            res = (res*x) % p;
+ 
+        // y must be even now
+        y = y>>1; // y = y/2
+        x = (x*x) % p;
+    }
+    return res;
+}
 int gcd(int a,int b){
 	if(b==0)return a;
 	
 	return gcd(b,a%b);
 }
-vector<int>parent(200001,-1);
-void make_set(int v){
-	parent[v] = v;
-}
-int find_set(int v) {
-    if (v == parent[v])
-        return v;
-    return parent[v] = find_set(parent[v]);
-}
-void union_sets(int a, int b) {
-    a = find_set(a);
-    b = find_set(b);
-    if (a != b)
-        parent[b] = a;
-}
 void solve(){
-	 int n,q;cin>>n>>q;
-	 for(int i = 0;i<=n;i++){
-	 	make_set(i);
-	 }
-	 for(int i = 0; i<q;i++){
-	 	int t,u,v;cin>>t>>u>>v;
-	 	if(t==0){
-	 		union_sets(u,v);
-	 	}else{
-	 		if(find_set(u)==find_set(v)){
-	 			cout<<"1\n";
-	 		}else{
-	 			cout<<"0\n";
-	 		}
-	 	}
-	 }
+	
 }
 int main()
 {	boost;
@@ -52,7 +44,7 @@ int main()
 	cin.tie(0);
 	int t;
 	t = 1;
-	// cin>>t;
+	cin>>t;
 	//cin>>t>>n>>q;
 	//clock_t clk = clock();
 	for(int i = 0;i<t;i++){

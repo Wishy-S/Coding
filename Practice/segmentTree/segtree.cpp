@@ -13,14 +13,14 @@ int gcd(int a,int b){
 	
 	return gcd(b,a%b);
 }
-const int mxn = 1e6;
+const ll mxn = 500001;
 ll tree[mxn+1];
 void build(vector<ll>v){
 	//n needs to be power of 2 if not then make it . by appending the elements
 	ll n = v.size();
 	ll indx = 2*n-1;
 	//first copied all the values from the array to leaves
-	for(int j = n-1;j>=0;j--,indx--){
+	for(ll j = n-1;j>=0;j--,indx--){
 		tree[indx]=v[j];
 		}
 		
@@ -50,7 +50,7 @@ void update(ll k,ll x,ll n){
 		}
 }
 void solve(){
-	ll n;cin>>n;
+	ll n,q;cin>>n>>q;
 	vt<ll>v(n);
 	for(ll &i:v)cin>>i;
 	
@@ -66,22 +66,21 @@ void solve(){
 	//for(ll i = 1;i<2*n;i++)cout<<tree[i]<<' ';
 	
 	//cout<<'\n';
-	int q;cin>>q;
-	while(q--){
-		char t;
+	while(q-->0){
+		int t;
 		ll L,R;cin>>t;
 		
 		//sum query
-		if(t=='q'){
+		if(t==1){
 			cin>>L>>R;
-			--L,--R;
-			cout<<sum(L,R,n)<<'\n';
+			// --R;
+			cout<<sum(L,R-1,n)<<'\n';
 		}
 		//update query
 		else{
-			ll x,k;cin>>k>>x;
-			--k;
-			update(k,x,n);			
+			ll x,p;cin>>p>>x;
+			
+			update(p,x,n);			
 			}	
 	}
 	
