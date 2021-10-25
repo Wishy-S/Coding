@@ -10,6 +10,24 @@ using namespace std;
 const ll mod = 1e9+7;
 const int d4i[4]={-1, 0, 1, 0}, d4j[4]={0, 1, 0, -1};
 const int d8i[8]={-1, -1, 0, 1, 1, 1, 0, -1}, d8j[8]={0, 1, 1, 1, 0, -1, -1, -1};
+
+const int mxn = 1e7;
+
+bool primes[mxn+1];
+void sieve(){
+	memset(primes,true,sizeof(primes));
+	primes[1] = false;
+	//first check all the nos. less than sqrt(LimitUpToWhichPrimesToBeCalculated)
+	for(int i = 2;i*i<=mxn ;i++){
+		
+		if(primes[i]){
+			for(int j = i*i;j<=mxn;j+=i)
+				primes[j] = false;
+			}	
+	}
+	
+}
+
 ll power(ll x,unsigned ll y,ll p){
 	 ll res = 1;     // Initialize result
  
@@ -59,8 +77,9 @@ int main()
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 	int t;
+	
 	t = 1;
-	// cin>>t;
+	cin>>t;
 	//cin>>t>>n>>q;
 	//clock_t clk = clock();
 	for(int i = 0;i<t;i++){
