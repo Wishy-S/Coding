@@ -54,23 +54,11 @@ int gcd(int a,int b){
 	return gcd(b,a%b);
 }
 void solve(){
-	int n,m;cin>>n>>m;
-	map<double,int>slope;
-	for(int i = 0 ;i<m;i++){
-		int a,b;cin>>a>>b;
-		if(a==b){
-			slope[INT_MAX]++;
-		}else{
-			double sl = (double)1/(double)(b-a);
-			slope[sl]++;
-		}
+	cout<<"60\n";
+	for(int i = 1;i<=60;i++){
+		cout<<i<<'\n';
 	}
-	int ans = 0;
-	for(auto i:slope){
-		
-		ans = max(ans,i.second);
-	}
-	cout<<ans<<endl;
+	
 }
 int main()
 {	boost;
@@ -79,7 +67,7 @@ int main()
 	int t;
 	
 	t = 1;
-	cin>>t;
+	// cin>>t;
 	//cin>>t>>n>>q;
 	//clock_t clk = clock();
 	for(int i = 0;i<t;i++){

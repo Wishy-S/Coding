@@ -5,6 +5,7 @@ using namespace std;
 #define pii pair<int,int>
 #define f first
 #define s second
+#define fastio ios_base::sync_with_stdio(false); cin.tie(NULL);   
 const int mod = 1e9+7;
 bool comp(pair<ll,ll>&a,pair<ll,ll>&b){return a.first-a.second >= b.first-b.second;}
 const int mxn = 1e7;
@@ -47,40 +48,34 @@ ll result=1;
 return result;
 
 }
-void solve(){
-    int n ;cin>>n;string s;cin>>s;
-    int ans = INT_MAX;
-    for(char c = 'a';c<='z';c++){
-        int l = 0 , r = n-1,cans = 0;
-        while(l<=r){
-            if(s[l] == s[r]){
-                ++l;--r;
-            }else {
-                if(s[l] == c){
-                    ++l;
-                    cans++;
-                }else if(s[r] == c){
-                    --r;
-                    cans++;
-                }else{
-                    cans = INT_MAX;break;
-                }
-            }
-            if(cans == INT_MAX){
-                break;
-            }
-
-        }
-        ans = min(ans,cans);
+ll cal(vector<ll>&a){
+    ll res = a[0];
+    for(ll i:a){
+        res = __gcd(res,i);
     }
-    if(ans == INT_MAX){
-        cout<<"-1\n";
-    }else{
-        cout<<ans<<'\n';
-    }
+    return res;
 }
+void solve(){
+    int n;cin>>n;vector<ll>v(n);for(ll &i:v)cin>>i;
+
+    ll ans = 0;
+    for(int i = 0;i<n;i++){
+        for(int j = i+1;j<n;j++){
+            ll a = v[i],b = v[j];
+            ll mul = a*b;
+            v[i] = v[j] = mul;
+            ans = max(ans,cal(v));
+            v[i] = a,v[j] = b;
+        }
+    }
+    cout<<ans<<endl;
+}
+
+
 int main(){
     ll t;
+    fastio;
+    // sieve();
     t = 1;
     cin>>t;
     
