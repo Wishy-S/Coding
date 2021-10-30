@@ -5,7 +5,6 @@ using namespace std;
 #define pii pair<int,int>
 #define f first
 #define s second
-#define fastio ios_base::sync_with_stdio(false); cin.tie(NULL);   
 const int mod = 1e9+7;
 bool comp(pair<ll,ll>&a,pair<ll,ll>&b){return a.first-a.second >= b.first-b.second;}
 const int mxn = 1e7;
@@ -48,34 +47,76 @@ ll result=1;
 return result;
 
 }
-ll cal(vector<ll>&a){
-    ll res = a[0];
-    for(ll i:a){
-        res = __gcd(res,i);
+ll sumofFactors(ll n)
+{
+    // Traversing through all prime factors.
+    ll res = 1, N = n;
+    for (int i = 2; i <= sqrt(n); i++)
+    {
+ 
+         
+        ll curr_sum = 1;
+        ll curr_term = 1;
+        while (n % i == 0) {
+ 
+            // THE BELOW STATEMENT MAKES
+            // IT BETTER THAN ABOVE METHOD
+            //  AS WE REDUCE VALUE OF n.
+            n = n / i;
+ 
+            curr_term *= i;
+            curr_sum += curr_term;
+        }
+ 
+        res *= curr_sum;
     }
+ 
+    // This condition is to handle
+    // the case when n is a prime
+    // number greater than 2.
+    if (n >= 2)
+        res *= (1+n);
+ 
+    return res-N;
+}
+ll mySumOfFactors(ll n){
+    ll res = 1;
+
+    for(ll i = 2;i*i<=n;i++){
+        ll cur = 1,tmp = 1;
+        // cout<<i<<' ';
+        while(n%i==0){
+            n/=i;
+            cur*=i;
+
+            // cout<<cur<<' ';
+
+            tmp+=cur;
+        }
+        cout<<'\n';
+        // cout<<tmp<<' ';
+        res*=tmp;
+    }
+
+    // cout<<endl;
+
+    if(n>=2){
+        // it is like p1^0 + p1^1 where  p1 is the remaining prime which is >= 2 and still remaining 
+        res*=(n+1);
+    }
+
     return res;
 }
 void solve(){
-    int n;cin>>n;vector<ll>v(n);for(ll &i:v)cin>>i;
-
-    ll ans = 0;
-    for(int i = 0;i<n;i++){
-        for(int j = i+1;j<n;j++){
-            ll a = v[i],b = v[j];
-            ll mul = a*b;
-            v[i] = v[j] = mul;
-            ans = max(ans,cal(v));
-            v[i] = a,v[j] = b;
-        }
-    }
-    cout<<ans<<endl;
+    ll n;cin>>n;
+    cout<<mySumOfFactors(n)-n<<endl;
 }
 
 
 int main(){
     ll t;
-    fastio;
     // sieve();
+    
     t = 1;
     cin>>t;
     

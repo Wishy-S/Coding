@@ -1,0 +1,1 @@
+pow() inbuilt method of cpp doesn't allow you to do 10^9 it basically overflows so you need to convert that to upcast that using (long long) and then use its value else results will be hazardous.
