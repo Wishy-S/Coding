@@ -107,9 +107,17 @@ ll mySumOfFactors(ll n){
 
     return res;
 }
+
 void solve(){
-    ll n;cin>>n;
-    cout<<mySumOfFactors(n)-n<<endl;
+    ll x,y;cin>>x>>y;
+    ll num1 = x*y+x,num2 = x*y+y;
+    cout<<num1<<' '<<num2<<endl; 
+    if((num1%x) == (y%num1)){
+        cout<<num1<<'\n';return;
+    }
+    if((num2%x) == (y%num2)){
+        cout<<num2<<'\n';return;
+    }
 }
 
 
